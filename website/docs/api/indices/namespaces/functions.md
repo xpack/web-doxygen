@@ -20,7 +20,7 @@ keywords:
 ## - A -
 
 <ul>
-<li><b>addUnicodeEscapes()</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#a1a036cc8724eb4d83f741e24a5050d73">parser</a></li>
+<li><b>addUnicodeEscapes()</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#a1a036cc8724eb4d83f741e24a5050d73">vhdl::parser</a></li>
 </ul>
 
 ## - C -

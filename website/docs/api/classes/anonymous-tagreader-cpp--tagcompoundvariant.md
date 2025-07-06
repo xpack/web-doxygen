@@ -541,7 +541,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagCompoundVariant::VariantT =  std::variant&lt; std::monostate,      
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagCompoundVariant::VariantT =  std::variant&lt; std::monostate,      
                                    TagClassInfoPtr,     
                                    TagConceptInfoPtr,   
                                    TagNamespaceInfoPtr, 
@@ -588,7 +588,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">enum class anonymous_namespace{tagreader.cpp}::TagCompoundVariant::Type : uint8_t</td>
+<td class="doxyMemberName">enum class anonymous{tagreader.cpp}::TagCompoundVariant::Type : uint8_t</td>
 </tr>
 </table>
 </td>
@@ -700,7 +700,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant ()</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant ()</td>
 </tr>
 </table>
 </td>
@@ -740,7 +740,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant (<a href="#a180b3bf02446b2249b46c69eb8dd62ff">VariantT</a> &amp;&amp; v)</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant (<a href="#a180b3bf02446b2249b46c69eb8dd62ff">VariantT</a> &amp;&amp; v)</td>
 </tr>
 </table>
 </td>
@@ -781,7 +781,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant (const <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;)</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant (const <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;)</td>
 </tr>
 </table>
 </td>
@@ -814,7 +814,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant (<a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;&amp;)</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagCompoundVariant::TagCompoundVariant (<a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;&amp;)</td>
 </tr>
 </table>
 </td>
@@ -853,7 +853,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagCompoundVariant::~TagCompoundVariant ()</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagCompoundVariant::~TagCompoundVariant ()</td>
 </tr>
 </table>
 </td>
@@ -889,7 +889,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagCompoundVariant &amp; anonymous_namespace{tagreader.cpp}::TagCompoundVariant::operator= (const <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;)</td>
+<td class="doxyMemberName">TagCompoundVariant &amp; anonymous{tagreader.cpp}::TagCompoundVariant::operator= (const <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;)</td>
 </tr>
 </table>
 </td>
@@ -922,7 +922,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagCompoundVariant &amp; anonymous_namespace{tagreader.cpp}::TagCompoundVariant::operator= (<a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;&amp;)</td>
+<td class="doxyMemberName">TagCompoundVariant &amp; anonymous{tagreader.cpp}::TagCompoundVariant::operator= (<a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">TagCompoundVariant</a> &amp;&amp;)</td>
 </tr>
 </table>
 </td>
@@ -962,7 +962,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">R * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::get ()</td>
+<td class="doxyMemberName">R * anonymous{tagreader.cpp}::TagCompoundVariant::get ()</td>
 </tr>
 </table>
 </td>
@@ -1010,7 +1010,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const R * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::get ()</td>
+<td class="doxyMemberName">const R * anonymous{tagreader.cpp}::TagCompoundVariant::get ()</td>
 </tr>
 </table>
 </td>
@@ -1054,7 +1054,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagCompoundInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getCompoundInfo ()</td>
+<td class="doxyMemberName">TagCompoundInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getCompoundInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1110,7 +1110,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">Type anonymous_namespace{tagreader.cpp}::TagCompoundVariant::type ()</td>
+<td class="doxyMemberName">Type anonymous{tagreader.cpp}::TagCompoundVariant::type ()</td>
 </tr>
 </table>
 </td>
@@ -1162,7 +1162,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">VariantT anonymous_namespace{tagreader.cpp}::TagCompoundVariant::m_variant</td>
+<td class="doxyMemberName">VariantT anonymous{tagreader.cpp}::TagCompoundVariant::m_variant</td>
 </tr>
 </table>
 </td>
@@ -1204,7 +1204,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagCompoundVariant anonymous_namespace{tagreader.cpp}::TagCompoundVariant::make (Args &amp;&amp;... args)</td>
+<td class="doxyMemberName">TagCompoundVariant anonymous{tagreader.cpp}::TagCompoundVariant::make (Args &amp;&amp;... args)</td>
 </tr>
 </table>
 </td>
@@ -1254,7 +1254,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagClassInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getClassInfo ()</td>
+<td class="doxyMemberName">TagClassInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getClassInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1297,7 +1297,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagClassInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getClassInfo ()</td>
+<td class="doxyMemberName">const TagClassInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getClassInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1337,7 +1337,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagConceptInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getConceptInfo ()</td>
+<td class="doxyMemberName">TagConceptInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getConceptInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1380,7 +1380,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagConceptInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getConceptInfo ()</td>
+<td class="doxyMemberName">const TagConceptInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getConceptInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1420,7 +1420,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagDirInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getDirInfo ()</td>
+<td class="doxyMemberName">TagDirInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getDirInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1463,7 +1463,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagDirInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getDirInfo ()</td>
+<td class="doxyMemberName">const TagDirInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getDirInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1503,7 +1503,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagFileInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getFileInfo ()</td>
+<td class="doxyMemberName">TagFileInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getFileInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1546,7 +1546,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagFileInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getFileInfo ()</td>
+<td class="doxyMemberName">const TagFileInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getFileInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1586,7 +1586,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagGroupInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getGroupInfo ()</td>
+<td class="doxyMemberName">TagGroupInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getGroupInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1629,7 +1629,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagGroupInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getGroupInfo ()</td>
+<td class="doxyMemberName">const TagGroupInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getGroupInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1669,7 +1669,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagModuleInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getModuleInfo ()</td>
+<td class="doxyMemberName">TagModuleInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getModuleInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1712,7 +1712,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagModuleInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getModuleInfo ()</td>
+<td class="doxyMemberName">const TagModuleInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getModuleInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1752,7 +1752,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagNamespaceInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getNamespaceInfo ()</td>
+<td class="doxyMemberName">TagNamespaceInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getNamespaceInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1795,7 +1795,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagNamespaceInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getNamespaceInfo ()</td>
+<td class="doxyMemberName">const TagNamespaceInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getNamespaceInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1835,7 +1835,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagPackageInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getPackageInfo ()</td>
+<td class="doxyMemberName">TagPackageInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getPackageInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1878,7 +1878,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagPackageInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getPackageInfo ()</td>
+<td class="doxyMemberName">const TagPackageInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getPackageInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1918,7 +1918,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagPageInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getPageInfo ()</td>
+<td class="doxyMemberName">TagPageInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getPageInfo ()</td>
 </tr>
 </table>
 </td>
@@ -1961,7 +1961,7 @@ class anonymous{tagreader.cpp}::TagCompoundVariant { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagPageInfo * anonymous_namespace{tagreader.cpp}::TagCompoundVariant::getPageInfo ()</td>
+<td class="doxyMemberName">const TagPageInfo * anonymous{tagreader.cpp}::TagCompoundVariant::getPageInfo ()</td>
 </tr>
 </table>
 </td>

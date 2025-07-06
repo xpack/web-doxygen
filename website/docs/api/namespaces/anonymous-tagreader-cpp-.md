@@ -22,7 +22,7 @@ keywords:
 ## Definition
 
 <div class="doxyDefinition">
-namespace { ... }
+namespace anonymous{tagreader.cpp} { ... }
 </div>
 
 ## Classes Index
@@ -482,7 +482,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagClassInfoPtr =  std::unique_ptr&lt;TagClassInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagClassInfoPtr =  std::unique_ptr&lt;TagClassInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -514,7 +514,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagConceptInfoPtr =  std::unique_ptr&lt;TagConceptInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagConceptInfoPtr =  std::unique_ptr&lt;TagConceptInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -546,7 +546,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagDirInfoPtr =  std::unique_ptr&lt;TagDirInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagDirInfoPtr =  std::unique_ptr&lt;TagDirInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -578,7 +578,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagFileInfoPtr =  std::unique_ptr&lt;TagFileInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagFileInfoPtr =  std::unique_ptr&lt;TagFileInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -610,7 +610,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagGroupInfoPtr =  std::unique_ptr&lt;TagGroupInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagGroupInfoPtr =  std::unique_ptr&lt;TagGroupInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -642,7 +642,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagModuleInfoPtr =  std::unique_ptr&lt;TagModuleInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagModuleInfoPtr =  std::unique_ptr&lt;TagModuleInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -674,7 +674,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagNamespaceInfoPtr =  std::unique_ptr&lt;TagNamespaceInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagNamespaceInfoPtr =  std::unique_ptr&lt;TagNamespaceInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -706,7 +706,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagPackageInfoPtr =  std::unique_ptr&lt;TagPackageInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagPackageInfoPtr =  std::unique_ptr&lt;TagPackageInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -738,7 +738,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::TagPageInfoPtr =  std::unique_ptr&lt;TagPageInfo&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::TagPageInfoPtr =  std::unique_ptr&lt;TagPageInfo&gt;</td>
 </tr>
 </table>
 </td>
@@ -776,7 +776,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">ElementCallbacks::EndCallback anonymous_namespace{tagreader.cpp}::endCb (void(TagFileParser::*)() fn)</td>
+<td class="doxyMemberName">ElementCallbacks::EndCallback anonymous{tagreader.cpp}::endCb (void(TagFileParser::*)() fn)</td>
 </tr>
 </table>
 </td>
@@ -811,7 +811,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">ElementCallbacks::StartCallback anonymous_namespace{tagreader.cpp}::startCb (void(TagFileParser::*)(const <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a15cedeea046e36465580e5654121387e">XMLHandlers::Attributes</a> &amp;) fn)</td>
+<td class="doxyMemberName">ElementCallbacks::StartCallback anonymous{tagreader.cpp}::startCb (void(TagFileParser::*)(const <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a15cedeea046e36465580e5654121387e">XMLHandlers::Attributes</a> &amp;) fn)</td>
 </tr>
 </table>
 </td>
@@ -852,7 +852,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const std::map&lt; std::string, CompoundFactory &gt; anonymous_namespace{tagreader.cpp}::g_compoundFactory</td>
+<td class="doxyMemberName">const std::map&lt; std::string, CompoundFactory &gt; anonymous{tagreader.cpp}::g_compoundFactory</td>
 </tr>
 </table>
 </td>
@@ -927,7 +927,7 @@ namespace { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous_namespace{tagreader.cpp}::TagFileParser::startCompound</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous{tagreader.cpp}::TagFileParser::startCompound</a>.</p>
 
 </div>
 </div>
@@ -941,7 +941,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const std::map&lt; std::string, ElementCallbacks &gt; anonymous_namespace{tagreader.cpp}::g_elementHandlers</td>
+<td class="doxyMemberName">const std::map&lt; std::string, ElementCallbacks &gt; anonymous{tagreader.cpp}::g_elementHandlers</td>
 </tr>
 </table>
 </td>
@@ -1032,7 +1032,7 @@ namespace { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a3e01aed32d5dbf43b922e4152b65b54f">anonymous_namespace{tagreader.cpp}::TagFileParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a487b3d40047a75c0612f66ab78f61d96">anonymous_namespace{tagreader.cpp}::TagFileParser::startElement</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a3e01aed32d5dbf43b922e4152b65b54f">anonymous{tagreader.cpp}::TagFileParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a487b3d40047a75c0612f66ab78f61d96">anonymous{tagreader.cpp}::TagFileParser::startElement</a>.</p>
 
 </div>
 </div>

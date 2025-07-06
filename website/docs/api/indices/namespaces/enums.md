@@ -36,7 +36,7 @@ keywords:
 ## - L -
 
 <ul>
-<li><b>LexerErrors</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263">parser</a></li>
+<li><b>LexerErrors</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263">vhdl::parser</a></li>
 </ul>
 <br/>
 <p>Total: 6 entries.</p>

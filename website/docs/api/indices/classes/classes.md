@@ -336,7 +336,7 @@ keywords:
 ## - H -
 
 <ul>
-<li><b>has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</b>: struct <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></li>
+<li><b>has_method_children&lt;...&gt;</b>: struct <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></li>
 <li><b>has_method_children&lt;T, typename&gt;</b>: struct <a href="/web-doxygen/docs/api/structs/details/has-method-children">details::has_method_children&lt;T, typename&gt;</a></li>
 <li><b>HeaderInfo</b>: struct <a href="/web-doxygen/docs/api/structs/headerinfo">HeaderInfo</a></li>
 <li><b>Htags</b>: struct <a href="/web-doxygen/docs/api/structs/htags">Htags</a></li>

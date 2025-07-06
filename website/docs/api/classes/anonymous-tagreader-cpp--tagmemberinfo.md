@@ -220,7 +220,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::anchor</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::anchor</td>
 </tr>
 </table>
 </td>
@@ -252,7 +252,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::anchorFile</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::anchorFile</td>
 </tr>
 </table>
 </td>
@@ -284,7 +284,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::arglist</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::arglist</td>
 </tr>
 </table>
 </td>
@@ -316,7 +316,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::clangId</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::clangId</td>
 </tr>
 </table>
 </td>
@@ -348,7 +348,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">std::vector&lt;TagAnchorInfo&gt; anonymous_namespace{tagreader.cpp}::TagMemberInfo::docAnchors</td>
+<td class="doxyMemberName">std::vector&lt;TagAnchorInfo&gt; anonymous{tagreader.cpp}::TagMemberInfo::docAnchors</td>
 </tr>
 </table>
 </td>
@@ -380,7 +380,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">std::vector&lt;TagEnumValueInfo&gt; anonymous_namespace{tagreader.cpp}::TagMemberInfo::enumValues</td>
+<td class="doxyMemberName">std::vector&lt;TagEnumValueInfo&gt; anonymous{tagreader.cpp}::TagMemberInfo::enumValues</td>
 </tr>
 </table>
 </td>
@@ -412,7 +412,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool anonymous_namespace{tagreader.cpp}::TagMemberInfo::isStatic = false</td>
+<td class="doxyMemberName">bool anonymous{tagreader.cpp}::TagMemberInfo::isStatic = false</td>
 </tr>
 </table>
 </td>
@@ -444,7 +444,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::kind</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::kind</td>
 </tr>
 </table>
 </td>
@@ -476,7 +476,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">int anonymous_namespace{tagreader.cpp}::TagMemberInfo::lineNr</td>
+<td class="doxyMemberName">int anonymous{tagreader.cpp}::TagMemberInfo::lineNr</td>
 </tr>
 </table>
 </td>
@@ -508,7 +508,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::name</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::name</td>
 </tr>
 </table>
 </td>
@@ -540,7 +540,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">Protection anonymous_namespace{tagreader.cpp}::TagMemberInfo::prot = Protection::Public</td>
+<td class="doxyMemberName">Protection anonymous{tagreader.cpp}::TagMemberInfo::prot = Protection::Public</td>
 </tr>
 </table>
 </td>
@@ -572,7 +572,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagMemberInfo::type</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagMemberInfo::type</td>
 </tr>
 </table>
 </td>
@@ -604,7 +604,7 @@ class anonymous{tagreader.cpp}::TagMemberInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">Specifier anonymous_namespace{tagreader.cpp}::TagMemberInfo::virt = Specifier::Normal</td>
+<td class="doxyMemberName">Specifier anonymous{tagreader.cpp}::TagMemberInfo::virt = Specifier::Normal</td>
 </tr>
 </table>
 </td>

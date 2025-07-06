@@ -20,7 +20,7 @@ keywords:
 ## - C -
 
 <ul>
-<li><b>CharStream</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream">parser</a></li>
+<li><b>CharStream</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream">vhdl::parser</a></li>
 <li><b>CompoundFactory</b>: namespace <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/compoundfactory">anonymous{tagreader.cpp}</a></li>
 </ul>
 <p>2 entries</p>
@@ -30,7 +30,7 @@ keywords:
 <ul>
 <li><b>ElementCallbacks</b>: namespace <a href="/web-doxygen/docs/api/structs/anonymous-layout-cpp-/elementcallbacks">anonymous{layout.cpp}</a></li>
 <li><b>ElementCallbacks</b>: namespace <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/elementcallbacks">anonymous{tagreader.cpp}</a></li>
-<li><b>ErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler">parser</a></li>
+<li><b>ErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler">vhdl::parser</a></li>
 <li><b>Ex</b>: namespace <a href="/web-doxygen/docs/api/classes/reg/ex">reg</a></li>
 </ul>
 <p>4 entries</p>
@@ -56,7 +56,7 @@ keywords:
 ## - H -
 
 <ul>
-<li><b>has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</b>: namespace <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">details</a></li>
+<li><b>has_method_children&lt;...&gt;</b>: namespace <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">details</a></li>
 <li><b>has_method_children&lt;T, typename&gt;</b>: namespace <a href="/web-doxygen/docs/api/structs/details/has-method-children">details</a></li>
 </ul>
 <p>2 entries</p>
@@ -73,7 +73,7 @@ keywords:
 ## - J -
 
 <ul>
-<li><b>JJCalls</b>: namespace <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls">parser</a></li>
+<li><b>JJCalls</b>: namespace <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls">vhdl::parser</a></li>
 </ul>
 
 ## - M -
@@ -85,7 +85,7 @@ keywords:
 ## - P -
 
 <ul>
-<li><b>ParseException</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/parseexception">parser</a></li>
+<li><b>ParseException</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/parseexception">vhdl::parser</a></li>
 <li><b>PToken</b>: namespace <a href="/web-doxygen/docs/api/classes/reg/ptoken">reg</a></li>
 </ul>
 <p>2 entries</p>
@@ -115,21 +115,21 @@ keywords:
 <li><b>TagNamespaceInfo</b>: namespace <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/tagnamespaceinfo">anonymous{tagreader.cpp}</a></li>
 <li><b>TagPackageInfo</b>: namespace <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/tagpackageinfo">anonymous{tagreader.cpp}</a></li>
 <li><b>TagPageInfo</b>: namespace <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/tagpageinfo">anonymous{tagreader.cpp}</a></li>
-<li><b>Token</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">parser</a></li>
-<li><b>TokenManager</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanager">parser</a></li>
-<li><b>TokenManagerErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler">parser</a></li>
-<li><b>TokenMgrError</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmgrerror">parser</a></li>
-<li><b>TokenParser</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenparser">parser</a></li>
+<li><b>Token</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">vhdl::parser</a></li>
+<li><b>TokenManager</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanager">vhdl::parser</a></li>
+<li><b>TokenManagerErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler">vhdl::parser</a></li>
+<li><b>TokenMgrError</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmgrerror">vhdl::parser</a></li>
+<li><b>TokenParser</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenparser">vhdl::parser</a></li>
 </ul>
 <p>21 entries</p>
 
 ## - V -
 
 <ul>
-<li><b>VhdlErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlerrorhandler">parser</a></li>
-<li><b>VhdlParser</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser">parser</a></li>
-<li><b>VhdlParserTokenManager</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager">parser</a></li>
-<li><b>VhdlTokenManagerErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdltokenmanagererrorhandler">parser</a></li>
+<li><b>VhdlErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlerrorhandler">vhdl::parser</a></li>
+<li><b>VhdlParser</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser">vhdl::parser</a></li>
+<li><b>VhdlParserTokenManager</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager">vhdl::parser</a></li>
+<li><b>VhdlTokenManagerErrorHandler</b>: namespace <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdltokenmanagererrorhandler">vhdl::parser</a></li>
 </ul>
 <p>4 entries</p>
 <br/>

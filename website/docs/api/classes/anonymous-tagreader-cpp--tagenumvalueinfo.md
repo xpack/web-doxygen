@@ -103,7 +103,7 @@ class anonymous{tagreader.cpp}::TagEnumValueInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagEnumValueInfo::anchor</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagEnumValueInfo::anchor</td>
 </tr>
 </table>
 </td>
@@ -135,7 +135,7 @@ class anonymous{tagreader.cpp}::TagEnumValueInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagEnumValueInfo::clangid</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagEnumValueInfo::clangid</td>
 </tr>
 </table>
 </td>
@@ -167,7 +167,7 @@ class anonymous{tagreader.cpp}::TagEnumValueInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagEnumValueInfo::file</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagEnumValueInfo::file</td>
 </tr>
 </table>
 </td>
@@ -199,7 +199,7 @@ class anonymous{tagreader.cpp}::TagEnumValueInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagEnumValueInfo::name</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagEnumValueInfo::name</td>
 </tr>
 </table>
 </td>

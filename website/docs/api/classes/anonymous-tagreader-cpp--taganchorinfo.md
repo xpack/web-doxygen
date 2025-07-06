@@ -109,7 +109,7 @@ class anonymous{tagreader.cpp}::TagAnchorInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagAnchorInfo::TagAnchorInfo (const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; f, const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; l, const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; t=<a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>())</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagAnchorInfo::TagAnchorInfo (const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; f, const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; l, const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; t=<a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>())</td>
 </tr>
 </table>
 </td>
@@ -158,7 +158,7 @@ class anonymous{tagreader.cpp}::TagAnchorInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagAnchorInfo::fileName</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagAnchorInfo::fileName</td>
 </tr>
 </table>
 </td>
@@ -193,7 +193,7 @@ class anonymous{tagreader.cpp}::TagAnchorInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagAnchorInfo::label</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagAnchorInfo::label</td>
 </tr>
 </table>
 </td>
@@ -228,7 +228,7 @@ class anonymous{tagreader.cpp}::TagAnchorInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagAnchorInfo::title</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagAnchorInfo::title</td>
 </tr>
 </table>
 </td>

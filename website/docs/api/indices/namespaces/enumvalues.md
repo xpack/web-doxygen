@@ -73,14 +73,14 @@ keywords:
 ## - I -
 
 <ul>
-<li><b>INVALID_LEXICAL_STATE</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a33431a75f4abe5faadcaa1efdda6b3c9">parser</a></li>
+<li><b>INVALID_LEXICAL_STATE</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a33431a75f4abe5faadcaa1efdda6b3c9">vhdl::parser</a></li>
 </ul>
 
 ## - L -
 
 <ul>
-<li><b>LEXICAL_ERROR</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a421efedee0b53d309d53e7cd47e2a641">parser</a></li>
-<li><b>LOOP_DETECTED</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a2fb8ecd7243b231c4f0b8d33b67fc817">parser</a></li>
+<li><b>LEXICAL_ERROR</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a421efedee0b53d309d53e7cd47e2a641">vhdl::parser</a></li>
+<li><b>LOOP_DETECTED</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a2fb8ecd7243b231c4f0b8d33b67fc817">vhdl::parser</a></li>
 </ul>
 <p>2 entries</p>
 
@@ -101,7 +101,7 @@ keywords:
 <ul>
 <li><b>Sequences</b>: namespace <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1e21b2b7261ec5f1a5d7ec196550a6dd12687d93e22e14a20d351f9f3d74c">FileMemberHighlight</a></li>
 <li><b>Sequences</b>: namespace <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a021f146e1894f62e142ba38537ccfb7ca612a9d9df61450edc5503a6bf328b3b1">NamespaceMemberHighlight</a></li>
-<li><b>STATIC_LEXER_ERROR</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a0a754a059e5258ee54de0f5732eded62">parser</a></li>
+<li><b>STATIC_LEXER_ERROR</b>: namespace <a href="/web-doxygen/docs/api/namespaces/vhdl/parser/#aafe508f14061aff05b2fd72cbbf9c263a0a754a059e5258ee54de0f5732eded62">vhdl::parser</a></li>
 </ul>
 <p>3 entries</p>
 

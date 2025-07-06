@@ -566,7 +566,7 @@ class LayoutParser { ... }
 </div>
 
 
-<p>References <a href="/web-doxygen/docs/api/namespaces/anonymous-layout-cpp-/#a470220b386daeb653bf189ad7b6c419f">anonymous_namespace{layout.cpp}::g_elementHandlers</a> and <a href="#a03ed81aca66391771e47ecaad3b4302a">m_scope</a>.</p>
+<p>References <a href="/web-doxygen/docs/api/namespaces/anonymous-layout-cpp-/#a470220b386daeb653bf189ad7b6c419f">anonymous{layout.cpp}::g_elementHandlers</a> and <a href="#a03ed81aca66391771e47ecaad3b4302a">m_scope</a>.</p>
 
 
 <p>Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a920748477d4262faf758d21ddbe2329d">LayoutDocManager::init</a> and <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aa40638bbc3b82e1b24a760b6e5dff877">LayoutDocManager::parse</a>.</p>
@@ -1055,7 +1055,7 @@ class LayoutParser { ... }
 </div>
 
 
-<p>References <a href="/web-doxygen/docs/api/namespaces/anonymous-layout-cpp-/#a470220b386daeb653bf189ad7b6c419f">anonymous_namespace{layout.cpp}::g_elementHandlers</a>, <a href="#a64bbc5fb3177a7eaf9cf83b29a662aeb">m_locator</a>, <a href="#a03ed81aca66391771e47ecaad3b4302a">m_scope</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#ae67293b4e15438bb5812e59146f0750d">warn_layout</a>.</p>
+<p>References <a href="/web-doxygen/docs/api/namespaces/anonymous-layout-cpp-/#a470220b386daeb653bf189ad7b6c419f">anonymous{layout.cpp}::g_elementHandlers</a>, <a href="#a64bbc5fb3177a7eaf9cf83b29a662aeb">m_locator</a>, <a href="#a03ed81aca66391771e47ecaad3b4302a">m_scope</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#ae67293b4e15438bb5812e59146f0750d">warn_layout</a>.</p>
 
 
 <p>Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a920748477d4262faf758d21ddbe2329d">LayoutDocManager::init</a> and <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aa40638bbc3b82e1b24a760b6e5dff877">LayoutDocManager::parse</a>.</p>

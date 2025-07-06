@@ -84,7 +84,7 @@ struct anonymous{tagreader.cpp}::TagPackageInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">StringVector anonymous_namespace{tagreader.cpp}::TagPackageInfo::classList</td>
+<td class="doxyMemberName">StringVector anonymous{tagreader.cpp}::TagPackageInfo::classList</td>
 </tr>
 </table>
 </td>
@@ -105,7 +105,7 @@ struct anonymous{tagreader.cpp}::TagPackageInfo { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab0af5855a848b20e3136d941d7840732">anonymous_namespace{tagreader.cpp}::TagFileParser::endClass</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab0af5855a848b20e3136d941d7840732">anonymous{tagreader.cpp}::TagFileParser::endClass</a>.</p>
 
 </div>
 </div>

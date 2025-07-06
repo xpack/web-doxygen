@@ -84,7 +84,7 @@ struct anonymous{tagreader.cpp}::TagConceptInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagConceptInfo::clangId</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagConceptInfo::clangId</td>
 </tr>
 </table>
 </td>
@@ -105,7 +105,7 @@ struct anonymous{tagreader.cpp}::TagConceptInfo { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
 
 </div>
 </div>

@@ -106,7 +106,7 @@ struct anonymous{tagreader.cpp}::TagFileParser::ClassNode { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode::ClassNode (const std::string &amp; n)</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::TagFileParser::ClassNode::ClassNode (const std::string &amp; n)</td>
 </tr>
 </table>
 </td>
@@ -152,7 +152,7 @@ struct anonymous{tagreader.cpp}::TagFileParser::ClassNode { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">std::unordered_map&lt;std::string,std::unique_ptr&lt;ClassNode&gt; &gt; anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode::children</td>
+<td class="doxyMemberName">std::unordered_map&lt;std::string,std::unique_ptr&lt;ClassNode&gt; &gt; anonymous{tagreader.cpp}::TagFileParser::ClassNode::children</td>
 </tr>
 </table>
 </td>
@@ -173,7 +173,7 @@ struct anonymous{tagreader.cpp}::TagFileParser::ClassNode { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
 
 </div>
 </div>
@@ -187,7 +187,7 @@ struct anonymous{tagreader.cpp}::TagFileParser::ClassNode { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">std::string anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode::name</td>
+<td class="doxyMemberName">std::string anonymous{tagreader.cpp}::TagFileParser::ClassNode::name</td>
 </tr>
 </table>
 </td>
@@ -222,7 +222,7 @@ struct anonymous{tagreader.cpp}::TagFileParser::ClassNode { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const TagClassInfo* anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode::tci = nullptr</td>
+<td class="doxyMemberName">const TagClassInfo* anonymous{tagreader.cpp}::TagFileParser::ClassNode::tci = nullptr</td>
 </tr>
 </table>
 </td>
@@ -243,7 +243,7 @@ struct anonymous{tagreader.cpp}::TagFileParser::ClassNode { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
 
 </div>
 </div>

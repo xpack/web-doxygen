@@ -22,7 +22,7 @@ keywords:
 ## Definition
 
 <div class="doxyDefinition">
-namespace { ... }
+namespace anonymous{layout.cpp} { ... }
 </div>
 
 ## Classes Index
@@ -196,7 +196,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::endCb (void(LayoutParser::*)(Args...) fn)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::endCb (void(LayoutParser::*)(Args...) fn)</td>
 </tr>
 </table>
 </td>
@@ -237,7 +237,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn)</td>
 </tr>
 </table>
 </td>
@@ -278,7 +278,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/structs/layoutdocentry/#a89dcbe762ed7e7f7790d8c034cf8ea01">LayoutDocEntry::Kind</a> kind)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/structs/layoutdocentry/#a89dcbe762ed7e7f7790d8c034cf8ea01">LayoutDocEntry::Kind</a> kind)</td>
 </tr>
 </table>
 </td>
@@ -321,7 +321,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/structs/layoutdocentry/#a89dcbe762ed7e7f7790d8c034cf8ea01">LayoutDocEntry::Kind</a> kind, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; title)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/structs/layoutdocentry/#a89dcbe762ed7e7f7790d8c034cf8ea01">LayoutDocEntry::Kind</a> kind, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; title)</td>
 </tr>
 </table>
 </td>
@@ -365,7 +365,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; title)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; title)</td>
 </tr>
 </table>
 </td>
@@ -409,7 +409,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; title, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; subtitle)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; title, const std::function&lt; <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>()&gt; &amp; subtitle)</td>
 </tr>
 </table>
 </td>
@@ -454,7 +454,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto anonymous_namespace{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aee13a925ea1f915c542ecd7f579ebc94">LayoutDocManager::LayoutPart</a> part, const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; scope, <a href="/web-doxygen/docs/api/structs/layoutnaventry/#aef36305dd829f7cde87ca203ae647c7c">LayoutNavEntry::Kind</a> nav)</td>
+<td class="doxyMemberName">auto anonymous{layout.cpp}::startCb (void(LayoutParser::*)(Args...) fn, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aee13a925ea1f915c542ecd7f579ebc94">LayoutDocManager::LayoutPart</a> part, const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> &amp; scope, <a href="/web-doxygen/docs/api/structs/layoutnaventry/#aef36305dd829f7cde87ca203ae647c7c">LayoutNavEntry::Kind</a> nav)</td>
 </tr>
 </table>
 </td>
@@ -504,7 +504,7 @@ namespace { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const std::map&lt; std::string, ElementCallbacks &gt; anonymous_namespace{layout.cpp}::g_elementHandlers</td>
+<td class="doxyMemberName">const std::map&lt; std::string, ElementCallbacks &gt; anonymous{layout.cpp}::g_elementHandlers</td>
 </tr>
 </table>
 </td>

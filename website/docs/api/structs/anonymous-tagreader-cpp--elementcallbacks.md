@@ -106,7 +106,7 @@ struct anonymous{tagreader.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::ElementCallbacks::EndCallback =  std::function&lt;void(TagFileParser&amp;)&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::ElementCallbacks::EndCallback =  std::function&lt;void(TagFileParser&amp;)&gt;</td>
 </tr>
 </table>
 </td>
@@ -138,7 +138,7 @@ struct anonymous{tagreader.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::ElementCallbacks::StartCallback =  std::function&lt;void(TagFileParser&amp;,const XMLHandlers::Attributes&amp;)&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::ElementCallbacks::StartCallback =  std::function&lt;void(TagFileParser&amp;,const XMLHandlers::Attributes&amp;)&gt;</td>
 </tr>
 </table>
 </td>
@@ -176,7 +176,7 @@ struct anonymous{tagreader.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">EndCallback anonymous_namespace{tagreader.cpp}::ElementCallbacks::endCb</td>
+<td class="doxyMemberName">EndCallback anonymous{tagreader.cpp}::ElementCallbacks::endCb</td>
 </tr>
 </table>
 </td>
@@ -208,7 +208,7 @@ struct anonymous{tagreader.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">StartCallback anonymous_namespace{tagreader.cpp}::ElementCallbacks::startCb</td>
+<td class="doxyMemberName">StartCallback anonymous{tagreader.cpp}::ElementCallbacks::startCb</td>
 </tr>
 </table>
 </td>

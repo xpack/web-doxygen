@@ -123,7 +123,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagNamespaceInfo::clangId</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagNamespaceInfo::clangId</td>
 </tr>
 </table>
 </td>
@@ -144,7 +144,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab27d1e74556a11f12e2d6a3b0dfa1225">anonymous_namespace{tagreader.cpp}::TagFileParser::endClangId</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous{tagreader.cpp}::TagFileParser::buildLists</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab27d1e74556a11f12e2d6a3b0dfa1225">anonymous{tagreader.cpp}::TagFileParser::endClangId</a>.</p>
 
 </div>
 </div>
@@ -158,7 +158,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">StringVector anonymous_namespace{tagreader.cpp}::TagNamespaceInfo::classList</td>
+<td class="doxyMemberName">StringVector anonymous{tagreader.cpp}::TagNamespaceInfo::classList</td>
 </tr>
 </table>
 </td>
@@ -179,7 +179,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#aafd3846f78cc76b992152366c99f7d74">anonymous_namespace{tagreader.cpp}::TagFileParser::dump</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab0af5855a848b20e3136d941d7840732">anonymous_namespace{tagreader.cpp}::TagFileParser::endClass</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#aafd3846f78cc76b992152366c99f7d74">anonymous{tagreader.cpp}::TagFileParser::dump</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#ab0af5855a848b20e3136d941d7840732">anonymous{tagreader.cpp}::TagFileParser::endClass</a>.</p>
 
 </div>
 </div>
@@ -193,7 +193,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">StringVector anonymous_namespace{tagreader.cpp}::TagNamespaceInfo::conceptList</td>
+<td class="doxyMemberName">StringVector anonymous{tagreader.cpp}::TagNamespaceInfo::conceptList</td>
 </tr>
 </table>
 </td>
@@ -214,7 +214,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a88c616e8f2d519406f88102cf9913811">anonymous_namespace{tagreader.cpp}::TagFileParser::endConcept</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a88c616e8f2d519406f88102cf9913811">anonymous{tagreader.cpp}::TagFileParser::endConcept</a>.</p>
 
 </div>
 </div>
@@ -228,7 +228,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">StringVector anonymous_namespace{tagreader.cpp}::TagNamespaceInfo::namespaceList</td>
+<td class="doxyMemberName">StringVector anonymous{tagreader.cpp}::TagNamespaceInfo::namespaceList</td>
 </tr>
 </table>
 </td>
@@ -249,7 +249,7 @@ struct anonymous{tagreader.cpp}::TagNamespaceInfo { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a5f364b44aa47f45ead81e1892359c3ee">anonymous_namespace{tagreader.cpp}::TagFileParser::endNamespace</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a5f364b44aa47f45ead81e1892359c3ee">anonymous{tagreader.cpp}::TagFileParser::endNamespace</a>.</p>
 
 </div>
 </div>

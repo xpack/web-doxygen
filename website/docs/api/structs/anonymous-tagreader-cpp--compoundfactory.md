@@ -112,7 +112,7 @@ struct anonymous{tagreader.cpp}::CompoundFactory { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{tagreader.cpp}::CompoundFactory::CreateFunc =  std::function&lt;TagCompoundVariant()&gt;</td>
+<td class="doxyMemberName">using anonymous{tagreader.cpp}::CompoundFactory::CreateFunc =  std::function&lt;TagCompoundVariant()&gt;</td>
 </tr>
 </table>
 </td>
@@ -150,7 +150,7 @@ struct anonymous{tagreader.cpp}::CompoundFactory { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">anonymous_namespace{tagreader.cpp}::CompoundFactory::CompoundFactory (<a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85">TagFileParser::State</a> s, const <a href="#af86c30518622c64bad043247a2b5cdc2">CreateFunc</a> &amp; f)</td>
+<td class="doxyMemberName">anonymous{tagreader.cpp}::CompoundFactory::CompoundFactory (<a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85">TagFileParser::State</a> s, const <a href="#af86c30518622c64bad043247a2b5cdc2">CreateFunc</a> &amp; f)</td>
 </tr>
 </table>
 </td>
@@ -196,7 +196,7 @@ struct anonymous{tagreader.cpp}::CompoundFactory { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">CreateFunc anonymous_namespace{tagreader.cpp}::CompoundFactory::make_instance</td>
+<td class="doxyMemberName">CreateFunc anonymous{tagreader.cpp}::CompoundFactory::make_instance</td>
 </tr>
 </table>
 </td>
@@ -231,7 +231,7 @@ struct anonymous{tagreader.cpp}::CompoundFactory { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">TagFileParser::State anonymous_namespace{tagreader.cpp}::CompoundFactory::state</td>
+<td class="doxyMemberName">TagFileParser::State anonymous{tagreader.cpp}::CompoundFactory::state</td>
 </tr>
 </table>
 </td>

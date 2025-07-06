@@ -18,6 +18,7 @@ keywords:
 The classes, structs, union and interfaces used by this project are:
 
 <table class="doxyTreeTable">
+<colgroup><col style="width:40%"><col></colgroup>
 
 <tr class="doxyTreeItem">
 <td class="doxyTreeItemLeft" align="left" valign="top">
@@ -3180,7 +3181,7 @@ std::vector like container optimized for pushing elements to the back
 <td class="doxyTreeItemLeft" align="left" valign="top">
 <span style="width: 12px; display: inline-block;"></span>
 <span class="doxyTreeIconBox"><span class="doxyTreeIcon">S</span></span>
-<a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a>
+<a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">has_method_children&lt;...&gt;</a>
 </td>
 <td class="doxyTreeItemRight" align="left" valign="top">
 

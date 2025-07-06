@@ -142,7 +142,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagIncludeInfo::id</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagIncludeInfo::id</td>
 </tr>
 </table>
 </td>
@@ -174,7 +174,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool anonymous_namespace{tagreader.cpp}::TagIncludeInfo::isImported</td>
+<td class="doxyMemberName">bool anonymous{tagreader.cpp}::TagIncludeInfo::isImported</td>
 </tr>
 </table>
 </td>
@@ -206,7 +206,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool anonymous_namespace{tagreader.cpp}::TagIncludeInfo::isLocal</td>
+<td class="doxyMemberName">bool anonymous{tagreader.cpp}::TagIncludeInfo::isLocal</td>
 </tr>
 </table>
 </td>
@@ -238,7 +238,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool anonymous_namespace{tagreader.cpp}::TagIncludeInfo::isModule</td>
+<td class="doxyMemberName">bool anonymous{tagreader.cpp}::TagIncludeInfo::isModule</td>
 </tr>
 </table>
 </td>
@@ -270,7 +270,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool anonymous_namespace{tagreader.cpp}::TagIncludeInfo::isObjC</td>
+<td class="doxyMemberName">bool anonymous{tagreader.cpp}::TagIncludeInfo::isObjC</td>
 </tr>
 </table>
 </td>
@@ -302,7 +302,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagIncludeInfo::name</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagIncludeInfo::name</td>
 </tr>
 </table>
 </td>
@@ -334,7 +334,7 @@ class anonymous{tagreader.cpp}::TagIncludeInfo { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">QCString anonymous_namespace{tagreader.cpp}::TagIncludeInfo::text</td>
+<td class="doxyMemberName">QCString anonymous{tagreader.cpp}::TagIncludeInfo::text</td>
 </tr>
 </table>
 </td>

@@ -4245,7 +4245,7 @@ keywords:
 <li><b>handleUnexpectedToken()</b>: class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlerrorhandler/#aeedd721b392d999dd9d2ba5944154c23">vhdl::parser::VhdlErrorHandler</a></li>
 <li><b>handleVhdlFlow()</b>: class <a href="/web-doxygen/docs/api/classes/docpara/#ab5639797f3123c08c83f16819f7a74d7">DocPara</a></li>
 <li><b>handleXRefItem()</b>: class <a href="/web-doxygen/docs/api/classes/docpara/#ae14027652a29ff9eda818d4ba6098329">DocPara</a></li>
-<li><b>has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</b>: struct <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></li>
+<li><b>has_method_children&lt;...&gt;</b>: struct <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></li>
 <li><b>has_method_children&lt;T, typename&gt;</b>: struct <a href="/web-doxygen/docs/api/structs/details/has-method-children">details::has_method_children&lt;T, typename&gt;</a></li>
 <li><b>hasAlpha</b>: struct <a href="/web-doxygen/docs/api/structs/coloredimage/private/#a0f63331cd05fe6ee4388a9b51d16f0f2">ColoredImage::Private</a></li>
 <li><b>hasBriefDescription()</b>: class <a href="/web-doxygen/docs/api/classes/definition/#a4ffad4b163b3635fa991f19cd22f3452">Definition</a></li>

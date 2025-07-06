@@ -106,7 +106,7 @@ struct anonymous{layout.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{layout.cpp}::ElementCallbacks::EndCallback =  std::function&lt;void(LayoutParser&amp;,const std::string &amp;)&gt;</td>
+<td class="doxyMemberName">using anonymous{layout.cpp}::ElementCallbacks::EndCallback =  std::function&lt;void(LayoutParser&amp;,const std::string &amp;)&gt;</td>
 </tr>
 </table>
 </td>
@@ -138,7 +138,7 @@ struct anonymous{layout.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">using anonymous_namespace{layout.cpp}::ElementCallbacks::StartCallback =  std::function&lt;void(LayoutParser&amp;,const std::string &amp;,const XMLHandlers::Attributes&amp;)&gt;</td>
+<td class="doxyMemberName">using anonymous{layout.cpp}::ElementCallbacks::StartCallback =  std::function&lt;void(LayoutParser&amp;,const std::string &amp;,const XMLHandlers::Attributes&amp;)&gt;</td>
 </tr>
 </table>
 </td>
@@ -176,7 +176,7 @@ struct anonymous{layout.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">EndCallback anonymous_namespace{layout.cpp}::ElementCallbacks::endCb = [](<a href="/web-doxygen/docs/api/classes/layoutparser">LayoutParser</a> &amp;,const std::string &amp;){}</td>
+<td class="doxyMemberName">EndCallback anonymous{layout.cpp}::ElementCallbacks::endCb = [](<a href="/web-doxygen/docs/api/classes/layoutparser">LayoutParser</a> &amp;,const std::string &amp;){}</td>
 </tr>
 </table>
 </td>
@@ -208,7 +208,7 @@ struct anonymous{layout.cpp}::ElementCallbacks { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">StartCallback anonymous_namespace{layout.cpp}::ElementCallbacks::startCb</td>
+<td class="doxyMemberName">StartCallback anonymous{layout.cpp}::ElementCallbacks::startCb</td>
 </tr>
 </table>
 </td>
