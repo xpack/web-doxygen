@@ -470,6 +470,7 @@ keywords:
 <li><b>anchorCount</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/codeyy-state/#a79dd501645a07fb15149b3eceb6f0b7a">codeYY_state</a></li>
 <li><b>anchorFile</b>: as variable in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagmemberinfo/#acf5b910563170bf37df95d8a83cda9dd">anonymous{tagreader.cpp}::TagMemberInfo</a></li>
 <li><b>AnchorGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/anchorgenerator">AnchorGenerator</a></li>
+<li><b>~AnchorGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a3417ff75cc68717cde6b70e06006039e">AnchorGenerator</a></li>
 <li><b>AnchorGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a51d1a14474d1ffb69f1bea4306331310">AnchorGenerator</a></li>
 <li><b>anchorPrefix()</b>: as function in class <a href="/web-doxygen/docs/api/classes/citationmanager/#a10ba17e783f502c2998a7432c84fd462">CitationManager</a></li>
 <li><b>anchors</b>: as variable in class <a href="/web-doxygen/docs/api/classes/entry/#a6ea6c26832362f55a16544e54ae8b851">Entry</a></li>
@@ -616,16 +617,19 @@ keywords:
 <li><b>autoListLevel</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/doclexercontext/#af642c9d98d61a5f08c615d79a0c4fcd1">DocLexerContext</a></li>
 <li><b>autoListLevel</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/doctokenizeryy-state/#a464334f9e6f26280e5504709969b80e8">doctokenizerYY_state</a></li>
 <li><b>AutoNodeStack</b>: as class <a href="/web-doxygen/docs/api/classes/autonodestack">AutoNodeStack</a></li>
+<li><b>~AutoNodeStack()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autonodestack/#a7a9a492c39c16b054ab81d12ea3e73ac">AutoNodeStack</a></li>
 <li><b>AutoNodeStack()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autonodestack/#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a></li>
 <li><b>AutoTimeKeeper</b>: as class <a href="/web-doxygen/docs/api/classes/autotimekeeper">AutoTimeKeeper</a></li>
+<li><b>~AutoTimeKeeper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d48591cc5813ad2bb06915ff">AutoTimeKeeper</a></li>
 <li><b>AutoTimeKeeper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f3cd97a1429bda7c614d9aa">AutoTimeKeeper</a></li>
 <li><b>AutoTrace</b>: as class <a href="/web-doxygen/docs/api/classes/autotrace">AutoTrace</a></li>
+<li><b>~AutoTrace()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotrace/#a63ff9e892c88faa5df232fb42a551d45">AutoTrace</a></li>
 <li><b>AutoTrace()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotrace/#a232c02242ad1c8822d71ce108ee0c084">AutoTrace</a></li>
 <li><b>AutoTrace()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotrace/#a121e03a3e610d9d91e97aca3aee4aef3">AutoTrace</a></li>
 <li><b>available</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a26311afec7fdd2e830f9021d93a07857">vhdl::parser::CharStream</a></li>
 <li><b>avgChildPos()</b>: as function in class <a href="/web-doxygen/docs/api/classes/diagramitem/#a82b5409be85251e7ced40ed8751dfdd5">DiagramItem</a></li>
 </ul>
-<p>560 entries</p>
+<p>564 entries</p>
 
 ## - B -
 
@@ -848,6 +852,7 @@ keywords:
 <li><b>cCodeBuffer</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/lexscanneryy-state/#a6d991465db8dc69681aa6431b9cb4680">lexscannerYY_state</a></li>
 <li><b>CCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/ccodeparser">CCodeParser</a></li>
 <li><b>ccodeParser</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/lexcodeyy-state/#ac468d737ea35fb45dba43c6546e87863">lexcodeYY_state</a></li>
+<li><b>~CCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/ccodeparser/#a997869f7ed19a9e8871fcaea7518adc9">CCodeParser</a></li>
 <li><b>CCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/ccodeparser/#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a></li>
 <li><b>ccomment</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/preyy-state/#ad3c57740cbf7e25447f25bc72385261d">preYY_state</a></li>
 <li><b>cd</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/getdefresult/#af001a5681c623c9b89d97f33fccc3d52">GetDefResult</a></li>
@@ -875,6 +880,7 @@ keywords:
 <li><b>chars()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docseparator/#a7de00e3032b756cfd4653d4e4f676f5d">DocSeparator</a></li>
 <li><b>chars()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3efa8f4e7d9fce2352023">DocWhiteSpace</a></li>
 <li><b>CharStream</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream">vhdl::parser::CharStream</a></li>
+<li><b>~CharStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#ab4fb67513988560781f46bb5124f7966">vhdl::parser::CharStream</a></li>
 <li><b>CharStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#ac16b96fc00c5fe1c7587406d6869f9b5">vhdl::parser::CharStream</a></li>
 <li><b>CharStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a242b0ade90665d38c5931af90a59038b">vhdl::parser::CharStream</a></li>
 <li><b>CharStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#ac868943acf237740db51babde94cff7b">vhdl::parser::CharStream</a></li>
@@ -916,6 +922,7 @@ keywords:
 <li><b>ChunkPtr</b>: as typedef in class <a href="/web-doxygen/docs/api/classes/growvector/#ae5df7bdd2450792b5d8b625494a28434">GrowVector&lt;T&gt;</a></li>
 <li><b>chunkSize</b>: as variable in class <a href="/web-doxygen/docs/api/classes/growvector/#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt;T&gt;</a></li>
 <li><b>CitationManager</b>: as class <a href="/web-doxygen/docs/api/classes/citationmanager">CitationManager</a></li>
+<li><b>~CitationManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/citationmanager/#ab29bc39af01c05295bd91a354a6674ad">CitationManager</a></li>
 <li><b>CitationManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/citationmanager/#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a></li>
 <li><b>Cite</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da724abc65281c2d47105ebf8a31d6c397">Debug</a></li>
 <li><b>Cite</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange</a></li>
@@ -938,9 +945,11 @@ keywords:
 <li><b>ClangParser</b>: as class <a href="/web-doxygen/docs/api/classes/clangparser">ClangParser</a></li>
 <li><b>clangParser</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/lexscanneryy-state/#a960ef87ca49017ee893ae85de17a60c6">lexscannerYY_state</a></li>
 <li><b>clangParser</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/scanneryy-state/#a383ee19c54c6fd7f9a5c00dad31c996d">scannerYY_state</a></li>
+<li><b>~ClangParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangparser/#a668d79df27923e9625fdb60ff9c49e86">ClangParser</a></li>
 <li><b>ClangParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangparser/#acbfff98bae20ac65c370e5f418fc271c">ClangParser</a></li>
 <li><b>ClangTUParser</b>: as friend in class <a href="/web-doxygen/docs/api/classes/clangparser/#afeda45c0fa8d3bd57ead3c5827552bb8">ClangParser</a></li>
 <li><b>ClangTUParser</b>: as class <a href="/web-doxygen/docs/api/classes/clangtuparser">ClangTUParser</a></li>
+<li><b>~ClangTUParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangtuparser/#a916b7d9bae60790c26067bb9da3fc3b3">ClangTUParser</a></li>
 <li><b>ClangTUParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangtuparser/#a2ae7d7d6cd684002b29fe2e71832fb59">ClangTUParser</a></li>
 <li><b>clangUsrMap</b>: as variable in class <a href="/web-doxygen/docs/api/classes/doxygen/#aec084fa8f7420ce3fcba490a3e1dace7">Doxygen</a></li>
 <li><b>Class</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a5261cde79065c9b6af97195e43e8073b">ClassDef</a></li>
@@ -953,11 +962,13 @@ keywords:
 <li><b>classDef</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/usesclassdef/#ae9ace813f9031b4afb6894e5ad15f901">UsesClassDef</a></li>
 <li><b>classDef()</b>: as function in class <a href="/web-doxygen/docs/api/classes/alphaindextablecell/#a2d50bbbf2a8fcb4b949aac9123df9009">AlphaIndexTableCell</a></li>
 <li><b>ClassDefAliasImpl</b>: as class <a href="/web-doxygen/docs/api/classes/classdefaliasimpl">ClassDefAliasImpl</a></li>
+<li><b>~ClassDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a966ac38c57f6055e29fff995d5728900">ClassDefAliasImpl</a></li>
 <li><b>ClassDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a6a11e5ccd30b61bd7f5b7df76ce29b39">ClassDefAliasImpl</a></li>
 <li><b>ClassDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/classdefimpl">ClassDefImpl</a></li>
 <li><b>ClassDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdefimpl/#a3912ae85ed2a97ca1f524ac56a4cff10">ClassDefImpl</a></li>
 <li><b>ClassDefMutable</b>: as class <a href="/web-doxygen/docs/api/classes/classdefmutable">ClassDefMutable</a></li>
 <li><b>ClassDiagram</b>: as class <a href="/web-doxygen/docs/api/classes/classdiagram">ClassDiagram</a></li>
+<li><b>~ClassDiagram()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdiagram/#a6ddb806254eae2bc59a5a8c19a51d142">ClassDiagram</a></li>
 <li><b>ClassDiagram()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdiagram/#aaac25c860e59589fa68e48b4f2ea3de3">ClassDiagram</a></li>
 <li><b>classes</b>: as variable in class <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a746498de9b9afe7fdfc4934a8313e207">NamespaceDefImpl</a></li>
 <li><b>classIndexLetterUsed</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/index/private/#a0731fa46394c8e91c9d79a4fb4b0d79d">Index::Private</a></li>
@@ -1064,6 +1075,7 @@ keywords:
 <li><b>codeClassMap</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/pycodeyy-state/#a2af9469132e213e9d95c59df83e52fad">pycodeYY_state</a></li>
 <li><b>codeFolding()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangtuparser/#a6c031ec328395ac240afdfab06535abd">ClangTUParser</a></li>
 <li><b>CodeFragmentManager</b>: as class <a href="/web-doxygen/docs/api/classes/codefragmentmanager">CodeFragmentManager</a></li>
+<li><b>~CodeFragmentManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#aa265eeac1e211cdb969c3f0dc213ff6b">CodeFragmentManager</a></li>
 <li><b>CodeFragmentManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a></li>
 <li><b>codeGenerators()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#a284458e4baf27869eb5bbb9776407e6c">OutputList</a></li>
 <li><b>codeGenerators()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#a4700ac2ba9ae6445eb7f862502472f35">OutputList</a></li>
@@ -1112,6 +1124,7 @@ keywords:
 <li><b>color()</b>: as function in class <a href="/web-doxygen/docs/api/classes/edgeinfo/#a9aa86c737a1f46a55567ee172b5a07c9">EdgeInfo</a></li>
 <li><b>colorConnectedNodes()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotnode/#abb8eb3aaf830fe2685ebc36bf783857a">DotNode</a></li>
 <li><b>ColoredImage</b>: as class <a href="/web-doxygen/docs/api/classes/coloredimage">ColoredImage</a></li>
+<li><b>~ColoredImage()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coloredimage/#a15d68911020c041ae76934d6e9bf4806">ColoredImage</a></li>
 <li><b>ColoredImage()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coloredimage/#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a></li>
 <li><b>ColoredImgDataItem</b>: as struct <a href="/web-doxygen/docs/api/structs/coloredimgdataitem">ColoredImgDataItem</a></li>
 <li><b>Colors</b>: as enum in class <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228">EdgeInfo</a></li>
@@ -1160,6 +1173,7 @@ keywords:
 <li><b>commentScanner</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/pyscanneryy-state/#af4e8f7056a36252f2f82ea9c23b73993">pyscannerYY_state</a></li>
 <li><b>commentScanner</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/scanneryy-state/#a8d44689d53ede6d447b7c4b8686f89c8">scannerYY_state</a></li>
 <li><b>commentScanner</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/vhdloutlineparser/private/#ade21d21f2639b7b770f6f7a65ac12d9f">VHDLOutlineParser::Private</a></li>
+<li><b>~CommentScanner()</b>: as function in class <a href="/web-doxygen/docs/api/classes/commentscanner/#aa006b1543c5de0b520f2ee928e88871c">CommentScanner</a></li>
 <li><b>CommentScanner()</b>: as function in class <a href="/web-doxygen/docs/api/classes/commentscanner/#a4cc03eb4b903175c815dbbe1c9caa027">CommentScanner</a></li>
 <li><b>commentscanYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state">commentscanYY_state</a></li>
 <li><b>commentStack</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentcnvyy-state/#a910fa355bde66086bd9decf692cfd5bb">commentcnvYY_state</a></li>
@@ -1231,8 +1245,10 @@ keywords:
 <li><b>Concept</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ad99a604c79ce3c2e76a2f43488d5d4c3">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
 <li><b>ConceptDef</b>: as class <a href="/web-doxygen/docs/api/classes/conceptdef">ConceptDef</a></li>
 <li><b>ConceptDefAliasImpl</b>: as class <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl">ConceptDefAliasImpl</a></li>
+<li><b>~ConceptDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a905a32c689a6295f2b53a40564f89584">ConceptDefAliasImpl</a></li>
 <li><b>ConceptDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#abf0df892235c42b39255c9f4b6e19fe4">ConceptDefAliasImpl</a></li>
 <li><b>ConceptDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/conceptdefimpl">ConceptDefImpl</a></li>
+<li><b>~ConceptDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#a26e3a79ed0909f9b3a930647edb63b9f">ConceptDefImpl</a></li>
 <li><b>ConceptDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#a839b20e50d87c76670f581293fa18b63">ConceptDefImpl</a></li>
 <li><b>ConceptDefMutable</b>: as class <a href="/web-doxygen/docs/api/classes/conceptdefmutable">ConceptDefMutable</a></li>
 <li><b>ConceptLinkedMap</b>: as class <a href="/web-doxygen/docs/api/classes/conceptlinkedmap">ConceptLinkedMap</a></li>
@@ -1324,6 +1340,7 @@ keywords:
 <li><b>constExpLineNr</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/constexpyy-state/#ab3d9256edf0ae55d7e7455f3d9d955b9">constexpYY_state</a></li>
 <li><b>constExpParser</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/preyy-state/#a77e8f93beacc05e9558a26715bc26bca">preYY_state</a></li>
 <li><b>ConstExpressionParser</b>: as class <a href="/web-doxygen/docs/api/classes/constexpressionparser">ConstExpressionParser</a></li>
+<li><b>~ConstExpressionParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/constexpressionparser/#ad40306abed35d82c106853dfd0babb6a">ConstExpressionParser</a></li>
 <li><b>ConstExpressionParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/constexpressionparser/#a8ba102bcf860cb7e9efb6d7388084872">ConstExpressionParser</a></li>
 <li><b>constexpYY_extra</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/constexpressionparser/private/#ac08762d90b1acca8ef18c8edd91586ed">ConstExpressionParser::Private</a></li>
 <li><b>constexpYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/constexpyy-state">constexpYY_state</a></li>
@@ -1437,6 +1454,7 @@ keywords:
 <li><b>countVisibleMembers()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a3994dde65ff9904e985305b79c8e8026">NamespaceDefImpl</a></li>
 <li><b>COutlineParser</b>: as class <a href="/web-doxygen/docs/api/classes/coutlineparser">COutlineParser</a></li>
 <li><b>cOutlineParser</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/lexscanneryy-state/#ab289bd3a5b4dc991327ddfa26a165bb4">lexscannerYY_state</a></li>
+<li><b>~COutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coutlineparser/#acd28baae7e14ef1a7ad0faeaf7c15909">COutlineParser</a></li>
 <li><b>COutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coutlineparser/#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a></li>
 <li><b>COutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coutlineparser/#abcd6fc2ec32133131cf2d9acc24103cc">COutlineParser</a></li>
 <li><b>COutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coutlineparser/#a26820c1350588280ed19427402101b01">COutlineParser</a></li>
@@ -1449,6 +1467,7 @@ keywords:
 <li><b>crawlFileName</b>: as variable in class <a href="/web-doxygen/docs/api/classes/crawlmap/#af7b40686a6238e53c3979fb36ba18a18">Crawlmap</a></li>
 <li><b>crawlLinks</b>: as variable in class <a href="/web-doxygen/docs/api/classes/crawlmap/private/#a89aec01bbac29789f37e63426f0e2336">Crawlmap::Private</a></li>
 <li><b>Crawlmap</b>: as class <a href="/web-doxygen/docs/api/classes/crawlmap">Crawlmap</a></li>
+<li><b>~Crawlmap()</b>: as function in class <a href="/web-doxygen/docs/api/classes/crawlmap/#a4062ccd2fd1a181e83949965d04d6c6e">Crawlmap</a></li>
 <li><b>Crawlmap()</b>: as function in class <a href="/web-doxygen/docs/api/classes/crawlmap/#ac78c2eb564885d3bde9d85f7aa1dcb42">Crawlmap</a></li>
 <li><b>crbegin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/membername/#a131e55f9f5163e48ea4e55b240533827">MemberName</a></li>
 <li><b>createChildNavEntry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a597bb9c69db0e2c07006194a6cb87b27">LayoutDocManager</a></li>
@@ -1561,7 +1580,7 @@ keywords:
 <li><b>CurrScope</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/xmlcodeyy-state/#a2bc351917877ed7121841f427dd2d6a7">xmlcodeYY_state</a></li>
 <li><b>curTypeConstraint</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/defargsyy-state/#a20be9a4f012e0607159c3ede2c4053d8">defargsYY_state</a></li>
 </ul>
-<p>750 entries</p>
+<p>765 entries</p>
 
 ## - D -
 
@@ -1585,6 +1604,7 @@ keywords:
 <li><b>dc</b>: as variable in class <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#ab0bc6d06d52b334778e981e611bd40f0">HtmlHelp::Private</a></li>
 <li><b>Debug</b>: as class <a href="/web-doxygen/docs/api/classes/debug">Debug</a></li>
 <li><b>DebugLex</b>: as class <a href="/web-doxygen/docs/api/classes/debuglex">DebugLex</a></li>
+<li><b>~DebugLex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/debuglex/#a258923c83f68a5a6d599519b9750d826">DebugLex</a></li>
 <li><b>DebugLex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/debuglex/#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a></li>
 <li><b>DebugMask</b>: as enum in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7d">Debug</a></li>
 <li><b>debugStr</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/fortranscanneryy-state/#a5abcbd6d6a462abd815d38ab65bcd335">fortranscannerYY_state</a></li>
@@ -1662,14 +1682,18 @@ keywords:
 <li><b>definition()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sectioninfo/#a544a0639c73042b305889ab13476fb24">SectionInfo</a></li>
 <li><b>definition()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/styledata/#acae6677bf1fd21e0b3b0607243d3f01a">StyleData</a></li>
 <li><b>DefinitionAliasImpl</b>: as class <a href="/web-doxygen/docs/api/classes/definitionaliasimpl">DefinitionAliasImpl</a></li>
+<li><b>~DefinitionAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionaliasimpl/#ace02af1adfc9ce1d3d4536d720b11f91">DefinitionAliasImpl</a></li>
 <li><b>DefinitionAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionaliasimpl/#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a></li>
+<li><b>~DefinitionAliasMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a38af8e80a964dc98897c9b4da2cbc74b">DefinitionAliasMixin&lt;Base&gt;</a></li>
 <li><b>DefinitionAliasMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt;Base&gt;</a></li>
 <li><b>DefinitionAliasMixin&lt;Base&gt;</b>: as class <a href="/web-doxygen/docs/api/classes/definitionaliasmixin">DefinitionAliasMixin&lt;Base&gt;</a></li>
 <li><b>DefinitionImpl</b>: as friend in class <a href="/web-doxygen/docs/api/classes/definition/#ad924c2faa44b684fe9e9de173a87027e">Definition</a></li>
 <li><b>DefinitionImpl</b>: as class <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a></li>
+<li><b>~DefinitionImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionimpl/#aa7e7868bd00eb4970333fc6da39aae39">DefinitionImpl</a></li>
 <li><b>DefinitionImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionimpl/#afa510f0e0d64789d3b98a0cf4968d494">DefinitionImpl</a></li>
 <li><b>DefinitionImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionimpl/#a11dbc9f8f8f95b07b88d38c3d311b1d5">DefinitionImpl</a></li>
 <li><b>DefinitionImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionimpl/#ab54719a9715592a192e0be5cd48afea6">DefinitionImpl</a></li>
+<li><b>~DefinitionMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionmixin/#a698644e08e5678cfade98150eb0f097b">DefinitionMixin&lt;Base&gt;</a></li>
 <li><b>DefinitionMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionmixin/#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt;Base&gt;</a></li>
 <li><b>DefinitionMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionmixin/#a9b3cbc90a75238c4231cbaad9107f13f">DefinitionMixin&lt;Base&gt;</a></li>
 <li><b>DefinitionMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionmixin/#aec5f32919542649a690cd311ec4bc7d6">DefinitionMixin&lt;Base&gt;</a></li>
@@ -1762,6 +1786,7 @@ keywords:
 <li><b>Dir</b>: as enum value in struct <a href="/web-doxygen/docs/api/structs/qhpsectiontree/node/#aa19c2c4bb91af14d01fabd837474f295a3c4e6dbf3e1df93a734d9959bac9ee94">QhpSectionTree::Node</a></li>
 <li><b>Dir</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a3c4e6dbf3e1df93a734d9959bac9ee94">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
 <li><b>Dir</b>: as friend in class <a href="/web-doxygen/docs/api/classes/diriterator/#a9c037aa57ccb12f75092ea55062c933e">DirIterator</a></li>
+<li><b>~Dir()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dir/#a427bcc717e5668e764fa1a4432c74b54">Dir</a></li>
 <li><b>Dir()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dir/#a115c8eedb11ea03f79338a780920ae84">Dir</a></li>
 <li><b>Dir()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dir/#a0193bcfacdda8d1389685246c9b7b325">Dir</a></li>
 <li><b>Dir()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dir/#a815bdd1cbdb28df8cc1df201ea59bb49">Dir</a></li>
@@ -1770,6 +1795,7 @@ keywords:
 <li><b>dir()</b>: as function in class <a href="/web-doxygen/docs/api/classes/useddir/#a9f9871ef38cb735feebfe0b338ca4e2c">UsedDir</a></li>
 <li><b>DirDef</b>: as class <a href="/web-doxygen/docs/api/classes/dirdef">DirDef</a></li>
 <li><b>DirDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/dirdefimpl">DirDefImpl</a></li>
+<li><b>~DirDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dirdefimpl/#adf355243f6ff387b7d9d3040f5d00fcd">DirDefImpl</a></li>
 <li><b>DirDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dirdefimpl/#ac719c84ffb783ba8961c045ebcd3b92b">DirDefImpl</a></li>
 <li><b>Direction</b>: as enum in class <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66">DocParamSect</a></li>
 <li><b>Direction</b>: as enum in struct <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4">SymbolModifiers</a></li>
@@ -1777,6 +1803,7 @@ keywords:
 <li><b>direction()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docparamlist/#ac45275b55efab9d6a60049f6d6dc7679">DocParamList</a></li>
 <li><b>direction()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#aa1ca2c7b08e6a8179dc840f0cd6844d7">vhdl::parser::VhdlParser</a></li>
 <li><b>DirEntry</b>: as class <a href="/web-doxygen/docs/api/classes/direntry">DirEntry</a></li>
+<li><b>~DirEntry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/direntry/#a010b1c84f2bd5743458d8a626cece46d">DirEntry</a></li>
 <li><b>DirEntry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/direntry/#a119f205cebd303b884fd108532831503">DirEntry</a></li>
 <li><b>DirEntry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/direntry/#ac673f0576517653f85c3fdbd170a8edf">DirEntry</a></li>
 <li><b>DirEntry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/direntry/#ae3ffd7594cfebff13d4a01dcd157dcc2">DirEntry</a></li>
@@ -1784,6 +1811,7 @@ keywords:
 <li><b>dirIndex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a6f80adeca774ba4d7ef26e6a32b69ce4">DirDefImpl</a></li>
 <li><b>DirIterator</b>: as friend in class <a href="/web-doxygen/docs/api/classes/direntry/#a15c9b88b84d942c6b5fe1d9a9e1ab0c5">DirEntry</a></li>
 <li><b>DirIterator</b>: as class <a href="/web-doxygen/docs/api/classes/diriterator">DirIterator</a></li>
+<li><b>~DirIterator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/diriterator/#a2d20623f235e252893d994957ec2a9f6">DirIterator</a></li>
 <li><b>DirIterator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/diriterator/#a182f1c600812106e59ee2c27aef102bc">DirIterator</a></li>
 <li><b>DirIterator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/diriterator/#aeb4e1054c2150c4d5f159876a91266a9">DirIterator</a></li>
 <li><b>DirIterator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/diriterator/#a0bee75c75ab8c043e77564196f39bff7">DirIterator</a></li>
@@ -1885,6 +1913,7 @@ keywords:
 <li><b>DocbookDocVisitor</b>: as class <a href="/web-doxygen/docs/api/classes/docbookdocvisitor">DocbookDocVisitor</a></li>
 <li><b>DocbookDocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7feef248a290d19da45c81f0ea26">DocbookDocVisitor</a></li>
 <li><b>DocbookGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/docbookgenerator">DocbookGenerator</a></li>
+<li><b>~DocbookGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docbookgenerator/#acd2d9e24cb0f45024d1efbfd59cff910">DocbookGenerator</a></li>
 <li><b>DocbookGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a></li>
 <li><b>DocbookGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a></li>
 <li><b>DocbookGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docbookgenerator/#acd55ac09ef27600eb1f6be12c339613f">DocbookGenerator</a></li>
@@ -1998,6 +2027,7 @@ keywords:
 <li><b>docName()</b>: as function in class <a href="/web-doxygen/docs/api/classes/filedef/#ad7d5e7ac753d7247cfaad5be9ea3eaec">FileDef</a></li>
 <li><b>docName()</b>: as function in class <a href="/web-doxygen/docs/api/classes/filedefimpl/#a71996f34c9f06ce7d2a00d3a02672df3">FileDefImpl</a></li>
 <li><b>DocNode</b>: as class <a href="/web-doxygen/docs/api/classes/docnode">DocNode</a></li>
+<li><b>~DocNode()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docnode/#acf8c57b45d0891fd4c490b5ca5437663">DocNode</a></li>
 <li><b>DocNode()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode</a></li>
 <li><b>DocNodeAST</b>: as class <a href="/web-doxygen/docs/api/classes/docnodeast">DocNodeAST</a></li>
 <li><b>DocNodeAST()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docnodeast/#ab573e4a616c8cf4677d233c90c65f79a">DocNodeAST</a></li>
@@ -2030,6 +2060,7 @@ keywords:
 <li><b>DocSeparator</b>: as class <a href="/web-doxygen/docs/api/classes/docseparator">DocSeparator</a></li>
 <li><b>DocSeparator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docseparator/#a5786ffe4653a341fa0d34fc28f5121f0">DocSeparator</a></li>
 <li><b>DocSets</b>: as class <a href="/web-doxygen/docs/api/classes/docsets">DocSets</a></li>
+<li><b>~DocSets()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docsets/#aa825df57a02ee969cb4ff64890aeb94f">DocSets</a></li>
 <li><b>DocSets()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docsets/#ad050cee55a579c4d01655f2041b5678b">DocSets</a></li>
 <li><b>docSignatures</b>: as variable in class <a href="/web-doxygen/docs/api/classes/definitionimpl/private/#a425a2ddf003cb7e12feccbdc412ce3f7">DefinitionImpl::Private</a></li>
 <li><b>DocSimpleList</b>: as class <a href="/web-doxygen/docs/api/classes/docsimplelist">DocSimpleList</a></li>
@@ -2050,6 +2081,7 @@ keywords:
 <li><b>DocTitle</b>: as class <a href="/web-doxygen/docs/api/classes/doctitle">DocTitle</a></li>
 <li><b>DocTitle()</b>: as function in class <a href="/web-doxygen/docs/api/classes/doctitle/#ab5aaaddf559a8eba47e0e39b3225ff36">DocTitle</a></li>
 <li><b>DocTokenizer</b>: as class <a href="/web-doxygen/docs/api/classes/doctokenizer">DocTokenizer</a></li>
+<li><b>~DocTokenizer()</b>: as function in class <a href="/web-doxygen/docs/api/classes/doctokenizer/#a70d2b66a1db91742f0de4c9239192fce">DocTokenizer</a></li>
 <li><b>DocTokenizer()</b>: as function in class <a href="/web-doxygen/docs/api/classes/doctokenizer/#a6384abe92f96fc6fa9c2fd47ce057b6e">DocTokenizer</a></li>
 <li><b>doctokenizerYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/doctokenizeryy-state">doctokenizerYY_state</a></li>
 <li><b>Documentation</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/memberlisttype/#a0a557a83b11c341dec415e83a4603664afae7e9e05b01faff3a1fa3e81aa9622f">MemberListType</a></li>
@@ -2080,6 +2112,7 @@ keywords:
 <li><b>DocVhdlFlow</b>: as class <a href="/web-doxygen/docs/api/classes/docvhdlflow">DocVhdlFlow</a></li>
 <li><b>DocVhdlFlow()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docvhdlflow/#a96b96fb1d60a91f8b2d28721ce4b0c67">DocVhdlFlow</a></li>
 <li><b>DocVisitor</b>: as class <a href="/web-doxygen/docs/api/classes/docvisitor">DocVisitor</a></li>
+<li><b>~DocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docvisitor/#a2b6a270d493b47592126ce5b63f9e83e">DocVisitor</a></li>
 <li><b>DocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docvisitor/#ab35e631d7cac3a0e521c8af8b9353a12">DocVisitor</a></li>
 <li><b>DocWhiteSpace</b>: as class <a href="/web-doxygen/docs/api/classes/docwhitespace">DocWhiteSpace</a></li>
 <li><b>DocWhiteSpace()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docwhitespace/#ae85792c7b27dd56ea6ddb87eb3a6feef">DocWhiteSpace</a></li>
@@ -2093,10 +2126,13 @@ keywords:
 <li><b>DotAttributes</b>: as class <a href="/web-doxygen/docs/api/classes/dotattributes">DotAttributes</a></li>
 <li><b>DotAttributes()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotattributes/#aa87143b014cd674f622db1f2c2e0b28a">DotAttributes</a></li>
 <li><b>DotCallGraph</b>: as class <a href="/web-doxygen/docs/api/classes/dotcallgraph">DotCallGraph</a></li>
+<li><b>~DotCallGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a3a3d80fa9ab081c5458268636796bfbc">DotCallGraph</a></li>
 <li><b>DotCallGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a027224fbb504c5436845bb85a7c511a0">DotCallGraph</a></li>
 <li><b>DotClassGraph</b>: as class <a href="/web-doxygen/docs/api/classes/dotclassgraph">DotClassGraph</a></li>
+<li><b>~DotClassGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a7cfd0c424567809bb652f0d952f85272">DotClassGraph</a></li>
 <li><b>DotClassGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a53601818c690d945d05a971b506bb5df">DotClassGraph</a></li>
 <li><b>DotDirDeps</b>: as class <a href="/web-doxygen/docs/api/classes/dotdirdeps">DotDirDeps</a></li>
+<li><b>~DotDirDeps()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotdirdeps/#a743a58333611c96705056fa43a7ba7e4">DotDirDeps</a></li>
 <li><b>DotDirDeps()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotdirdeps/#aadb04544a2a4bd97df25f78489476f77">DotDirDeps</a></li>
 <li><b>DotDirProperty</b>: as struct <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a></li>
 <li><b>DotDirPropertyBuilder</b>: as class <a href="/web-doxygen/docs/api/classes/dotdirpropertybuilder">DotDirPropertyBuilder</a></li>
@@ -2104,17 +2140,22 @@ keywords:
 <li><b>DotFilePatcher</b>: as class <a href="/web-doxygen/docs/api/classes/dotfilepatcher">DotFilePatcher</a></li>
 <li><b>DotFilePatcher()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a4993d9e9855116cd4fee5bd950c19bb8">DotFilePatcher</a></li>
 <li><b>DotGfxHierarchyTable</b>: as class <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable">DotGfxHierarchyTable</a></li>
+<li><b>~DotGfxHierarchyTable()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a434bb97932efb57dc0df493217c9a687">DotGfxHierarchyTable</a></li>
 <li><b>DotGfxHierarchyTable()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a></li>
 <li><b>DotGraph</b>: as class <a href="/web-doxygen/docs/api/classes/dotgraph">DotGraph</a></li>
+<li><b>~DotGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgraph/#a3ce9ef8e89ed0c12c7dcc4b5e1a86cb8">DotGraph</a></li>
 <li><b>DotGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgraph/#a418216c836cb63ef4a243bfb3bc5a81c">DotGraph</a></li>
 <li><b>DotGroupCollaboration</b>: as class <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration">DotGroupCollaboration</a></li>
+<li><b>~DotGroupCollaboration()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a8315009d3686b8d8801a31caf475e644">DotGroupCollaboration</a></li>
 <li><b>DotGroupCollaboration()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a></li>
 <li><b>DotInclDepGraph</b>: as class <a href="/web-doxygen/docs/api/classes/dotincldepgraph">DotInclDepGraph</a></li>
+<li><b>~DotInclDepGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#af16036a50c08251c90de8841af69858a">DotInclDepGraph</a></li>
 <li><b>DotInclDepGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#aa6f427f748bd461630a7656583fc729e">DotInclDepGraph</a></li>
 <li><b>DotJob</b>: as struct <a href="/web-doxygen/docs/api/structs/dotrunner/dotjob">DotRunner::DotJob</a></li>
 <li><b>DotJob()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/dotrunner/dotjob/#afa711ef27642b2857ce38c2c96d0e289">DotRunner::DotJob</a></li>
 <li><b>DotLegendGraph</b>: as class <a href="/web-doxygen/docs/api/classes/dotlegendgraph">DotLegendGraph</a></li>
 <li><b>DotManager</b>: as class <a href="/web-doxygen/docs/api/classes/dotmanager">DotManager</a></li>
+<li><b>~DotManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotmanager/#aa708c8fe7888cf0aaf4836061cec9a2d">DotManager</a></li>
 <li><b>DotManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotmanager/#a1797796e74535bef24884ca3fdb6b1ea">DotManager</a></li>
 <li><b>DotNode</b>: as friend in class <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph</a></li>
 <li><b>DotNode</b>: as class <a href="/web-doxygen/docs/api/classes/dotnode">DotNode</a></li>
@@ -2143,13 +2184,14 @@ keywords:
 <li><b>dummyTextStream</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/scanneryy-state/#ae5a50d9c21af948261293e90d2b1a13a">scannerYY_state</a></li>
 <li><b>dump()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#aafd3846f78cc76b992152366c99f7d74">anonymous{tagreader.cpp}::TagFileParser</a></li>
 </ul>
-<p>576 entries</p>
+<p>598 entries</p>
 
 ## - E -
 
 <ul>
 <li><b>ec</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/diriterator/private/#a8dbc8a1f55136e5a84afea93639c85df">DirIterator::Private</a></li>
 <li><b>EclipseHelp</b>: as class <a href="/web-doxygen/docs/api/classes/eclipsehelp">EclipseHelp</a></li>
+<li><b>~EclipseHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/eclipsehelp/#a09fa77b331a5f5bc951428aecd9f34cc">EclipseHelp</a></li>
 <li><b>EclipseHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/eclipsehelp/#a4f1bd0f9c58507da2b24c9491200bf8a">EclipseHelp</a></li>
 <li><b>Edge</b>: as struct <a href="/web-doxygen/docs/api/structs/dotgroupcollaboration/edge">DotGroupCollaboration::Edge</a></li>
 <li><b>Edge()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/dotgroupcollaboration/edge/#a72ac56ac966b6ab1f983c728e99f9608">DotGroupCollaboration::Edge</a></li>
@@ -2185,6 +2227,7 @@ keywords:
 <li><b>emojiEntityCompatibility</b>: as struct <a href="/web-doxygen/docs/api/structs/emojientitycompatibility">emojiEntityCompatibility</a></li>
 <li><b>emojiEntityInfo</b>: as struct <a href="/web-doxygen/docs/api/structs/emojientityinfo">emojiEntityInfo</a></li>
 <li><b>EmojiEntityMapper</b>: as class <a href="/web-doxygen/docs/api/classes/emojientitymapper">EmojiEntityMapper</a></li>
+<li><b>~EmojiEntityMapper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa9ef574821b28aefb585a4a135e41dd7">EmojiEntityMapper</a></li>
 <li><b>EmojiEntityMapper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a></li>
 <li><b>emplace_back()</b>: as function in class <a href="/web-doxygen/docs/api/classes/growvector/#a7a92b9894590a7470f2f9ebd2d7cda7b">GrowVector&lt;T&gt;</a></li>
 <li><b>EMPTY_NO</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/flowchart/#acd787d5c3faa541b938e0d58c800572ca194e2cbae1607787b49c794d6bb53f56">FlowChart</a></li>
@@ -2961,6 +3004,7 @@ keywords:
 <li><b>ENTRY_SPECIFICATIONS</b>: as enum value in struct <a href="/web-doxygen/docs/api/structs/layoutdocentry/#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc95187fc898e">LayoutDocEntry</a></li>
 <li><b>ENTRY_TYPES</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/entrytype/#a2992cfce5612121d0a570c53956b9faea7e75c5ed3c9d38236428d8fcdc9f6baa">EntryType</a></li>
 <li><b>entry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docindexentry/#ac267b515c9df901ab1505e070931996c">DocIndexEntry</a></li>
+<li><b>~Entry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/entry/#ace080276d727881acfee7197b85f0b65">Entry</a></li>
 <li><b>Entry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/entry/#a8283ac849b1f02ff82ca2ff28253db98">Entry</a></li>
 <li><b>Entry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry</a></li>
 <li><b>Entry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/entry/#a8e27c2978aeffa120affe2c383eae893">Entry</a></li>
@@ -2993,6 +3037,7 @@ keywords:
 <li><b>ErrorHandler</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler">vhdl::parser::ErrorHandler</a></li>
 <li><b>errorHandler</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#addb4f7aa3d5d178f45d96738f54a5504">vhdl::parser::VhdlParser</a></li>
 <li><b>errorHandler</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a1da257ee8c87820a0517053ed2ccb36e">vhdl::parser::VhdlParserTokenManager</a></li>
+<li><b>~ErrorHandler()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a1a8bed6e39180859e6fda8b0543b6222">vhdl::parser::ErrorHandler</a></li>
 <li><b>ErrorHandler()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a72b0456d8c4d2541b7ff734563cbe6be">vhdl::parser::ErrorHandler</a></li>
 <li><b>ErrorType</b>: as typedef in class <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a8034920e7bf0b89382769264fc482060">XMLHandlers</a></li>
 <li><b>escapeMakeIndexChars()</b>: as function in class <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a0b6e670e04f51e9bb0a163326fe8ffab">LatexDocVisitor</a></li>
@@ -3001,6 +3046,7 @@ keywords:
 <li><b>evalVariable()</b>: as function in class <a href="/web-doxygen/docs/api/classes/condparser/#a6eacc43d99d9d65ba89361b9846b0c6f">CondParser</a></li>
 <li><b>Ex</b>: as class <a href="/web-doxygen/docs/api/classes/reg/ex">reg::Ex</a></li>
 <li><b>Ex</b>: as friend in class <a href="/web-doxygen/docs/api/classes/reg/match/#a0ce15d3df1c5aa85342f8949e00a8287">reg::Match</a></li>
+<li><b>~Ex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reg/ex/#a197664abdebf160b5b621c3a78c01cf7">reg::Ex</a></li>
 <li><b>Ex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reg/ex/#a54ed63c6793f8b7f2e026c26f12d4e67">reg::Ex</a></li>
 <li><b>Example</b>: as struct <a href="/web-doxygen/docs/api/structs/example">Example</a></li>
 <li><b>Example()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/example/#a542f2504157d756b0d41c0711dc9bc4c">Example</a></li>
@@ -3105,7 +3151,7 @@ keywords:
 <li><b>extraTypeChars()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefaliasimpl/#a9154aea0867b94b58ee1697ae34e9ff6">MemberDefAliasImpl</a></li>
 <li><b>extraTypeChars()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2e61274ffe9c11299c6f8a4946a3d1ad">MemberDefImpl</a></li>
 </ul>
-<p>956 entries</p>
+<p>961 entries</p>
 
 ## - F -
 
@@ -3171,6 +3217,7 @@ keywords:
 <li><b>fileDef</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/includeinfo/#ac9ea4d136292663b672a8aeec5944548">IncludeInfo</a></li>
 <li><b>fileDef()</b>: as function in class <a href="/web-doxygen/docs/api/classes/entry/#addf5acc1008711dc8404f2029b764297">Entry</a></li>
 <li><b>FileDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/filedefimpl">FileDefImpl</a></li>
+<li><b>~FileDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/filedefimpl/#a91acc968f94a752afac27c5f3583564f">FileDefImpl</a></li>
 <li><b>FileDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac43c4867446413fa46a4d1140f40eb9f">FileDefImpl</a></li>
 <li><b>fileId</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/jstreefile/#ad0cfc7f4fa14c847ac14f3ec37b0b85d">JSTreeFile</a></li>
 <li><b>fileIndexLetterUsed</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/index/private/#a8094efbbc5729b16622092fc5733f549">Index::Private</a></li>
@@ -3456,6 +3503,7 @@ keywords:
 <li><b>formulas</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/formulamanager/private/#a656bd0f666894d84c292bd7b1ec9e296">FormulaManager::Private</a></li>
 <li><b>formulaText</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#ad21224b347a8540bc478ca21327c3163">commentscanYY_state</a></li>
 <li><b>FortranCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/fortrancodeparser">FortranCodeParser</a></li>
+<li><b>~FortranCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ae250a28ed4c14285f34f5e9e2cd47e5c">FortranCodeParser</a></li>
 <li><b>FortranCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#a21fc1ba3570d499b095e5ba8559f287f">FortranCodeParser</a></li>
 <li><b>FortranCodeParserFixed</b>: as class <a href="/web-doxygen/docs/api/classes/fortrancodeparserfixed">FortranCodeParserFixed</a></li>
 <li><b>FortranCodeParserFixed()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortrancodeparserfixed/#a62fa7fb95b546f07c970ece691605207">FortranCodeParserFixed</a></li>
@@ -3464,6 +3512,7 @@ keywords:
 <li><b>fortrancodeYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/fortrancodeyy-state">fortrancodeYY_state</a></li>
 <li><b>FortranFixed2Free</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dafae1c4a49dc51808b18e3091bbc85e28">Debug</a></li>
 <li><b>FortranOutlineParser</b>: as class <a href="/web-doxygen/docs/api/classes/fortranoutlineparser">FortranOutlineParser</a></li>
+<li><b>~FortranOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#ac2e6484f64e984fb8e5d1cb0a0ef5d2d">FortranOutlineParser</a></li>
 <li><b>FortranOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#ad7c8dd89e81d6704c92a052dba364ac8">FortranOutlineParser</a></li>
 <li><b>FortranOutlineParserFixed</b>: as class <a href="/web-doxygen/docs/api/classes/fortranoutlineparserfixed">FortranOutlineParserFixed</a></li>
 <li><b>FortranOutlineParserFixed()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortranoutlineparserfixed/#a5f28fd868b92ae98d4dfced34475a874">FortranOutlineParserFixed</a></li>
@@ -3496,6 +3545,7 @@ keywords:
 <li><b>front()</b>: as function in class <a href="/web-doxygen/docs/api/classes/membervector/#a602285c1987a5e4f223507c54df96443">MemberVector</a></li>
 <li><b>front()</b>: as function in class <a href="/web-doxygen/docs/api/classes/membervector/#aded22301293f615d2f20a038d7554129">MemberVector</a></li>
 <li><b>FTVHelp</b>: as class <a href="/web-doxygen/docs/api/classes/ftvhelp">FTVHelp</a></li>
+<li><b>~FTVHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/ftvhelp/#aacb475096471a3b51feb4b247a41e27c">FTVHelp</a></li>
 <li><b>FTVHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/ftvhelp/#a7e7d72cccba33233dd89c6280b9ca101">FTVHelp</a></li>
 <li><b>FTVNode</b>: as struct <a href="/web-doxygen/docs/api/structs/ftvnode">FTVNode</a></li>
 <li><b>FTVNode()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/ftvnode/#a0bd6fff389cf03714d8b6e43bdd65a33">FTVNode</a></li>
@@ -3513,7 +3563,7 @@ keywords:
 <li><b>functionNameLinkedMap</b>: as variable in class <a href="/web-doxygen/docs/api/classes/doxygen/#a6c68c48d8e3dac65c86b39ab838a5f9e">Doxygen</a></li>
 <li><b>functionProto</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#a73f7e15c420c20ccf98811a6bc059443">commentscanYY_state</a></li>
 </ul>
-<p>402 entries</p>
+<p>406 entries</p>
 
 ## - G -
 
@@ -4147,6 +4197,7 @@ keywords:
 <li><b>group()</b>: as function in class <a href="/web-doxygen/docs/api/classes/refitem/#a04b6ff7edd68961dfad38c6528623984">RefItem</a></li>
 <li><b>GroupDef</b>: as class <a href="/web-doxygen/docs/api/classes/groupdef">GroupDef</a></li>
 <li><b>GroupDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/groupdefimpl">GroupDefImpl</a></li>
+<li><b>~GroupDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a27b5fdd6a511549450b58d8432570b93">GroupDefImpl</a></li>
 <li><b>GroupDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a55e833486416944421ab66c492453fe6">GroupDefImpl</a></li>
 <li><b>GROUPDOC_ADD</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/entry/#a470b655d0d6179559a11a81e6617d509a7637daf4200f6f55374604f2384ac925">Entry</a></li>
 <li><b>GROUPDOC_NORMAL</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/entry/#a470b655d0d6179559a11a81e6617d509af6812be32a740baaad470ce4aec182be">Entry</a></li>
@@ -4177,6 +4228,7 @@ keywords:
 <li><b>groupTitle()</b>: as function in class <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef</a></li>
 <li><b>groupTitle()</b>: as function in class <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a15578b853733239ce65d9ea1efcb6566">GroupDefImpl</a></li>
 <li><b>GrowBuf</b>: as class <a href="/web-doxygen/docs/api/classes/growbuf">GrowBuf</a></li>
+<li><b>~GrowBuf()</b>: as function in class <a href="/web-doxygen/docs/api/classes/growbuf/#af7206ac4d12d20889037d545e6bab0d9">GrowBuf</a></li>
 <li><b>GrowBuf()</b>: as function in class <a href="/web-doxygen/docs/api/classes/growbuf/#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a></li>
 <li><b>GrowBuf()</b>: as function in class <a href="/web-doxygen/docs/api/classes/growbuf/#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a></li>
 <li><b>GrowBuf()</b>: as function in class <a href="/web-doxygen/docs/api/classes/growbuf/#ab7adf8adf049747895150afb7c539d71">GrowBuf</a></li>
@@ -4194,7 +4246,7 @@ keywords:
 <li><b>guards</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#ae62c91a58c4e62df1c8876265a771083">commentscanYY_state</a></li>
 <li><b>guardType</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#a71bf7acb1894756edf376234de19ff6c">commentscanYY_state</a></li>
 </ul>
-<p>675 entries</p>
+<p>677 entries</p>
 
 ## - H -
 
@@ -4442,23 +4494,28 @@ keywords:
 <li><b>HtmlDocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a0349ec90e3c600a5a8d092a2f8a24bbe">HtmlDocVisitor</a></li>
 <li><b>HtmlEntityInfo</b>: as struct <a href="/web-doxygen/docs/api/structs/htmlentityinfo">HtmlEntityInfo</a></li>
 <li><b>HtmlEntityMapper</b>: as class <a href="/web-doxygen/docs/api/classes/htmlentitymapper">HtmlEntityMapper</a></li>
+<li><b>~HtmlEntityMapper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a2fb3bfaff647723db532f2dec86d446e">HtmlEntityMapper</a></li>
 <li><b>HtmlEntityMapper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a></li>
 <li><b>htmlFileExtension</b>: as variable in class <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen</a></li>
 <li><b>HtmlGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/htmlgenerator">HtmlGenerator</a></li>
+<li><b>~HtmlGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a11d3c67df991a213ef94780d91367a12">HtmlGenerator</a></li>
 <li><b>HtmlGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0dc05bee31f886b2b5d5318d0c0213a4">HtmlGenerator</a></li>
 <li><b>HtmlGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ad04eea6ce6f560d620aa10365466ba44">HtmlGenerator</a></li>
 <li><b>HtmlGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a79d0647721017cb789265f3ef0308349">HtmlGenerator</a></li>
 <li><b>HtmlHelp</b>: as class <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a></li>
+<li><b>~HtmlHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelp/#a53ff23898ba7e49de5ce6dba03675f82">HtmlHelp</a></li>
 <li><b>HtmlHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelp/#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a></li>
 <li><b>HtmlHelpIndex</b>: as class <a href="/web-doxygen/docs/api/classes/htmlhelpindex">HtmlHelpIndex</a></li>
+<li><b>~HtmlHelpIndex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a0b68b2ca104803c3a6dc76a18aa05f13">HtmlHelpIndex</a></li>
 <li><b>HtmlHelpIndex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#aa41b0639266dc74951a9a77732749e56">HtmlHelpIndex</a></li>
 <li><b>HtmlHelpRecoder</b>: as class <a href="/web-doxygen/docs/api/classes/htmlhelprecoder">HtmlHelpRecoder</a></li>
+<li><b>~HtmlHelpRecoder()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#a70452af4e4bc1ae32830545090d28a18">HtmlHelpRecoder</a></li>
 <li><b>HtmlHelpRecoder()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#aa2d90fe97c752a21a0806ee6eb5b7c33">HtmlHelpRecoder</a></li>
 <li><b>HtmlInclude</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude</a></li>
 <li><b>htmlLevel()</b>: as function in class <a href="/web-doxygen/docs/api/classes/localtoc/#a8cdc5e389caf05398964aded60de1ff0">LocalToc</a></li>
 <li><b>HtmlOnly</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim</a></li>
 </ul>
-<p>258 entries</p>
+<p>263 entries</p>
 
 ## - I -
 
@@ -4559,6 +4616,7 @@ keywords:
 <li><b>image</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a48cc7b3f8164956fd940b2d53b792043">vhdl::parser::Token</a></li>
 <li><b>image</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a037506a2d6c2b1ca4c590c776a235ec8">vhdl::parser::VhdlParserTokenManager</a></li>
 <li><b>IMAGE_NEW</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/htmlhelp/#a7fa2b031d786cb7a678e88809c2566caa3b39f2db693a2ea1bead2fd1db0876d8">HtmlHelp</a></li>
+<li><b>~Image()</b>: as function in class <a href="/web-doxygen/docs/api/classes/image/#a0294f63700543e11c0f0da85601c7ae5">Image</a></li>
 <li><b>Image()</b>: as function in class <a href="/web-doxygen/docs/api/classes/image/#af2e9cc7a6c902dc1d3905d23a8be7cf2">Image</a></li>
 <li><b>imageFiles</b>: as variable in class <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a2d7793d873aadb3235c41680a4b50864">HtmlHelp::Private</a></li>
 <li><b>imageNameLinkedMap</b>: as variable in class <a href="/web-doxygen/docs/api/classes/doxygen/#a7062fae1e1507b5c093fe5b71a866371">Doxygen</a></li>
@@ -4713,6 +4771,7 @@ keywords:
 <li><b>index_specification()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#ac8c36a4bc347127435759189cd3ba401">vhdl::parser::VhdlParser</a></li>
 <li><b>index_subtype_definition()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#a5eb8fffec204eeabf80ab04785e5556f">vhdl::parser::VhdlParser</a></li>
 <li><b>index()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji</a></li>
+<li><b>~Index()</b>: as function in class <a href="/web-doxygen/docs/api/classes/index/#a76b7ed4e9cb0b1540264567f84896032">Index</a></li>
 <li><b>Index()</b>: as function in class <a href="/web-doxygen/docs/api/classes/index/#ae767eedba252c26cc0dc5e60f0b9ed9b">Index</a></li>
 <li><b>index()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/styledata/#a778df6e3e0962fc37bdbbb8cf4dced15">StyleData</a></li>
 <li><b>indexed_name()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#abfdba200fca2b8f2462abb508c9e9c7c">vhdl::parser::VhdlParser</a></li>
@@ -5738,7 +5797,7 @@ keywords:
 <li><b>Iterator&lt;C, I&gt;</b>: as class <a href="/web-doxygen/docs/api/classes/growvector/iterator">GrowVector::Iterator&lt;C, I&gt;</a></li>
 <li><b>iterators</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/stlinfo/#aa6a51c8426777163389453b971b338eb">STLInfo</a></li>
 </ul>
-<p>1274 entries</p>
+<p>1276 entries</p>
 
 ## - J -
 
@@ -6929,11 +6988,14 @@ keywords:
 <li><b>jj_scanpos</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#a4857ee5cc46641eed96193aace2b22d5">vhdl::parser::VhdlParser</a></li>
 <li><b>jj_semLA</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#ad41198963faf1efc9af36c28f2a904e2">vhdl::parser::VhdlParser</a></li>
 <li><b>JJCalls</b>: as struct <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls">vhdl::parser::JJCalls</a></li>
+<li><b>~JJCalls()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls/#a953e9b05e336c11f8e2435b3ea506bc1">vhdl::parser::JJCalls</a></li>
 <li><b>JJCalls()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls/#aaaa2b2b81198a1e2a706a91baa09712c">vhdl::parser::JJCalls</a></li>
 <li><b>jjCanMove_0()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a3f30861371198cce27c86dfae0c82504">vhdl::parser::VhdlParserTokenManager</a></li>
 <li><b>jjCanMove_1()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#acf6f02dbe13a50624c0463a57cc37700">vhdl::parser::VhdlParserTokenManager</a></li>
+<li><b>~JJEnter()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jjenter/#af0996d5e0afc48fc31b43b7bba2265ac">JJEnter&lt;T&gt;</a></li>
 <li><b>JJEnter()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jjenter/#ab72d8c6bfef04fc9faab314f401255a3">JJEnter&lt;T&gt;</a></li>
 <li><b>JJEnter&lt;T&gt;</b>: as struct <a href="/web-doxygen/docs/api/structs/jjenter">JJEnter&lt;T&gt;</a></li>
+<li><b>~JJExit()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jjexit/#a43eb7df1aae863a4d9b7e3507e9316ea">JJExit&lt;T&gt;</a></li>
 <li><b>JJExit()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jjexit/#ae0986466f47a26349be4635bb4c68e89">JJExit&lt;T&gt;</a></li>
 <li><b>JJExit&lt;T&gt;</b>: as struct <a href="/web-doxygen/docs/api/structs/jjexit">JJExit&lt;T&gt;</a></li>
 <li><b>jjFillToken()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a575e793ba868b3e91ee00a3fd2315073">vhdl::parser::VhdlParserTokenManager</a></li>
@@ -6970,7 +7032,7 @@ keywords:
 <li><b>JSTreeFile</b>: as struct <a href="/web-doxygen/docs/api/structs/jstreefile">JSTreeFile</a></li>
 <li><b>JSTreeFile()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jstreefile/#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a></li>
 </ul>
-<p>1226 entries</p>
+<p>1229 entries</p>
 
 ## - K -
 
@@ -7142,6 +7204,7 @@ keywords:
 <li><b>latexFontenc()</b>: as function in class <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a96cb38d0d0d28286ca235406e17344bc">TranslatorSerbianCyrillic</a></li>
 <li><b>latexFontenc()</b>: as function in class <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#ac5024b86225a76b14c0c692109329b32">TranslatorVietnamese</a></li>
 <li><b>LatexGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/latexgenerator">LatexGenerator</a></li>
+<li><b>~LatexGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/latexgenerator/#a41eb1f6954f59427c7eeb483df39cdec">LatexGenerator</a></li>
 <li><b>LatexGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/latexgenerator/#ae145cddfcb7ce9a667be80989bc6f865">LatexGenerator</a></li>
 <li><b>LatexGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/latexgenerator/#ab2cb30e88fdc934a8f0c664db36e6028">LatexGenerator</a></li>
 <li><b>LatexGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/latexgenerator/#a11ce38eb74dfbe43f51e8e28f699530b">LatexGenerator</a></li>
@@ -7206,6 +7269,7 @@ keywords:
 <li><b>LayoutDocEntrySimple()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/layoutdocentrysimple/#a98ca4f55e9b69d4c8f241ae4c601dc6d">LayoutDocEntrySimple</a></li>
 <li><b>LayoutDocManager</b>: as class <a href="/web-doxygen/docs/api/classes/layoutdocmanager">LayoutDocManager</a></li>
 <li><b>LayoutDocManager</b>: as friend in struct <a href="/web-doxygen/docs/api/structs/layoutnaventry/#af6431c54f9737e0168be5926d2d9b5e9">LayoutNavEntry</a></li>
+<li><b>~LayoutDocManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a693e1185a1fe8a78b6cc4404c68c91ca">LayoutDocManager</a></li>
 <li><b>LayoutDocManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#ade9c88ce93dd67220115ba975c7078b1">LayoutDocManager</a></li>
 <li><b>LayoutNavEntry</b>: as struct <a href="/web-doxygen/docs/api/structs/layoutnaventry">LayoutNavEntry</a></li>
 <li><b>LayoutNavEntry()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/layoutnaventry/#af57329c38d605e043016e36ec1b66c36">LayoutNavEntry</a></li>
@@ -7263,6 +7327,7 @@ keywords:
 <li><b>Lex_xmlcode</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dabe298d28c7ee8dde51e2ab7e49c864ed">Debug</a></li>
 <li><b>lex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/doctokenizer/#a286239d4401fbbfb8b183a7e9c521866">DocTokenizer</a></li>
 <li><b>LexCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/lexcodeparser">LexCodeParser</a></li>
+<li><b>~LexCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/lexcodeparser/#aea06a30d26e093ef35584e22381543c0">LexCodeParser</a></li>
 <li><b>LexCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/lexcodeparser/#ab888b9484e3ea4ac127f6a4e08a66415">LexCodeParser</a></li>
 <li><b>lexcodeYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/lexcodeyy-state">lexcodeYY_state</a></li>
 <li><b>lexerStack</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/doctokenizeryy-state/#af9c9bc722176dff3682bc370b8579070">doctokenizerYY_state</a></li>
@@ -7277,6 +7342,7 @@ keywords:
 <li><b>lexInit</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/scanneryy-state/#addff874a27a20650ccbf6a6a65001eea">scannerYY_state</a></li>
 <li><b>lexInit</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state/#a47b990dbd8b34f97a095bcef07b8e3a2">vhdlcodeYY_state</a></li>
 <li><b>LexOutlineParser</b>: as class <a href="/web-doxygen/docs/api/classes/lexoutlineparser">LexOutlineParser</a></li>
+<li><b>~LexOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#a512e2156570948dccc8907824aa9c0e0">LexOutlineParser</a></li>
 <li><b>LexOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#a1c3dd92666badfafa45cb0e5295cd511">LexOutlineParser</a></li>
 <li><b>lexRulesPart</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/filestate/#a6327639744fc445777981d0ae4f74750">FileState</a></li>
 <li><b>lexRulesPart</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/preyy-state/#a5b638d42d13a20cb33e7bf54bcc10353">preYY_state</a></li>
@@ -7392,7 +7458,7 @@ keywords:
 <li><b>lower()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString</a></li>
 <li><b>lvl</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/rtf-table-default/#ae91e718686a7c1617dca8be053b75b0b">Rtf_Table_Default</a></li>
 </ul>
-<p>382 entries</p>
+<p>386 entries</p>
 
 ## - M -
 
@@ -8432,6 +8498,7 @@ keywords:
 <li><b>ManDocVisitor</b>: as class <a href="/web-doxygen/docs/api/classes/mandocvisitor">ManDocVisitor</a></li>
 <li><b>ManDocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/mandocvisitor/#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a></li>
 <li><b>ManGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/mangenerator">ManGenerator</a></li>
+<li><b>~ManGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/mangenerator/#ab6edf1539db9429fdb029a94074a5271">ManGenerator</a></li>
 <li><b>ManGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/mangenerator/#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a></li>
 <li><b>ManGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/mangenerator/#ad5d7852c208c4c26f344ff3c512a0f87">ManGenerator</a></li>
 <li><b>ManGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/mangenerator/#ad1d7f98f3af60fc6f6db4defc8da0e15">ManGenerator</a></li>
@@ -8452,8 +8519,10 @@ keywords:
 <li><b>markAsVisible()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotnode/#a2592b8669b2aba1c2f0476e1011d48cd">DotNode</a></li>
 <li><b>Markdown</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da4e7a964cec1d0423c74ab7045c1f6f6d">Debug</a></li>
 <li><b>Markdown</b>: as class <a href="/web-doxygen/docs/api/classes/markdown">Markdown</a></li>
+<li><b>~Markdown()</b>: as function in class <a href="/web-doxygen/docs/api/classes/markdown/#a582aef5e582b2751e8e76732a551a361">Markdown</a></li>
 <li><b>Markdown()</b>: as function in class <a href="/web-doxygen/docs/api/classes/markdown/#acb219dbca88da9e2c914070e1adc443d">Markdown</a></li>
 <li><b>MarkdownOutlineParser</b>: as class <a href="/web-doxygen/docs/api/classes/markdownoutlineparser">MarkdownOutlineParser</a></li>
+<li><b>~MarkdownOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/markdownoutlineparser/#a6b7d33c84a9bbe78b498a458ae7cc861">MarkdownOutlineParser</a></li>
 <li><b>MarkdownOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/markdownoutlineparser/#a8fb5ef90db1a3302c0bc0e06e684d880">MarkdownOutlineParser</a></li>
 <li><b>markdownSupport</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#a9a20b4a712b5be9793d4412cf3e6d60f">commentscanYY_state</a></li>
 <li><b>markdownSupport</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/docparsercontext/#ac471382981c9338c82ac73b036d7a3ff">DocParserContext</a></li>
@@ -8500,8 +8569,10 @@ keywords:
 <li><b>memberDef()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberinfo/#a268334aa4ac2a8cc00ba917134b9b008">MemberInfo</a></li>
 <li><b>memberDef()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberinfo/#afe00e5f55797749103080716c05a88d2">MemberInfo</a></li>
 <li><b>MemberDefAliasImpl</b>: as class <a href="/web-doxygen/docs/api/classes/memberdefaliasimpl">MemberDefAliasImpl</a></li>
+<li><b>~MemberDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefaliasimpl/#afe414ed680517fcee779dfb539b4e115">MemberDefAliasImpl</a></li>
 <li><b>MemberDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefaliasimpl/#ab93c6ccca2745c025e062eb867588ec4">MemberDefAliasImpl</a></li>
 <li><b>MemberDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/memberdefimpl">MemberDefImpl</a></li>
+<li><b>~MemberDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aede8424ca860f8b326112d713a603dd1">MemberDefImpl</a></li>
 <li><b>MemberDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac8b79ad73b0f1f390c8f8ade166059f3">MemberDefImpl</a></li>
 <li><b>memberDefinition()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdef/#a0b88c6841076c450863bc9b57e5068d1">MemberDef</a></li>
 <li><b>memberDefinition()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefaliasimpl/#a9ce42bf45bd30e09601a09b23e6e13bb">MemberDefAliasImpl</a></li>
@@ -8521,8 +8592,10 @@ keywords:
 <li><b>MemberLinkedRefMap</b>: as class <a href="/web-doxygen/docs/api/classes/memberlinkedrefmap">MemberLinkedRefMap</a></li>
 <li><b>memberList</b>: as variable in class <a href="/web-doxygen/docs/api/classes/membergroup/#af5136254d93ca9a6fd5021ec2ea8f849">MemberGroup</a></li>
 <li><b>MemberList</b>: as class <a href="/web-doxygen/docs/api/classes/memberlist">MemberList</a></li>
+<li><b>~MemberList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlist/#aeecd2f64ef29c3ab1459524c38dc13da">MemberList</a></li>
 <li><b>MemberList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlist/#a3e36f184f58e200b6913d383d5ec1a46">MemberList</a></li>
 <li><b>MemberLists</b>: as class <a href="/web-doxygen/docs/api/classes/memberlists">MemberLists</a></li>
+<li><b>~MemberLists()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlists/#a7034c598946e3b8c2fd9617a431e5e0d">MemberLists</a></li>
 <li><b>MemberLists()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlists/#a2f61bea6c07780614b38af584423027d">MemberLists</a></li>
 <li><b>MemberListType</b>: as class <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a></li>
 <li><b>MemberListType()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlisttype/#a8dc05d838b572c08b708621fa6a7c078">MemberListType</a></li>
@@ -8616,6 +8689,7 @@ keywords:
 <li><b>moduleList</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/taggroupinfo/#ac3c6fd89407442477963e1214db6724b">anonymous{tagreader.cpp}::TagGroupInfo</a></li>
 <li><b>ModuleList</b>: as class <a href="/web-doxygen/docs/api/classes/modulelist">ModuleList</a></li>
 <li><b>ModuleManager</b>: as class <a href="/web-doxygen/docs/api/classes/modulemanager">ModuleManager</a></li>
+<li><b>~ModuleManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/modulemanager/#a14868f4f33ffb566217d87d8aab83d5a">ModuleManager</a></li>
 <li><b>ModuleManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/modulemanager/#a2940b3dd370b9c454c7cc600c540bb0e">ModuleManager</a></li>
 <li><b>moduleNameMap</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/modulemanager/private/#aa419cdcb3db7ad73b42022918b2be51e">ModuleManager::Private</a></li>
 <li><b>moduleProcedures</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/fortranscanneryy-state/#aa9fb58ad13902fc2cabaebe256532680">fortranscannerYY_state</a></li>
@@ -8658,7 +8732,7 @@ keywords:
 <li><b>mutex</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/codefragmentmanager/private/#a28132addef866f8f2a51b7fe1c88f17c">CodeFragmentManager::Private</a></li>
 <li><b>mutex</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/modulemanager/private/#a29f444ce269ffce03a5ee00980a20bb4">ModuleManager::Private</a></li>
 </ul>
-<p>1260 entries</p>
+<p>1268 entries</p>
 
 ## - N -
 
@@ -8725,8 +8799,10 @@ keywords:
 <li><b>namespaceAliasMap</b>: as variable in class <a href="/web-doxygen/docs/api/classes/doxygen/#ad4fa0229ea5461dc478de6c6f10e53d7">Doxygen</a></li>
 <li><b>NamespaceDef</b>: as class <a href="/web-doxygen/docs/api/classes/namespacedef">NamespaceDef</a></li>
 <li><b>NamespaceDefAliasImpl</b>: as class <a href="/web-doxygen/docs/api/classes/namespacedefaliasimpl">NamespaceDefAliasImpl</a></li>
+<li><b>~NamespaceDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefaliasimpl/#aa249d545c495a99f7bc37c4867d328c9">NamespaceDefAliasImpl</a></li>
 <li><b>NamespaceDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefaliasimpl/#ac687278350d122b8650f27bb6faab66b">NamespaceDefAliasImpl</a></li>
 <li><b>NamespaceDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/namespacedefimpl">NamespaceDefImpl</a></li>
+<li><b>~NamespaceDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a72a9df119154062876f5670d802733e8">NamespaceDefImpl</a></li>
 <li><b>NamespaceDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a95e2724703e8c0f7d753368ffc64d05c">NamespaceDefImpl</a></li>
 <li><b>NamespaceDefMutable</b>: as class <a href="/web-doxygen/docs/api/classes/namespacedefmutable">NamespaceDefMutable</a></li>
 <li><b>namespaceIndexLetterUsed</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/index/private/#ae38d2b6ec88819d5d78e6deea7ebff16">Index::Private</a></li>
@@ -8892,7 +8968,7 @@ keywords:
 <li><b>numRows()</b>: as function in class <a href="/web-doxygen/docs/api/classes/treediagram/#aeffe87b83ec63afbb431f8a7c0f59fcb">TreeDiagram</a></li>
 <li><b>numTocTypes</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/localtoc/#a665c661f92a4de013f9c54ad52a330ecad6c35d05db1533a3b69e58a904cc1415">LocalToc</a></li>
 </ul>
-<p>228 entries</p>
+<p>230 entries</p>
 
 ## - O -
 
@@ -9625,11 +9701,13 @@ keywords:
 <li><b>OutputGenElem()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/outputlist/outputgenelem/#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputList::OutputGenElem</a></li>
 <li><b>OutputGenElem()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/outputlist/outputgenelem/#a2574275bc562aee534dea2d0d69ada1b">OutputList::OutputGenElem</a></li>
 <li><b>OutputGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/outputgenerator">OutputGenerator</a></li>
+<li><b>~OutputGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputgenerator/#a8efbb8581dc2f9864a3170912e816370">OutputGenerator</a></li>
 <li><b>OutputGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator</a></li>
 <li><b>OutputGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputgenerator/#a8716724782730065f43ea240f93917b0">OutputGenerator</a></li>
 <li><b>OutputGenIntf</b>: as class <a href="/web-doxygen/docs/api/classes/outputgenintf">OutputGenIntf</a></li>
 <li><b>OutputGenIntfPtr</b>: as typedef in class <a href="/web-doxygen/docs/api/classes/outputlist/#ab96ab5436b6d039364d65aa7b05b37d3">OutputList</a></li>
 <li><b>OutputList</b>: as class <a href="/web-doxygen/docs/api/classes/outputlist">OutputList</a></li>
+<li><b>~OutputList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#ad42a92df914a5cc6ebb1889760c17660">OutputList</a></li>
 <li><b>OutputList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#a9c57688bca34e8437f691c7c0a6fae3e">OutputList</a></li>
 <li><b>OutputList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#af39f7d4abc52b7b869bfb783fcac7315">OutputList</a></li>
 <li><b>OutputList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#a3abb58f0059d4992f261fc45ed4d8af2">OutputList</a></li>
@@ -9659,7 +9737,7 @@ keywords:
 <li><b>overrideReferencesRelation()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a08ef1a59f373a742aeff6ab8053452cc">MemberDefImpl</a></li>
 <li><b>overrideReferencesRelation()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefmutable/#a7ba2470c3d9ff6d5b75adb36fa26a45a">MemberDefMutable</a></li>
 </ul>
-<p>761 entries</p>
+<p>763 entries</p>
 
 ## - P -
 
@@ -9733,6 +9811,7 @@ keywords:
 <li><b>Page</b>: as variable in class <a href="/web-doxygen/docs/api/classes/sectiontype/#a840604fef79fdbb4e2d3e44f6fb25be1">SectionType</a></li>
 <li><b>PageDef</b>: as class <a href="/web-doxygen/docs/api/classes/pagedef">PageDef</a></li>
 <li><b>PageDefImpl</b>: as class <a href="/web-doxygen/docs/api/classes/pagedefimpl">PageDefImpl</a></li>
+<li><b>~PageDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a47dcb9186b3d722868a490b4422cccf8">PageDefImpl</a></li>
 <li><b>PageDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3b619a4fc6ed1af839392d59ec20b0e2">PageDefImpl</a></li>
 <li><b>pageLinkedMap</b>: as variable in class <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen</a></li>
 <li><b>PageLinkedMap</b>: as class <a href="/web-doxygen/docs/api/classes/pagelinkedmap">PageLinkedMap</a></li>
@@ -9976,6 +10055,7 @@ keywords:
 <li><b>PerlModGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/perlmodgenerator">PerlModGenerator</a></li>
 <li><b>PerlModGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7473195622dcb57930bbd08c88dd6504">PerlModGenerator</a></li>
 <li><b>PerlModOutput</b>: as class <a href="/web-doxygen/docs/api/classes/perlmodoutput">PerlModOutput</a></li>
+<li><b>~PerlModOutput()</b>: as function in class <a href="/web-doxygen/docs/api/classes/perlmodoutput/#a13afbda9147f3b59a75f004598ca68e1">PerlModOutput</a></li>
 <li><b>PerlModOutput()</b>: as function in class <a href="/web-doxygen/docs/api/classes/perlmodoutput/#a1a1ff2b3add5217939d7662474f59c57">PerlModOutput</a></li>
 <li><b>PerlModOutputStream</b>: as class <a href="/web-doxygen/docs/api/classes/perlmodoutputstream">PerlModOutputStream</a></li>
 <li><b>PerlModOutputStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/perlmodoutputstream/#ab290df62c2fd6dafe78bbfcf32e7a51a">PerlModOutputStream</a></li>
@@ -10045,6 +10125,7 @@ keywords:
 <li><b>preProcessFileInplace()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator</a></li>
 <li><b>Preprocessor</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daec63880706f2286cd7ca9057bf407e2f">Debug</a></li>
 <li><b>Preprocessor</b>: as class <a href="/web-doxygen/docs/api/classes/preprocessor">Preprocessor</a></li>
+<li><b>~Preprocessor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/preprocessor/#a3c16724bc9e18b12a45f5a7fe2752b1b">Preprocessor</a></li>
 <li><b>Preprocessor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/preprocessor/#ada966c8b83e7c3bcd8759549c3cdf688">Preprocessor</a></li>
 <li><b>prevAnc</b>: as variable in class <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a93294e277f9a9d055bfa7d755fad85ab">HtmlHelp::Private</a></li>
 <li><b>prevChar</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/preyy-state/#a2cd293737d2447c7964f7be9cb8fa7da">preYY_state</a></li>
@@ -10246,13 +10327,15 @@ keywords:
 <li><b>pycodeYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/pycodeyy-state">pycodeYY_state</a></li>
 <li><b>pyscannerYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/pyscanneryy-state">pyscannerYY_state</a></li>
 <li><b>PythonCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/pythoncodeparser">PythonCodeParser</a></li>
+<li><b>~PythonCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pythoncodeparser/#a15d6bbde0068795bdf7ee452d94bb56e">PythonCodeParser</a></li>
 <li><b>PythonCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pythoncodeparser/#a7104fd0fa8b8761e10dc96c4b053b1f5">PythonCodeParser</a></li>
 <li><b>pythonDocString</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentcnvyy-state/#a98561a307cd98c48484eb2feaa1a8bbc">commentcnvYY_state</a></li>
 <li><b>pythonDocStringChar</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentcnvyy-state/#abe3749a7d5ba50b1992c2279d1c4cd3d">commentcnvYY_state</a></li>
 <li><b>PythonOutlineParser</b>: as class <a href="/web-doxygen/docs/api/classes/pythonoutlineparser">PythonOutlineParser</a></li>
+<li><b>~PythonOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#aabcb09d0e641c2c5d3661069aeea286c">PythonOutlineParser</a></li>
 <li><b>PythonOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</a></li>
 </ul>
-<p>587 entries</p>
+<p>592 entries</p>
 
 ## - Q -
 
@@ -10269,6 +10352,7 @@ keywords:
 <li><b>QCString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qcstring/#abeb844f296f351124bfe2e83b7c54976">QCString</a></li>
 <li><b>Qhp</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dad9460df52aaeff184624ce6b5a5360e2">Debug</a></li>
 <li><b>Qhp</b>: as class <a href="/web-doxygen/docs/api/classes/qhp">Qhp</a></li>
+<li><b>~Qhp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qhp/#ab10e4a689479c8fd8a51a5563db674d4">Qhp</a></li>
 <li><b>Qhp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qhp/#a1cc5cff0816b9170282a397cf3ab1db4">Qhp</a></li>
 <li><b>qhpFileName</b>: as variable in class <a href="/web-doxygen/docs/api/classes/qhp/#a6872a8fe438a377a30836a2aa8089ad2">Qhp</a></li>
 <li><b>QhpSectionTree</b>: as class <a href="/web-doxygen/docs/api/classes/qhpsectiontree">QhpSectionTree</a></li>
@@ -10295,7 +10379,7 @@ keywords:
 <li><b>quoteArg</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/preyy-state/#a9e65cd279256f6614a5f00e50351a211">preYY_state</a></li>
 <li><b>quoted()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString</a></li>
 </ul>
-<p>37 entries</p>
+<p>38 entries</p>
 
 ## - R -
 
@@ -10324,6 +10408,7 @@ keywords:
 <li><b>readBoundingBox()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner</a></li>
 <li><b>readChar()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a9973e74a1dc5b4e1a99139b638286c42">vhdl::parser::CharStream</a></li>
 <li><b>ReaderStream</b>: as class <a href="/web-doxygen/docs/api/classes/readerstream">ReaderStream</a></li>
+<li><b>~ReaderStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/readerstream/#a06afa0f82703cea5c3dbeadf1762f8fa">ReaderStream</a></li>
 <li><b>readFragmentFromFile()</b>: as function in class <a href="/web-doxygen/docs/api/classes/filtercache/#a7c86623ce94e7e3129386f2c8553fb16">FilterCache</a></li>
 <li><b>readLineCtx</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentcnvyy-state/#a3c47b1ff9aaf968c099c124b901b875c">commentcnvYY_state</a></li>
 <li><b>readLink()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fileinfo/#a03b05e1d82a4ecc8920f0fd99d7d2b50">FileInfo</a></li>
@@ -10373,6 +10458,7 @@ keywords:
 <li><b>RefList</b>: as class <a href="/web-doxygen/docs/api/classes/reflist">RefList</a></li>
 <li><b>RefList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reflist/#a36b770703f31caac7df3873136d3d747">RefList</a></li>
 <li><b>RefListManager</b>: as class <a href="/web-doxygen/docs/api/classes/reflistmanager">RefListManager</a></li>
+<li><b>~RefListManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reflistmanager/#a0bee9003aa411ecd922787d88b94ffae">RefListManager</a></li>
 <li><b>RefListManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reflistmanager/#ad92e3f3eada0374ccfe5687397babcec">RefListManager</a></li>
 <li><b>refQualifier()</b>: as function in class <a href="/web-doxygen/docs/api/classes/argumentlist/#a10a0f5f25aa7f3c97ac071169c85e4ac">ArgumentList</a></li>
 <li><b>refreshCodeGenerators()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#ae02018298c4bb64b600a8d0225a31302">OutputList</a></li>
@@ -10513,6 +10599,7 @@ keywords:
 <li><b>resolveUnnamedParameters()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefmutable/#a3dc3cdf4626a0d405580d45a907f1719">MemberDefMutable</a></li>
 <li><b>Resource</b>: as struct <a href="/web-doxygen/docs/api/structs/resource">Resource</a></li>
 <li><b>ResourceMgr</b>: as class <a href="/web-doxygen/docs/api/classes/resourcemgr">ResourceMgr</a></li>
+<li><b>~ResourceMgr()</b>: as function in class <a href="/web-doxygen/docs/api/classes/resourcemgr/#af9daad2dabbe144b6c7f8cdf0d25568b">ResourceMgr</a></li>
 <li><b>ResourceMgr()</b>: as function in class <a href="/web-doxygen/docs/api/classes/resourcemgr/#add6ae734009ee107cd2b644fe6fbb39a">ResourceMgr</a></li>
 <li><b>resources</b>: as variable in class <a href="/web-doxygen/docs/api/classes/resourcemgr/private/#a4f1072f34fa9e5dada3484a18e0f1873">ResourceMgr::Private</a></li>
 <li><b>resultValue</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/constexpyy-state/#aa4be1c296df802ff00167a92c6498ab7">constexpYY_state</a></li>
@@ -10573,6 +10660,7 @@ keywords:
 <li><b>RTFDocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a67b0a4193b8ba939843a29f3d67acaa9">RTFDocVisitor</a></li>
 <li><b>RTFGenerator</b>: as friend in class <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#aece5c8037a90ce0cde3060b7393f880c">RTFCodeGenerator</a></li>
 <li><b>RTFGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/rtfgenerator">RTFGenerator</a></li>
+<li><b>~RTFGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfgenerator/#acb099d4774cb45b57ccc748e081e48cf">RTFGenerator</a></li>
 <li><b>RTFGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ad19e0af9634ae061da9492887d9770bd">RTFGenerator</a></li>
 <li><b>RTFGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a1d5e3edbb7716cd984a54034039059d5">RTFGenerator</a></li>
 <li><b>RTFGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a5caea23018e9c5f2198b1a6637e089ea">RTFGenerator</a></li>
@@ -10591,7 +10679,7 @@ keywords:
 <li><b>run()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner</a></li>
 <li><b>run()</b>: as function in class <a href="/web-doxygen/docs/api/classes/plantumlmanager/#af38a83e442553a769951c724353cbe6a">PlantumlManager</a></li>
 </ul>
-<p>290 entries</p>
+<p>294 entries</p>
 
 ## - S -
 
@@ -10668,6 +10756,7 @@ keywords:
 <li><b>sectionLabel</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#a50aa3adb8f205f3a49c55f332caa4def">commentscanYY_state</a></li>
 <li><b>sectionLevel</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#a91d1d47295762f81a62731857cc983c6">commentscanYY_state</a></li>
 <li><b>SectionManager</b>: as class <a href="/web-doxygen/docs/api/classes/sectionmanager">SectionManager</a></li>
+<li><b>~SectionManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sectionmanager/#adc0daaf46afaa86b8f17328eada12673">SectionManager</a></li>
 <li><b>SectionManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa4f211d31b783f347bb099b5857515e3">SectionManager</a></li>
 <li><b>sectionRefs</b>: as variable in class <a href="/web-doxygen/docs/api/classes/definitionimpl/private/#aad933cdb7be37db94cbdcfcbc5478f08">DefinitionImpl::Private</a></li>
 <li><b>SectionRefs</b>: as class <a href="/web-doxygen/docs/api/classes/sectionrefs">SectionRefs</a></li>
@@ -11199,6 +11288,7 @@ keywords:
 <li><b>Singleton</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a34f6a5dd42307d62a5fe3038b245a667">ClassDef</a></li>
 <li><b>Singleton</b>: as enum value in struct <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6ff5f73c8b5ebd311406568c8ef50bfd">anonymous{tagreader.cpp}::TagClassInfo</a></li>
 <li><b>Sitemap</b>: as class <a href="/web-doxygen/docs/api/classes/sitemap">Sitemap</a></li>
+<li><b>~Sitemap()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sitemap/#ab50488a4f8391db735d9946ad0968375">Sitemap</a></li>
 <li><b>Sitemap()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sitemap/#a89ca5235701029e8deb80020a0b8dc2a">Sitemap</a></li>
 <li><b>sitemapFileName</b>: as variable in class <a href="/web-doxygen/docs/api/classes/sitemap/#a0bd6e0bb66efc520e5ec5615e1cf2b68">Sitemap</a></li>
 <li><b>size</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/marker/#a7ec902e0fb8eeee87acdd5fa5fea8d9f">Marker</a></li>
@@ -11285,6 +11375,7 @@ keywords:
 <li><b>specName</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/scanneryy-state/#ae8fb1c5532bd4081f320b3442af918be">scannerYY_state</a></li>
 <li><b>sprintf()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString</a></li>
 <li><b>SQLCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/sqlcodeparser">SQLCodeParser</a></li>
+<li><b>~SQLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#ae97248eed24dda2e74dc340652f80690">SQLCodeParser</a></li>
 <li><b>SQLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#adf13c0f853d70fa5244e2acf670a49b9">SQLCodeParser</a></li>
 <li><b>sqlcodeYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/sqlcodeyy-state">sqlcodeYY_state</a></li>
 <li><b>SqlStmt</b>: as struct <a href="/web-doxygen/docs/api/structs/sqlstmt">SqlStmt</a></li>
@@ -12410,12 +12501,13 @@ keywords:
 <li><b>symbolResolver</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/codeyy-state/#ab61f29af851598e0c5c37aa4f92330bf">codeYY_state</a></li>
 <li><b>symbolResolver</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/pycodeyy-state/#a9b74756adf21366970f25f59526e2b43">pycodeYY_state</a></li>
 <li><b>SymbolResolver</b>: as class <a href="/web-doxygen/docs/api/classes/symbolresolver">SymbolResolver</a></li>
+<li><b>~SymbolResolver()</b>: as function in class <a href="/web-doxygen/docs/api/classes/symbolresolver/#a40f6b85e30e458772ef6c5534344b0d5">SymbolResolver</a></li>
 <li><b>SymbolResolver()</b>: as function in class <a href="/web-doxygen/docs/api/classes/symbolresolver/#a7fb03bff243edd7ac4967ff3669b8301">SymbolResolver</a></li>
 <li><b>SymType</b>: as enum in class <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7df">HtmlEntityMapper</a></li>
 <li><b>syncEnabled()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#a7e64f80c1f7666a7dae398841d7eb03a">OutputList</a></li>
 <li><b>SysTimeKeeper</b>: as class <a href="/web-doxygen/docs/api/classes/systimekeeper">SysTimeKeeper</a></li>
 </ul>
-<p>1818 entries</p>
+<p>1822 entries</p>
 
 ## - T -
 
@@ -12435,6 +12527,7 @@ keywords:
 <li><b>TagClassInfo()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/tagclassinfo/#ab70b9877a690bcb8865ffd2bcc66132f">anonymous{tagreader.cpp}::TagClassInfo</a></li>
 <li><b>TagCompoundInfo</b>: as struct <a href="/web-doxygen/docs/api/structs/anonymous-tagreader-cpp-/tagcompoundinfo">anonymous{tagreader.cpp}::TagCompoundInfo</a></li>
 <li><b>TagCompoundVariant</b>: as class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
+<li><b>~TagCompoundVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a56f02d4c6510f4d3a652fdaf4c55392d">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
 <li><b>TagCompoundVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a539d6efdb511dab3ec85713d00b1aafe">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
 <li><b>TagCompoundVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a8eb9cd31bdc8e283acaa0c1d815df137">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
 <li><b>TagCompoundVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a24b64c432de406c5edb3d954bc9ccd05">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
@@ -12537,6 +12630,7 @@ keywords:
 <li><b>TextGeneratorXMLImpl</b>: as class <a href="/web-doxygen/docs/api/classes/textgeneratorxmlimpl">TextGeneratorXMLImpl</a></li>
 <li><b>TextGeneratorXMLImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/textgeneratorxmlimpl/#a21ae295b8602b19e66221621a5ad8fa2">TextGeneratorXMLImpl</a></li>
 <li><b>TextStream</b>: as class <a href="/web-doxygen/docs/api/classes/textstream">TextStream</a></li>
+<li><b>~TextStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/textstream/#aca4cd037475e8c6f85c2665fe16b7dfb">TextStream</a></li>
 <li><b>TextStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/textstream/#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a></li>
 <li><b>TextStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/textstream/#aa22b5c028814c2e880c258caff567184">TextStream</a></li>
 <li><b>TextStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/textstream/#a6c4167493d760a72984d1de542d12a9a">TextStream</a></li>
@@ -12554,6 +12648,7 @@ keywords:
 <li><b>thisVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode</a></li>
 <li><b>thisVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docnode/#a528adfa587d94c4049946e577b7cf66f">DocNode</a></li>
 <li><b>ThreadPool</b>: as class <a href="/web-doxygen/docs/api/classes/threadpool">ThreadPool</a></li>
+<li><b>~ThreadPool()</b>: as function in class <a href="/web-doxygen/docs/api/classes/threadpool/#a44d3d2ab618970605e684efc216655eb">ThreadPool</a></li>
 <li><b>ThreadPool()</b>: as function in class <a href="/web-doxygen/docs/api/classes/threadpool/#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a></li>
 <li><b>ThreadPool()</b>: as function in class <a href="/web-doxygen/docs/api/classes/threadpool/#a8af7ebd9779dcab6e0a48f80e8962d08">ThreadPool</a></li>
 <li><b>ThreadPool()</b>: as function in class <a href="/web-doxygen/docs/api/classes/threadpool/#ad1bbb23b57e3ae24cdc7df015c49fba1">ThreadPool</a></li>
@@ -12629,6 +12724,7 @@ keywords:
 <li><b>token_source</b>: as variable in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#a14fcf5077ae6f4d2c6fb1be4f4dba05c">vhdl::parser::VhdlParser</a></li>
 <li><b>token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/doctokenizer/#a060403865cc48ca7f55af46d8272282c">DocTokenizer</a></li>
 <li><b>Token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/token/#aeeba59c2b2a93296384679abfa399928">Token</a></li>
+<li><b>~Token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7de88d652a1ec6f9af406db8f960d757">vhdl::parser::Token</a></li>
 <li><b>Token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#af4c8d87a0456cd4ce8a65662fa507bb1">vhdl::parser::Token</a></li>
 <li><b>Token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a3111dc253c0e2eb0a0cf128914ec4a44">vhdl::parser::Token</a></li>
 <li><b>Token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#ac43282de75e17a9e7376f41483492ef7">vhdl::parser::Token</a></li>
@@ -12638,7 +12734,9 @@ keywords:
 <li><b>tokenizer</b>: as variable in class <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser</a></li>
 <li><b>TokenLexicalActions()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a01b77f27be99993282299ea5556ee36e">vhdl::parser::VhdlParserTokenManager</a></li>
 <li><b>TokenManager</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanager">vhdl::parser::TokenManager</a></li>
+<li><b>~TokenManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanager/#a116b81f14babf26eccaba85331ef702b">vhdl::parser::TokenManager</a></li>
 <li><b>TokenManagerErrorHandler</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler">vhdl::parser::TokenManagerErrorHandler</a></li>
+<li><b>~TokenManagerErrorHandler()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#a0afc3cb894583ee40c53a3a5c54495dc">vhdl::parser::TokenManagerErrorHandler</a></li>
 <li><b>TokenMgrError</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmgrerror">vhdl::parser::TokenMgrError</a></li>
 <li><b>TokenMgrError()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmgrerror/#a860806ee07d5e8223004cc4dae5386e9">vhdl::parser::TokenMgrError</a></li>
 <li><b>TokenMgrError()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmgrerror/#aa58e9b420bb0e53d5944cc96e8a8b349">vhdl::parser::TokenMgrError</a></li>
@@ -12657,6 +12755,7 @@ keywords:
 <li><b>tooltipManager</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/pycodeyy-state/#a50557c08e4ee4dc1c4f515effc7cfbe2">pycodeYY_state</a></li>
 <li><b>TooltipManager</b>: as class <a href="/web-doxygen/docs/api/classes/tooltipmanager">TooltipManager</a></li>
 <li><b>tooltipManager</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state/#a629a8a1c587034cb53239ebf18b85360">vhdlcodeYY_state</a></li>
+<li><b>~TooltipManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a25e5789b8fb515cb4a295f2645061509">TooltipManager</a></li>
 <li><b>TooltipManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/tooltipmanager/#ad4c5424c1e07c7ee79236401c54b55c8">TooltipManager</a></li>
 <li><b>Top</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/dochtmlcell/#a117087bb36d345bd488208e3c49abc0ba93889b70b0c73a90fcfa7424c9c7a39e">DocHtmlCell</a></li>
 <li><b>topLevelIndex</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#ac83fdd9fca39565239818f9fcb9bba65">FTVHelp::Private</a></li>
@@ -23670,7 +23769,7 @@ keywords:
 <li><b>typeString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ad6e34af6dbcc3fc254b049408d561a15">MemberDefImpl</a></li>
 <li><b>Typewriter</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange</a></li>
 </ul>
-<p>11249 entries</p>
+<p>11256 entries</p>
 
 ## - U -
 
@@ -23841,6 +23940,7 @@ keywords:
 <li><b>vhdl</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentcnvyy-state/#a019c7d25f7e0dc5c6e2ecdd638f5ee84">commentcnvYY_state</a></li>
 <li><b>VhdlClasses</b>: as enum in class <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a010ab08982f29df8c0f3d3f0f642f0f0">VhdlDocGen</a></li>
 <li><b>VHDLCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/vhdlcodeparser">VHDLCodeParser</a></li>
+<li><b>~VHDLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlcodeparser/#ae268bd1553979a83b62aad2ef43ad6b8">VHDLCodeParser</a></li>
 <li><b>VHDLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlcodeparser/#a6c48ab414d705c2bc9c6c7c48cf04b90">VHDLCodeParser</a></li>
 <li><b>vhdlcodeYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state">vhdlcodeYY_state</a></li>
 <li><b>VhdlConfNode</b>: as struct <a href="/web-doxygen/docs/api/structs/vhdlconfnode">VhdlConfNode</a></li>
@@ -23852,17 +23952,21 @@ keywords:
 <li><b>vhdlKeyDict</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state/#a782b0245f3282cbbf1d469c2474e6ae2">vhdlcodeYY_state</a></li>
 <li><b>vhdlMember</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state/#a46d5b753260ec33d4f71f79ed26aaffc">vhdlcodeYY_state</a></li>
 <li><b>VHDLOutlineParser</b>: as class <a href="/web-doxygen/docs/api/classes/vhdloutlineparser">VHDLOutlineParser</a></li>
+<li><b>~VHDLOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a720bede15c3f3a9bc3b196bd905b3476">VHDLOutlineParser</a></li>
 <li><b>VHDLOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#afed30c38099a7370ae59ee670b7dc5e4">VHDLOutlineParser</a></li>
 <li><b>VhdlParser</b>: as friend in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler</a></li>
 <li><b>VhdlParser</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser">vhdl::parser::VhdlParser</a></li>
 <li><b>vhdlParser</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/vhdloutlineparser/private/#a2202f9de751b3979497bcb5a8bbd826b">VHDLOutlineParser::Private</a></li>
+<li><b>~VhdlParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#aa8a2e68b02b832cdbebff14ce37c6467">vhdl::parser::VhdlParser</a></li>
 <li><b>VhdlParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#ae6d36b42056105c638e83f1c5df8e254">vhdl::parser::VhdlParser</a></li>
 <li><b>VhdlParserTokenManager</b>: as friend in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#aff28441094086f5cbf8ee8f34a8bc9a4">vhdl::parser::ErrorHandler</a></li>
 <li><b>VhdlParserTokenManager</b>: as friend in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#aff28441094086f5cbf8ee8f34a8bc9a4">vhdl::parser::TokenManagerErrorHandler</a></li>
 <li><b>VhdlParserTokenManager</b>: as class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager">vhdl::parser::VhdlParserTokenManager</a></li>
+<li><b>~VhdlParserTokenManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a63250138585d6d03486fb8b33e1a44ca">vhdl::parser::VhdlParserTokenManager</a></li>
 <li><b>VhdlParserTokenManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a817fc78ccb9d705012d397eacb0805a0">vhdl::parser::VhdlParserTokenManager</a></li>
 <li><b>vhdlSpec</b>: as variable in class <a href="/web-doxygen/docs/api/classes/entry/#a0906aa255ba83045d2d2de1d0d5c8b74">Entry</a></li>
 <li><b>VhdlString</b>: as class <a href="/web-doxygen/docs/api/classes/vhdlstring">VhdlString</a></li>
+<li><b>~VhdlString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlstring/#a1e13bd31dbfa44d0607fb9383e413fbb">VhdlString</a></li>
 <li><b>VhdlString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlstring/#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a></li>
 <li><b>VhdlString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlstring/#a8fe423bc361c8030dc9f6ba110d87141">VhdlString</a></li>
 <li><b>VhdlString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlstring/#ac1475e34a382d8691a23ac4e1d25e379">VhdlString</a></li>
@@ -23917,7 +24021,7 @@ keywords:
 <li><b>volatileSpecifier()</b>: as function in class <a href="/web-doxygen/docs/api/classes/argumentlist/#ad03f25174e81a42a617a15195a8867b0">ArgumentList</a></li>
 <li><b>vtype</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/fortranscanneryy-state/#aeaa8dddac310c1fa50093e5de835cae8">fortranscannerYY_state</a></li>
 </ul>
-<p>129 entries</p>
+<p>134 entries</p>
 
 ## - W -
 
@@ -24584,6 +24688,7 @@ keywords:
 <li><b>XMLCodeGenerator</b>: as class <a href="/web-doxygen/docs/api/classes/xmlcodegenerator">XMLCodeGenerator</a></li>
 <li><b>XMLCodeGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlcodegenerator/#ae566a902bea279e24182706618efa6a1">XMLCodeGenerator</a></li>
 <li><b>XMLCodeParser</b>: as class <a href="/web-doxygen/docs/api/classes/xmlcodeparser">XMLCodeParser</a></li>
+<li><b>~XMLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlcodeparser/#a263794216c9fc12d04d5bcdd12b9cadd">XMLCodeParser</a></li>
 <li><b>XMLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlcodeparser/#a7b752edfd8cc2c382a7a0289b315f890">XMLCodeParser</a></li>
 <li><b>xmlcodeYY_state</b>: as struct <a href="/web-doxygen/docs/api/structs/xmlcodeyy-state">xmlcodeYY_state</a></li>
 <li><b>xmlComment</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/docparsercontext/#a5b98ca02af34e324862e5b5b8bbfb207">DocParserContext</a></li>
@@ -24593,11 +24698,13 @@ keywords:
 <li><b>XmlInclude</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude</a></li>
 <li><b>xmlLevel()</b>: as function in class <a href="/web-doxygen/docs/api/classes/localtoc/#abca2abf41b05fabc55bbf1deb7eb33cb">LocalToc</a></li>
 <li><b>XMLLocator</b>: as class <a href="/web-doxygen/docs/api/classes/xmllocator">XMLLocator</a></li>
+<li><b>~XMLLocator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmllocator/#a105fc5394cca7db5675ebce40383af27">XMLLocator</a></li>
 <li><b>XMLLocator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmllocator/#a4e093e7965dd5692a9ef05748d92d758">XMLLocator</a></li>
 <li><b>XMLLocator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmllocator/#ae427a78ef3163ad8a5218a95239f5ffe">XMLLocator</a></li>
 <li><b>XMLLocator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmllocator/#ad41a636fc60e991c2750d0794c91b685">XMLLocator</a></li>
 <li><b>XmlOnly</b>: as enum value in class <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim</a></li>
 <li><b>XMLParser</b>: as class <a href="/web-doxygen/docs/api/classes/xmlparser">XMLParser</a></li>
+<li><b>~XMLParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlparser/#af78ce69588b5f76f2e8d63730002876b">XMLParser</a></li>
 <li><b>XMLParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlparser/#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a></li>
 <li><b>XMLParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlparser/#ac607d8b81aac2bce2256e5ec90207368">XMLParser</a></li>
 <li><b>XMLParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlparser/#a91b31f9c9e974dfe2dcf4bff278c5394">XMLParser</a></li>
@@ -24616,7 +24723,7 @@ keywords:
 <li><b>xrefListItems()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionmixin/#a7080c8c1be27b05ba64f160655530571">DefinitionMixin&lt;Base&gt;</a></li>
 <li><b>xrefListTitle</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/commentscanyy-state/#a53b62ca89ce6447802ba72ddd8b0e99a">commentscanYY_state</a></li>
 </ul>
-<p>39 entries</p>
+<p>42 entries</p>
 
 ## - Y -
 
@@ -24671,119 +24778,6 @@ keywords:
 <li><b>zoomable</b>: as variable in struct <a href="/web-doxygen/docs/api/structs/dotfilepatcher/map/#a8e657340f36c6d423a2c0d1e417b3407">DotFilePatcher::Map</a></li>
 </ul>
 <p>2 entries</p>
-
-## - ~ -
-
-<ul>
-<li><b>~AnchorGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a3417ff75cc68717cde6b70e06006039e">AnchorGenerator</a></li>
-<li><b>~AutoNodeStack()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autonodestack/#a7a9a492c39c16b054ab81d12ea3e73ac">AutoNodeStack</a></li>
-<li><b>~AutoTimeKeeper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d48591cc5813ad2bb06915ff">AutoTimeKeeper</a></li>
-<li><b>~AutoTrace()</b>: as function in class <a href="/web-doxygen/docs/api/classes/autotrace/#a63ff9e892c88faa5df232fb42a551d45">AutoTrace</a></li>
-<li><b>~CCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/ccodeparser/#a997869f7ed19a9e8871fcaea7518adc9">CCodeParser</a></li>
-<li><b>~CharStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#ab4fb67513988560781f46bb5124f7966">vhdl::parser::CharStream</a></li>
-<li><b>~CitationManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/citationmanager/#ab29bc39af01c05295bd91a354a6674ad">CitationManager</a></li>
-<li><b>~ClangParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangparser/#a668d79df27923e9625fdb60ff9c49e86">ClangParser</a></li>
-<li><b>~ClangTUParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/clangtuparser/#a916b7d9bae60790c26067bb9da3fc3b3">ClangTUParser</a></li>
-<li><b>~ClassDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a966ac38c57f6055e29fff995d5728900">ClassDefAliasImpl</a></li>
-<li><b>~ClassDiagram()</b>: as function in class <a href="/web-doxygen/docs/api/classes/classdiagram/#a6ddb806254eae2bc59a5a8c19a51d142">ClassDiagram</a></li>
-<li><b>~CodeFragmentManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#aa265eeac1e211cdb969c3f0dc213ff6b">CodeFragmentManager</a></li>
-<li><b>~ColoredImage()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coloredimage/#a15d68911020c041ae76934d6e9bf4806">ColoredImage</a></li>
-<li><b>~CommentScanner()</b>: as function in class <a href="/web-doxygen/docs/api/classes/commentscanner/#aa006b1543c5de0b520f2ee928e88871c">CommentScanner</a></li>
-<li><b>~ConceptDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a905a32c689a6295f2b53a40564f89584">ConceptDefAliasImpl</a></li>
-<li><b>~ConceptDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#a26e3a79ed0909f9b3a930647edb63b9f">ConceptDefImpl</a></li>
-<li><b>~ConstExpressionParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/constexpressionparser/#ad40306abed35d82c106853dfd0babb6a">ConstExpressionParser</a></li>
-<li><b>~COutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/coutlineparser/#acd28baae7e14ef1a7ad0faeaf7c15909">COutlineParser</a></li>
-<li><b>~Crawlmap()</b>: as function in class <a href="/web-doxygen/docs/api/classes/crawlmap/#a4062ccd2fd1a181e83949965d04d6c6e">Crawlmap</a></li>
-<li><b>~DebugLex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/debuglex/#a258923c83f68a5a6d599519b9750d826">DebugLex</a></li>
-<li><b>~DefinitionAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionaliasimpl/#ace02af1adfc9ce1d3d4536d720b11f91">DefinitionAliasImpl</a></li>
-<li><b>~DefinitionAliasMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a38af8e80a964dc98897c9b4da2cbc74b">DefinitionAliasMixin&lt;Base&gt;</a></li>
-<li><b>~DefinitionImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionimpl/#aa7e7868bd00eb4970333fc6da39aae39">DefinitionImpl</a></li>
-<li><b>~DefinitionMixin()</b>: as function in class <a href="/web-doxygen/docs/api/classes/definitionmixin/#a698644e08e5678cfade98150eb0f097b">DefinitionMixin&lt;Base&gt;</a></li>
-<li><b>~Dir()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dir/#a427bcc717e5668e764fa1a4432c74b54">Dir</a></li>
-<li><b>~DirDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dirdefimpl/#adf355243f6ff387b7d9d3040f5d00fcd">DirDefImpl</a></li>
-<li><b>~DirEntry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/direntry/#a010b1c84f2bd5743458d8a626cece46d">DirEntry</a></li>
-<li><b>~DirIterator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/diriterator/#a2d20623f235e252893d994957ec2a9f6">DirIterator</a></li>
-<li><b>~DocbookGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docbookgenerator/#acd2d9e24cb0f45024d1efbfd59cff910">DocbookGenerator</a></li>
-<li><b>~DocNode()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docnode/#acf8c57b45d0891fd4c490b5ca5437663">DocNode</a></li>
-<li><b>~DocSets()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docsets/#aa825df57a02ee969cb4ff64890aeb94f">DocSets</a></li>
-<li><b>~DocTokenizer()</b>: as function in class <a href="/web-doxygen/docs/api/classes/doctokenizer/#a70d2b66a1db91742f0de4c9239192fce">DocTokenizer</a></li>
-<li><b>~DocVisitor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/docvisitor/#a2b6a270d493b47592126ce5b63f9e83e">DocVisitor</a></li>
-<li><b>~DotCallGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a3a3d80fa9ab081c5458268636796bfbc">DotCallGraph</a></li>
-<li><b>~DotClassGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a7cfd0c424567809bb652f0d952f85272">DotClassGraph</a></li>
-<li><b>~DotDirDeps()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotdirdeps/#a743a58333611c96705056fa43a7ba7e4">DotDirDeps</a></li>
-<li><b>~DotGfxHierarchyTable()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a434bb97932efb57dc0df493217c9a687">DotGfxHierarchyTable</a></li>
-<li><b>~DotGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgraph/#a3ce9ef8e89ed0c12c7dcc4b5e1a86cb8">DotGraph</a></li>
-<li><b>~DotGroupCollaboration()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a8315009d3686b8d8801a31caf475e644">DotGroupCollaboration</a></li>
-<li><b>~DotInclDepGraph()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#af16036a50c08251c90de8841af69858a">DotInclDepGraph</a></li>
-<li><b>~DotManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/dotmanager/#aa708c8fe7888cf0aaf4836061cec9a2d">DotManager</a></li>
-<li><b>~EclipseHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/eclipsehelp/#a09fa77b331a5f5bc951428aecd9f34cc">EclipseHelp</a></li>
-<li><b>~EmojiEntityMapper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa9ef574821b28aefb585a4a135e41dd7">EmojiEntityMapper</a></li>
-<li><b>~Entry()</b>: as function in class <a href="/web-doxygen/docs/api/classes/entry/#ace080276d727881acfee7197b85f0b65">Entry</a></li>
-<li><b>~ErrorHandler()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a1a8bed6e39180859e6fda8b0543b6222">vhdl::parser::ErrorHandler</a></li>
-<li><b>~Ex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reg/ex/#a197664abdebf160b5b621c3a78c01cf7">reg::Ex</a></li>
-<li><b>~FileDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/filedefimpl/#a91acc968f94a752afac27c5f3583564f">FileDefImpl</a></li>
-<li><b>~FortranCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ae250a28ed4c14285f34f5e9e2cd47e5c">FortranCodeParser</a></li>
-<li><b>~FortranOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#ac2e6484f64e984fb8e5d1cb0a0ef5d2d">FortranOutlineParser</a></li>
-<li><b>~FTVHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/ftvhelp/#aacb475096471a3b51feb4b247a41e27c">FTVHelp</a></li>
-<li><b>~GroupDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a27b5fdd6a511549450b58d8432570b93">GroupDefImpl</a></li>
-<li><b>~GrowBuf()</b>: as function in class <a href="/web-doxygen/docs/api/classes/growbuf/#af7206ac4d12d20889037d545e6bab0d9">GrowBuf</a></li>
-<li><b>~HtmlEntityMapper()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a2fb3bfaff647723db532f2dec86d446e">HtmlEntityMapper</a></li>
-<li><b>~HtmlGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a11d3c67df991a213ef94780d91367a12">HtmlGenerator</a></li>
-<li><b>~HtmlHelp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelp/#a53ff23898ba7e49de5ce6dba03675f82">HtmlHelp</a></li>
-<li><b>~HtmlHelpIndex()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a0b68b2ca104803c3a6dc76a18aa05f13">HtmlHelpIndex</a></li>
-<li><b>~HtmlHelpRecoder()</b>: as function in class <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#a70452af4e4bc1ae32830545090d28a18">HtmlHelpRecoder</a></li>
-<li><b>~Image()</b>: as function in class <a href="/web-doxygen/docs/api/classes/image/#a0294f63700543e11c0f0da85601c7ae5">Image</a></li>
-<li><b>~Index()</b>: as function in class <a href="/web-doxygen/docs/api/classes/index/#a76b7ed4e9cb0b1540264567f84896032">Index</a></li>
-<li><b>~JJCalls()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls/#a953e9b05e336c11f8e2435b3ea506bc1">vhdl::parser::JJCalls</a></li>
-<li><b>~JJEnter()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jjenter/#af0996d5e0afc48fc31b43b7bba2265ac">JJEnter&lt;T&gt;</a></li>
-<li><b>~JJExit()</b>: as function in struct <a href="/web-doxygen/docs/api/structs/jjexit/#a43eb7df1aae863a4d9b7e3507e9316ea">JJExit&lt;T&gt;</a></li>
-<li><b>~LatexGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/latexgenerator/#a41eb1f6954f59427c7eeb483df39cdec">LatexGenerator</a></li>
-<li><b>~LayoutDocManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a693e1185a1fe8a78b6cc4404c68c91ca">LayoutDocManager</a></li>
-<li><b>~LexCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/lexcodeparser/#aea06a30d26e093ef35584e22381543c0">LexCodeParser</a></li>
-<li><b>~LexOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#a512e2156570948dccc8907824aa9c0e0">LexOutlineParser</a></li>
-<li><b>~ManGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/mangenerator/#ab6edf1539db9429fdb029a94074a5271">ManGenerator</a></li>
-<li><b>~Markdown()</b>: as function in class <a href="/web-doxygen/docs/api/classes/markdown/#a582aef5e582b2751e8e76732a551a361">Markdown</a></li>
-<li><b>~MarkdownOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/markdownoutlineparser/#a6b7d33c84a9bbe78b498a458ae7cc861">MarkdownOutlineParser</a></li>
-<li><b>~MemberDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefaliasimpl/#afe414ed680517fcee779dfb539b4e115">MemberDefAliasImpl</a></li>
-<li><b>~MemberDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aede8424ca860f8b326112d713a603dd1">MemberDefImpl</a></li>
-<li><b>~MemberList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlist/#aeecd2f64ef29c3ab1459524c38dc13da">MemberList</a></li>
-<li><b>~MemberLists()</b>: as function in class <a href="/web-doxygen/docs/api/classes/memberlists/#a7034c598946e3b8c2fd9617a431e5e0d">MemberLists</a></li>
-<li><b>~ModuleManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/modulemanager/#a14868f4f33ffb566217d87d8aab83d5a">ModuleManager</a></li>
-<li><b>~NamespaceDefAliasImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefaliasimpl/#aa249d545c495a99f7bc37c4867d328c9">NamespaceDefAliasImpl</a></li>
-<li><b>~NamespaceDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a72a9df119154062876f5670d802733e8">NamespaceDefImpl</a></li>
-<li><b>~OutputGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputgenerator/#a8efbb8581dc2f9864a3170912e816370">OutputGenerator</a></li>
-<li><b>~OutputList()</b>: as function in class <a href="/web-doxygen/docs/api/classes/outputlist/#ad42a92df914a5cc6ebb1889760c17660">OutputList</a></li>
-<li><b>~PageDefImpl()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a47dcb9186b3d722868a490b4422cccf8">PageDefImpl</a></li>
-<li><b>~PerlModOutput()</b>: as function in class <a href="/web-doxygen/docs/api/classes/perlmodoutput/#a13afbda9147f3b59a75f004598ca68e1">PerlModOutput</a></li>
-<li><b>~Preprocessor()</b>: as function in class <a href="/web-doxygen/docs/api/classes/preprocessor/#a3c16724bc9e18b12a45f5a7fe2752b1b">Preprocessor</a></li>
-<li><b>~PythonCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pythoncodeparser/#a15d6bbde0068795bdf7ee452d94bb56e">PythonCodeParser</a></li>
-<li><b>~PythonOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#aabcb09d0e641c2c5d3661069aeea286c">PythonOutlineParser</a></li>
-<li><b>~Qhp()</b>: as function in class <a href="/web-doxygen/docs/api/classes/qhp/#ab10e4a689479c8fd8a51a5563db674d4">Qhp</a></li>
-<li><b>~ReaderStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/readerstream/#a06afa0f82703cea5c3dbeadf1762f8fa">ReaderStream</a></li>
-<li><b>~RefListManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/reflistmanager/#a0bee9003aa411ecd922787d88b94ffae">RefListManager</a></li>
-<li><b>~ResourceMgr()</b>: as function in class <a href="/web-doxygen/docs/api/classes/resourcemgr/#af9daad2dabbe144b6c7f8cdf0d25568b">ResourceMgr</a></li>
-<li><b>~RTFGenerator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/rtfgenerator/#acb099d4774cb45b57ccc748e081e48cf">RTFGenerator</a></li>
-<li><b>~SectionManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sectionmanager/#adc0daaf46afaa86b8f17328eada12673">SectionManager</a></li>
-<li><b>~Sitemap()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sitemap/#ab50488a4f8391db735d9946ad0968375">Sitemap</a></li>
-<li><b>~SQLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#ae97248eed24dda2e74dc340652f80690">SQLCodeParser</a></li>
-<li><b>~SymbolResolver()</b>: as function in class <a href="/web-doxygen/docs/api/classes/symbolresolver/#a40f6b85e30e458772ef6c5534344b0d5">SymbolResolver</a></li>
-<li><b>~TagCompoundVariant()</b>: as function in class <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagcompoundvariant/#a56f02d4c6510f4d3a652fdaf4c55392d">anonymous{tagreader.cpp}::TagCompoundVariant</a></li>
-<li><b>~TextStream()</b>: as function in class <a href="/web-doxygen/docs/api/classes/textstream/#aca4cd037475e8c6f85c2665fe16b7dfb">TextStream</a></li>
-<li><b>~ThreadPool()</b>: as function in class <a href="/web-doxygen/docs/api/classes/threadpool/#a44d3d2ab618970605e684efc216655eb">ThreadPool</a></li>
-<li><b>~Token()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7de88d652a1ec6f9af406db8f960d757">vhdl::parser::Token</a></li>
-<li><b>~TokenManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanager/#a116b81f14babf26eccaba85331ef702b">vhdl::parser::TokenManager</a></li>
-<li><b>~TokenManagerErrorHandler()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#a0afc3cb894583ee40c53a3a5c54495dc">vhdl::parser::TokenManagerErrorHandler</a></li>
-<li><b>~TooltipManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a25e5789b8fb515cb4a295f2645061509">TooltipManager</a></li>
-<li><b>~VHDLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlcodeparser/#ae268bd1553979a83b62aad2ef43ad6b8">VHDLCodeParser</a></li>
-<li><b>~VHDLOutlineParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a720bede15c3f3a9bc3b196bd905b3476">VHDLOutlineParser</a></li>
-<li><b>~VhdlParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#aa8a2e68b02b832cdbebff14ce37c6467">vhdl::parser::VhdlParser</a></li>
-<li><b>~VhdlParserTokenManager()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a63250138585d6d03486fb8b33e1a44ca">vhdl::parser::VhdlParserTokenManager</a></li>
-<li><b>~VhdlString()</b>: as function in class <a href="/web-doxygen/docs/api/classes/vhdlstring/#a1e13bd31dbfa44d0607fb9383e413fbb">VhdlString</a></li>
-<li><b>~XMLCodeParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlcodeparser/#a263794216c9fc12d04d5bcdd12b9cadd">XMLCodeParser</a></li>
-<li><b>~XMLLocator()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmllocator/#a105fc5394cca7db5675ebce40383af27">XMLLocator</a></li>
-<li><b>~XMLParser()</b>: as function in class <a href="/web-doxygen/docs/api/classes/xmlparser/#af78ce69588b5f76f2e8d63730002876b">XMLParser</a></li>
-</ul>
-<p>107 entries</p>
 <br/>
 <p>Total: 24600 entries.</p>
 
