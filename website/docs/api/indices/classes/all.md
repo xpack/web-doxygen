@@ -1,7 +1,7 @@
 ---
 
 # DO NOT EDIT!
-# Automatically generated via docusaurus-plugin-doxygen by Doxygen.
+# Automatically generated via doxygen2docusaurus by Doxygen.
 
 title: The Classes and Members Index
 slug: /api/indices/classes/all
@@ -24783,6 +24783,6 @@ keywords:
 
 <hr/>
 
-<p class="doxyGeneratedBy">Generated via <a href="https://github.com/xpack/docusaurus-plugin-doxygen">docusaurus-plugin-doxygen</a> by <a href="https://www.doxygen.nl">Doxygen</a> 1.14.0.</p>
+<p class="doxyGeneratedBy">Generated via <a href="https://github.com/xpack/doxygen2docusaurus">doxygen2docusaurus</a> by <a href="https://www.doxygen.nl">Doxygen</a> 1.14.0.</p>
 
 </div>

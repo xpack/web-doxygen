@@ -48,36 +48,6 @@ const config: Config = {
   },
 
   plugins: [
-    [
-      '@xpack/docusaurus-plugin-doxygen',
-      {
-        id: 'manual',
-        doxygenXmlInputFolderPath: '../build/xml',
-        apiFolderPath: 'manual',
-        apiBaseUrl: '',
-        sidebarCategoryLabel: 'Manual',
-        menuDropdownLabel: 'Manual',
-        mainPageTitle: 'The Documentation Generator',
-        verbose: false,
-        debug: false
-      },
-    ],
-    [
-      '@xpack/docusaurus-plugin-doxygen',
-      {
-        id: 'api',
-        doxygenXmlInputFolderPath: '../build/doxygen_docs/xml',
-        apiFolderPath: 'api',
-        apiBaseUrl: 'api',
-        sidebarCategoryLabel: 'Doxygen Internals',
-        menuDropdownLabel: 'Internals',
-        mainPageTitle: 'Doxygen Internals',
-        renderProgramListing: false,
-        renderProgramListingInline: true,
-        verbose: false,
-        debug: false
-      },
-    ],
     function disableExpensiveBundlerOptimizationPlugin() {
       return {
         name: "disable-expensive-bundler-optimizations",

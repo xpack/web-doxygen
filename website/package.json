@@ -12,11 +12,9 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "generate-doxygen": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/docusaurus generate-doxygen",
-    "generate-doxygen-manual": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/docusaurus generate-doxygen --id manual",
-    "generate-doxygen-api": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/docusaurus generate-doxygen --id api",
-    "npm-link-helpers": "npm link @xpack/docusaurus-plugin-doxygen",
-    "typecheck": "tsc"
+    "convert-doxygen-manual": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/doxygen2docusaurus --id manual",
+    "convert-doxygen-api": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/doxygen2docusaurus --id api",
+    "npm-link-helpers": "npm link @xpack/doxygen2docusaurus"
   },
   "dependencies": {
     "@docusaurus/core": "3.8.1",
@@ -32,9 +30,33 @@
     "@docusaurus/module-type-aliases": "3.8.1",
     "@docusaurus/tsconfig": "3.8.1",
     "@docusaurus/types": "3.8.1",
-    "@xpack/docusaurus-plugin-doxygen": "^0.4.0",
-    "react-markdown": "^10.1.0",
     "typescript": "~5.6.2"
+  },
+  "doxygen2docusaurus": {
+    "manual": {
+      "doxygenXmlInputFolderPath": "../build/xml",
+      "apiFolderPath": "manual",
+      "baseUrl": "/web-doxygen/",
+      "apiBaseUrl": "",
+      "sidebarCategoryLabel": "Manual",
+      "menuDropdownLabel": "Manual",
+      "mainPageTitle": "The Documentation Generator",
+      "verbose": false,
+      "debug": false
+    },
+    "api": {
+      "doxygenXmlInputFolderPath": "../build/doxygen_docs/xml",
+      "apiFolderPath": "api",
+      "baseUrl": "/web-doxygen/",
+      "apiBaseUrl": "api",
+      "sidebarCategoryLabel": "Doxygen Internals",
+      "menuDropdownLabel": "Internals",
+      "mainPageTitle": "Doxygen Internals",
+      "renderProgramListing": false,
+      "renderProgramListingInline": true,
+      "verbose": false,
+      "debug": false
+    }
   },
   "browserslist": {
     "production": [
@@ -49,6 +71,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=20.0"
   }
 }

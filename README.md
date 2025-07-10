@@ -170,34 +170,6 @@ npm install @docusaurus/faster
   trailingSlash: true,
 
   plugins: [
-    [
-      '@xpack/docusaurus-plugin-doxygen',
-      {
-        id: 'manual',
-        doxygenXmlInputFolderPath: '../build/xml',
-        apiFolderPath: 'manual',
-        apiBaseUrl: '',
-        sidebarCategoryLabel: 'Manual',
-        menuDropdownLabel: 'Manual',
-        mainPageTitle: 'The Documentation Generator',
-        verbose: true,
-        debug: false
-      },
-    ],
-    [
-      '@xpack/docusaurus-plugin-doxygen',
-      {
-        id: 'api',
-        doxygenXmlInputFolderPath: '../build/doxygen_docs/xml',
-        apiFolderPath: 'api',
-        apiBaseUrl: 'api',
-        sidebarCategoryLabel: 'Doxygen Internals',
-        menuDropdownLabel: 'Internals',
-        mainPageTitle: 'Doxygen Internals',
-        verbose: true,
-        debug: false
-      },
-    ],
     function disableExpensiveBundlerOptimizationPlugin() {
       return {
         name: "disable-expensive-bundler-optimizations",
@@ -216,65 +188,41 @@ npm install @docusaurus/faster
 
 ### package.json
 
-```
+```json
+  "scripts": {
     "start": "node --max-old-space-size=20480 --stack-size=2048 ./node_modules/.bin/docusaurus start",
     "build": "node --max-old-space-size=20480 --stack-size=2048 ./node_modules/.bin/docusaurus build",
 
-    "generate-doxygen-manual": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/docusaurus generate-doxygen --id manual",
-    "generate-doxygen-api": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/docusaurus generate-doxygen --id api",
-```
+    "convert-doxygen-manual": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/doxygen2docusaurus --id manual",
+    "convert-doxygen-api": "node --max-old-space-size=4096 --stack-size=2048 ./node_modules/.bin/doxygen2docusaurus --id api"
+  },
 
-### Memory issue
-
-```console
-#
-# Fatal error in , line 0
-# Fatal JavaScript invalid size error 184102346 (see crbug.com/1201626)
-#
-#
-#
-#FailureMessage Object: 0x7ff7b4ac7e70
------ Native stack trace -----
-
- 1: 0x10b596122 node::NodePlatform::GetStackTracePrinter()::$_3::__invoke() [/Users/ilg/.nvm/versions/node/v20.18.0/bin/node]
- 2: 0x10c8b2ae3 V8_Fatal(char const*, ...) [/Users/ilg/.nvm/versions/node/v20.18.0/bin/node]
- 3: 0x10b89c2f6 v8::internal::FactoryBase<v8::internal::Factory>::NewFixedArray(int, v8::internal::AllocationType) [/Users/ilg/.nvm/versions/node/v20.18.0/bin/node]
- 4: 0x10ba894e3 v8::internal::(anonymous namespace)::ElementsAccessorBase<v8::internal::(anonymous namespace)::FastPackedObjectElementsAccessor, v8::internal::(anonymous namespace)::ElementsKindTraits<(v8::internal::ElementsKind)2>>::GrowCapacity(v8::internal::Handle<v8::internal::JSObject>, unsigned int) [/Users/ilg/.nvm/versions/node/v20.18.0/bin/node]
- 5: 0x10bd18aec v8::internal::Runtime_GrowArrayElements(int, unsigned long*, v8::internal::Isolate*) [/Users/ilg/.nvm/versions/node/v20.18.0/bin/node]
- 6: 0x10c0f8376 Builtins_CEntry_Return1_ArgvOnStack_NoBuiltinExit [/Users/ilg/.nvm/versions/node/v20.18.0/bin/node]
- *  Terminal will be reused by tasks, press any key to close it.
-```
-
-## Questions
-
-- `doxygen/doc_internal/commands_history.md`
-
-The html code is transformed into wrong xml?
-
-```
-\page pg_cmds Overview of introduction of special commands
-
-The following table gives an overview of the doxygen special commands and the version in which they were introduced.
-
-<dl class="multicol">
-<dt>New in 1.0.0</dt> <dd>\\\\</dd>
-<dt></dt>             <dd>\\#</dd>
-...
-</dl>
-```
-
-- build/doxygen_docs/xml/da/de1/pg_cmds.xml
+  "doxygen2docusaurus": {
+    "manual": {
+      "doxygenXmlInputFolderPath": "../build/xml",
+      "apiFolderPath": "manual",
+      "baseUrl": "/web-doxygen/",
+      "apiBaseUrl": "",
+      "sidebarCategoryLabel": "Manual",
+      "menuDropdownLabel": "Manual",
+      "mainPageTitle": "The Documentation Generator",
+      "verbose": false,
+      "debug": false
+    },
+    "api": {
+      "doxygenXmlInputFolderPath": "../build/doxygen_docs/xml",
+      "apiFolderPath": "api",
+      "baseUrl": "/web-doxygen/",
+      "apiBaseUrl": "api",
+      "sidebarCategoryLabel": "Doxygen Internals",
+      "menuDropdownLabel": "Internals",
+      "mainPageTitle": "Doxygen Internals",
+      "renderProgramListing": false,
+      "renderProgramListingInline": true,
+      "verbose": false,
+      "debug": false
+    }
+  },
 
 ```
-<para>The following table gives an overview of the doxygen special commands and the version in which they were introduced.</para>
-<para><variablelist>
-<varlistentry><term>New in 1.0.0 </term></varlistentry>
-<listitem><para>\\ </para>
-</listitem>
-<varlistentry><term></term></varlistentry>
-<listitem><para>\# </para>
-</listitem>
-<varlistentry><term></term></varlistentry>
-<listitem><para>\$ </para>
-...
-```
+
