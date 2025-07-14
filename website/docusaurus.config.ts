@@ -94,7 +94,7 @@ const config: Config = {
         theme: {
           customCss: [
             './src/css/custom.css',
-            './src/css/custom-docusaurus-plugin-doxygen.css'
+            './src/css/custom-doxygen2docusaurus.css'
           ],
         },
       } satisfies Preset.Options,

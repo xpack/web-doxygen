@@ -18,6 +18,7 @@ keywords:
 The namespaces used by this project are:
 
 <table class="doxyTreeTable">
+<colgroup><col style="width:40%"><col></colgroup>
 
 <tr class="doxyTreeItem">
 <td class="doxyTreeItemLeft" align="left" valign="top">
