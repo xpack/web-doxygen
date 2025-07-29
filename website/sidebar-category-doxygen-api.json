@@ -306,7 +306,7 @@
             },
             {
               "type": "doc",
-              "label": "Cache",
+              "label": "Cache<K, V>",
               "className": "doxyEllipsis",
               "id": "api/classes/cache"
             },
@@ -858,7 +858,7 @@
             },
             {
               "type": "category",
-              "label": "DefinitionAliasMixin",
+              "label": "DefinitionAliasMixin<Base>",
               "link": {
                 "type": "doc",
                 "id": "api/classes/definitionaliasmixin"
@@ -900,7 +900,7 @@
             },
             {
               "type": "category",
-              "label": "DefinitionMixin",
+              "label": "DefinitionMixin<Base>",
               "link": {
                 "type": "doc",
                 "id": "api/classes/definitionmixin"
@@ -1686,7 +1686,7 @@
             },
             {
               "type": "doc",
-              "label": "DualDirIterator",
+              "label": "DualDirIterator<C, I>",
               "className": "doxyEllipsis",
               "id": "api/classes/dualdiriterator"
             },
@@ -1866,7 +1866,7 @@
             },
             {
               "type": "category",
-              "label": "formatter",
+              "label": "formatter<T>",
               "link": {
                 "type": "doc",
                 "id": "api/structs/fmt-formatter"
@@ -1876,67 +1876,67 @@
               "items": [
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<EntryType>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-ac7a8b6ccc179c66c0c6a42436bfe08e"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<MemberListType>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-c960f428801913f923f15600edfb1350"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<MemberType>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-a295d5763d866422fbb9f0f73b5aeb1a"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<MethodTypes>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-90b67b5fff342f1f4811ae76fe2c9660"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<Protection>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-daff972618727491746978371a4d085f"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<QCString>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-fa4158f88247518f118826f72729e28e"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<RelatesType>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-fcc5bf00f385d03831cd3caa023f8800"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<Relationship>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-0429673a9028c4f3fa9d52d2e17897f3"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<Specifier>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-5ea0b39724d6aada50678fd65eb3d74b"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<SrcLangExt>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-6625149323a2be27829912899c3034b9"
                 },
                 {
                   "type": "doc",
-                  "label": "formatter",
+                  "label": "formatter<TypeSpecifier>",
                   "className": "doxyEllipsis",
                   "id": "api/structs/fmt-formatter-3bc0763cf07398a7c5644ce192ea65ea"
                 }
@@ -2010,7 +2010,7 @@
             },
             {
               "type": "category",
-              "label": "GrowVector",
+              "label": "GrowVector<T>",
               "link": {
                 "type": "doc",
                 "id": "api/classes/growvector"
@@ -2034,13 +2034,13 @@
             },
             {
               "type": "doc",
-              "label": "has_method_children",
+              "label": "has_method_children<T, typename>",
               "className": "doxyEllipsis",
               "id": "api/structs/details-has-method-children"
             },
             {
               "type": "doc",
-              "label": "has_method_children",
+              "label": "has_method_children<T, std::void_t< decltype(std::declval< T >().children())>>",
               "className": "doxyEllipsis",
               "id": "api/structs/details-has-method-children-172d1b5c44de4c71f21bb0fc526052e1"
             },
@@ -2142,13 +2142,13 @@
             },
             {
               "type": "doc",
-              "label": "Impl",
+              "label": "Impl<T, Ts>",
               "className": "doxyEllipsis",
               "id": "api/structs/details-impl"
             },
             {
               "type": "doc",
-              "label": "Impl",
+              "label": "Impl<T>",
               "className": "doxyEllipsis",
               "id": "api/structs/details-impl-f7399366cd6336ecbea702c3289d9432"
             },
@@ -2256,13 +2256,13 @@
             },
             {
               "type": "doc",
-              "label": "IterableStack",
+              "label": "IterableStack<T, Container>",
               "className": "doxyEllipsis",
               "id": "api/classes/iterablestack"
             },
             {
               "type": "doc",
-              "label": "Iterator",
+              "label": "Iterator<C, I>",
               "className": "doxyEllipsis",
               "id": "api/classes/growvector-iterator"
             },
@@ -2280,13 +2280,13 @@
             },
             {
               "type": "doc",
-              "label": "JJEnter",
+              "label": "JJEnter<T>",
               "className": "doxyEllipsis",
               "id": "api/structs/jjenter"
             },
             {
               "type": "doc",
-              "label": "JJExit",
+              "label": "JJExit<T>",
               "className": "doxyEllipsis",
               "id": "api/structs/jjexit"
             },
@@ -2406,7 +2406,7 @@
             },
             {
               "type": "category",
-              "label": "LinkedMap",
+              "label": "LinkedMap<T, Hash, KeyEqual, Map>",
               "link": {
                 "type": "doc",
                 "id": "api/classes/linkedmap"
@@ -2508,7 +2508,7 @@
             },
             {
               "type": "category",
-              "label": "LinkedRefMap",
+              "label": "LinkedRefMap<T, Hash, KeyEqual, Map>",
               "link": {
                 "type": "doc",
                 "id": "api/classes/linkedrefmap"
@@ -2592,7 +2592,7 @@
             },
             {
               "type": "doc",
-              "label": "Mapper",
+              "label": "Mapper<T>",
               "className": "doxyEllipsis",
               "id": "api/classes/mapper"
             },
@@ -2860,7 +2860,7 @@
                 },
                 {
                   "type": "doc",
-                  "label": "OutputCodeDefer",
+                  "label": "OutputCodeDefer<OutputCodeGen>",
                   "className": "doxyEllipsis",
                   "id": "api/classes/outputcodedefer"
                 },
@@ -3618,7 +3618,7 @@
             },
             {
               "type": "doc",
-              "label": "SymbolMap",
+              "label": "SymbolMap<T>",
               "className": "doxyEllipsis",
               "id": "api/classes/symbolmap"
             },
