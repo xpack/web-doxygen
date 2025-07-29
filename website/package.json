@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "node --max-old-space-size=12288 --stack-size=2048 ./node_modules/.bin/docusaurus start",
-    "build": "node --max-old-space-size=12288 --stack-size=2048 ./node_modules/.bin/docusaurus build",
+    "start": "node --max-old-space-size=16384 --stack-size=2048 ./node_modules/.bin/docusaurus start",
+    "build": "node --max-old-space-size=16384 --stack-size=2048 ./node_modules/.bin/docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
