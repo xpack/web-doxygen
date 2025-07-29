@@ -1,0 +1,26 @@
+{
+    "manual": {
+      "doxygenXmlInputFolderPath": "../build/xml",
+      "apiFolderPath": "manual",
+      "baseUrl": "/web-doxygen/",
+      "apiBaseUrl": "",
+      "sidebarCategoryLabel": "Manual",
+      "menuDropdownLabel": "Manual",
+      "mainPageTitle": "The Documentation Generator",
+      "verbose": false,
+      "debug": false
+    },
+    "api": {
+      "doxygenXmlInputFolderPath": "../build/doxygen_docs/xml",
+      "apiFolderPath": "api",
+      "baseUrl": "/web-doxygen/",
+      "apiBaseUrl": "api",
+      "sidebarCategoryLabel": "Doxygen Internals",
+      "menuDropdownLabel": "Internals",
+      "mainPageTitle": "Doxygen Internals",
+      "renderProgramListing": false,
+      "renderProgramListingInline": true,
+      "verbose": false,
+      "debug": false
+    }
+}
