@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `InputFileEncoding` Struct Reference
+# `InputFileEncoding` Struct
 
 
 

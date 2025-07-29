@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ParseException` Class Reference
+# `ParseException` Class
 
 <p>This exception is thrown when parse errors are encountered. <a href="#details">More...</a></p>
 

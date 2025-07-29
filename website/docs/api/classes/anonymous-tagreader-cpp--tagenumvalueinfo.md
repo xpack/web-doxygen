@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagEnumValueInfo` Class Reference
+# `TagEnumValueInfo` Class
 
 <p>Container for enum values that are scoped within an enum. <a href="#details">More...</a></p>
 

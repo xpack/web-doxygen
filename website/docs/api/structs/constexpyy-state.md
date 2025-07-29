@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `constexpYY_state` Struct Reference
+# `constexpYY_state` Struct
 
 
 

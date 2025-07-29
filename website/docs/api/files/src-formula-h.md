@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `formula.h` File Reference
+# `formula.h` File
 
 
 

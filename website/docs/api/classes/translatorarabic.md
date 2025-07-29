@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TranslatorArabic` Class Reference
+# `TranslatorArabic` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagAnchorInfo` Class Reference
+# `TagAnchorInfo` Class
 
 <p>Information about an linkable anchor. <a href="#details">More...</a></p>
 

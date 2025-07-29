@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ErrorHandler.h` File Reference
+# `ErrorHandler.h` File
 
 
 

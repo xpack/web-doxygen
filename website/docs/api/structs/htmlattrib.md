@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlAttrib` Struct Reference
+# `HtmlAttrib` Struct
 
 <p>Class representing a HTML attribute. <a href="#details">More...</a></p>
 

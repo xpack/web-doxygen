@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Htags` Struct Reference
+# `Htags` Struct
 
 <p>This class is a namespace for HTAGS related functions. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IDocNodeAST` Class Reference
+# `IDocNodeAST` Class
 
 <p>opaque representation of the abstract syntax tree (AST) <a href="#details">More...</a></p>
 

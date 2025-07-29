@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ObjCCallCtx` Struct Reference
+# `ObjCCallCtx` Struct
 
 
 

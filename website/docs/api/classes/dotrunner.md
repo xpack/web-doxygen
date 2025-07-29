@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotRunner` Class Reference
+# `DotRunner` Class
 
 <p>Helper class to run dot from doxygen from multiple threads. <a href="#details">More...</a></p>
 

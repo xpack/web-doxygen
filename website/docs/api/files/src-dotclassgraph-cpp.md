@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `dotclassgraph.cpp` File Reference
+# `dotclassgraph.cpp` File
 
 
 

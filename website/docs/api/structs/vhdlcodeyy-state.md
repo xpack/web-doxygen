@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `vhdlcodeYY_state` Struct Reference
+# `vhdlcodeYY_state` Struct
 
 
 

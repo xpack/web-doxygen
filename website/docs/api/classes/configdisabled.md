@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigDisabled` Class Reference
+# `ConfigDisabled` Class
 
 <p>Section marker for compile time optional options. <a href="#details">More...</a></p>
 

@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Class Variables Index
+title: Class Variables Index
 slug: /api/indices/classes/variables
 custom_edit_url: null
 keywords:

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DefineManager` Class Reference
+# `DefineManager` Class
 
 <p>Class that manages the defines available while preprocessing files. <a href="#details">More...</a></p>
 

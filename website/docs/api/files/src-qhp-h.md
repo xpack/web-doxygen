@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `qhp.h` File Reference
+# `qhp.h` File
 
 
 

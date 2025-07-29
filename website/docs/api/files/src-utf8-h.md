@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `utf8.h` File Reference
+# `utf8.h` File
 
 <p>Various UTF8 related helper functions. <a href="#details">More...</a></p>
 

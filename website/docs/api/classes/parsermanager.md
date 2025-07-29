@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ParserManager` Class Reference
+# `ParserManager` Class
 
 <p>Manages programming language parsers. <a href="#details">More...</a></p>
 

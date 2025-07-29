@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PerlModOutput` Class Reference
+# `PerlModOutput` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GroupLinkedMap` Class Reference
+# `GroupLinkedMap` Class
 
 
 

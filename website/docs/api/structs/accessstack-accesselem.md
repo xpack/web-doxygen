@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AccessElem` Struct Reference
+# `AccessElem` Struct
 
 <p>Element in the stack. <a href="#details">More...</a></p>
 

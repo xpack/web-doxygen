@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CiteInfoOption` Class Reference
+# `CiteInfoOption` Class
 
 
 

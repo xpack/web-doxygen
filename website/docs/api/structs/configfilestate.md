@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigFileState` Struct Reference
+# `ConfigFileState` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocStyleChange` Class Reference
+# `DocStyleChange` Class
 
 <p>Node representing a style change. <a href="#details">More...</a></p>
 

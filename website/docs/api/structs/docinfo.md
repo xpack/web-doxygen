@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocInfo` Struct Reference
+# `DocInfo` Struct
 
 <p>Data associated with a detailed description. <a href="#details">More...</a></p>
 

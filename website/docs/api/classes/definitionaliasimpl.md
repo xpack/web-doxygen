@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DefinitionAliasImpl` Class Reference
+# `DefinitionAliasImpl` Class
 
 
 

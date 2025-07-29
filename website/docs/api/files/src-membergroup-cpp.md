@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `membergroup.cpp` File Reference
+# `membergroup.cpp` File
 
 
 

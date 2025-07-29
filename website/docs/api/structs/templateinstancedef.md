@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TemplateInstanceDef` Struct Reference
+# `TemplateInstanceDef` Struct
 
 <p>Class that contains information about a template instance relation. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SectionManager` Class Reference
+# `SectionManager` Class
 
 <p>singleton class that owns the list of all sections <a href="#details">More...</a></p>
 

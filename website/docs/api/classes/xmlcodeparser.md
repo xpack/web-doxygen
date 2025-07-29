@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `XMLCodeParser` Class Reference
+# `XMLCodeParser` Class
 
 <p>XML scanner. <a href="#details">More...</a></p>
 

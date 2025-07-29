@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Marker` Struct Reference
+# `Marker` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FortranOutlineParserFree` Class Reference
+# `FortranOutlineParserFree` Class
 
 
 

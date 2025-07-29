@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `dotgfxhierarchytable.cpp` File Reference
+# `dotgfxhierarchytable.cpp` File
 
 
 

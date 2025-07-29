@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `qcstring.cpp` File Reference
+# `qcstring.cpp` File
 
 
 

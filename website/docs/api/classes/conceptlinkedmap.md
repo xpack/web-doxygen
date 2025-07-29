@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConceptLinkedMap` Class Reference
+# `ConceptLinkedMap` Class
 
 
 

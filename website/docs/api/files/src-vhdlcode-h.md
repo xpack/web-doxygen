@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `vhdlcode.h` File Reference
+# `vhdlcode.h` File
 
 
 

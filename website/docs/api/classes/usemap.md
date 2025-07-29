@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `UseMap` Class Reference
+# `UseMap` Class
 
 <p>module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="#details">More...</a></p>
 

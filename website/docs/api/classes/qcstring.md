@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `QCString` Class Reference
+# `QCString` Class
 
 <p>This is an alternative implementation of <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a>. <a href="#details">More...</a></p>
 

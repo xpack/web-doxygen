@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileState` Struct Reference
+# `FileState` Struct
 
 
 

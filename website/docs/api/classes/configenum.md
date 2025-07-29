@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigEnum` Class Reference
+# `ConfigEnum` Class
 
 <p>Class representing an enum type option. <a href="#details">More...</a></p>
 

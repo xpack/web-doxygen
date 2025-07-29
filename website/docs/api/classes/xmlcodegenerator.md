@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `XMLCodeGenerator` Class Reference
+# `XMLCodeGenerator` Class
 
 
 

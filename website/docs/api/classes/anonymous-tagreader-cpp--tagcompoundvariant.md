@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagCompoundVariant` Class Reference
+# `TagCompoundVariant` Class
 
 <p>Variant class that holds a unique pointer to one of the specific container types. <a href="#details">More...</a></p>
 

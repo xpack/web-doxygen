@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocMscFile` Class Reference
+# `DocMscFile` Class
 
 <p>Node representing a msc file. <a href="#details">More...</a></p>
 

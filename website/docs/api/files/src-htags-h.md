@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `htags.h` File Reference
+# `htags.h` File
 
 
 

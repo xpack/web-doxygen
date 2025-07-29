@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Namespaces Type Definitions Index
+title: Namespaces Type Definitions Index
 slug: /api/indices/namespaces/typedefs
 custom_edit_url: null
 keywords:

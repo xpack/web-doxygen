@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlEntityInfo` Struct Reference
+# `HtmlEntityInfo` Struct
 
 <p>Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="#details">More...</a></p>
 

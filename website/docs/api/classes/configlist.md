@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigList` Class Reference
+# `ConfigList` Class
 
 <p>Class representing a list type option. <a href="#details">More...</a></p>
 

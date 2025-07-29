@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Markdown` Class Reference
+# `Markdown` Class
 
 <p>Helper class to process markdown formatted text. <a href="#details">More...</a></p>
 

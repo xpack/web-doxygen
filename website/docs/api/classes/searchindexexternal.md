@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SearchIndexExternal` Class Reference
+# `SearchIndexExternal` Class
 
 <p>Writes search index that should be used with an externally provided search engine, e.g. <a href="#details">More...</a></p>
 

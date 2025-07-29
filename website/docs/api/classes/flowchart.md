@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FlowChart` Class Reference
+# `FlowChart` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SubMatch` Class Reference
+# `SubMatch` Class
 
 <p>Object representing the match results of a capture range. <a href="#details">More...</a></p>
 

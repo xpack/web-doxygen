@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `emoji.cpp` File Reference
+# `emoji.cpp` File
 
 
 

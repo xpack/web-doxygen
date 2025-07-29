@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SqlStmt` Struct Reference
+# `SqlStmt` Struct
 
 
 

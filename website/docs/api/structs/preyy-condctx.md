@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `preYY_CondCtx` Struct Reference
+# `preYY_CondCtx` Struct
 
 
 

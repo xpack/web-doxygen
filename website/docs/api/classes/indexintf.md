@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IndexIntf` Class Reference
+# `IndexIntf` Class
 
 <p>Abstract interface for index generators. <a href="#details">More...</a></p>
 

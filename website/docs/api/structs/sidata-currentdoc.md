@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SIData_CurrentDoc` Struct Reference
+# `SIData_CurrentDoc` Struct
 
 
 

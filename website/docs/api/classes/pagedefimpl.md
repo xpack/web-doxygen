@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PageDefImpl` Class Reference
+# `PageDefImpl` Class
 
 
 

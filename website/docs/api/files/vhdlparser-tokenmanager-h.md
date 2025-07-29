@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TokenManager.h` File Reference
+# `TokenManager.h` File
 
 
 

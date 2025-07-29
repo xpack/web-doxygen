@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `UsesClassDef` Struct Reference
+# `UsesClassDef` Struct
 
 <p>Class that contains information about a usage relation. <a href="#details">More...</a></p>
 

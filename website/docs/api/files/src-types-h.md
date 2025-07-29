@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `types.h` File Reference
+# `types.h` File
 
 <p>This file contains a number of basic enums and types. <a href="#details">More...</a></p>
 

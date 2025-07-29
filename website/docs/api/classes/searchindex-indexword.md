@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IndexWord` Class Reference
+# `IndexWord` Class
 
 
 

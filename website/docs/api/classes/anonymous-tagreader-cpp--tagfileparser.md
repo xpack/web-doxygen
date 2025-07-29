@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagFileParser` Class Reference
+# `TagFileParser` Class
 
 <p>Tag file parser. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Translator` Class Reference
+# `Translator` Class
 
 <p>Abstract base class for all translatable text fragments. <a href="#details">More...</a></p>
 

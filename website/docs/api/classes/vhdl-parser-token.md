@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Token` Class Reference
+# `Token` Class
 
 <p>Describes the input token stream. <a href="#details">More...</a></p>
 

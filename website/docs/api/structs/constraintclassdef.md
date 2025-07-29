@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConstraintClassDef` Struct Reference
+# `ConstraintClassDef` Struct
 
 <p>Class that contains information about a type constraint relations. <a href="#details">More...</a></p>
 

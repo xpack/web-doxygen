@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MmhlInfo` Struct Reference
+# `MmhlInfo` Struct
 
 <p>Helper class representing a module member in the navigation menu. <a href="#details">More...</a></p>
 

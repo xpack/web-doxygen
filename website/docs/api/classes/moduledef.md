@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ModuleDef` Class Reference
+# `ModuleDef` Class
 
 
 

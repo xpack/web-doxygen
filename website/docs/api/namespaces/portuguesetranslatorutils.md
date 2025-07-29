@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PortugueseTranslatorUtils` Namespace Reference
+# `PortugueseTranslatorUtils` Namespace
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHtmlDescTitle` Class Reference
+# `DocHtmlDescTitle` Class
 
 <p>Node representing a Html description item. <a href="#details">More...</a></p>
 

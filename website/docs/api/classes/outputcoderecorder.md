@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputCodeRecorder` Class Reference
+# `OutputCodeRecorder` Class
 
 <p>Implementation that allows capturing calls made to the code interface to later invoke them on a <a href="/web-doxygen/docs/api/classes/outputcodelist">OutputCodeList</a> via <a href="#a89166fa9eb6c282a2351da070e85fe63">replay()</a>. <a href="#details">More...</a></p>
 

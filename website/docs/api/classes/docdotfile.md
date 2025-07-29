@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocDotFile` Class Reference
+# `DocDotFile` Class
 
 <p>Node representing a dot file. <a href="#details">More...</a></p>
 

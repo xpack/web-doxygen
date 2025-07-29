@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `sqlite3gen.h` File Reference
+# `sqlite3gen.h` File
 
 
 

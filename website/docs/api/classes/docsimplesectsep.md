@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSimpleSectSep` Class Reference
+# `DocSimpleSectSep` Class
 
 <p>Node representing a separator between two simple sections of the same type. <a href="#details">More...</a></p>
 

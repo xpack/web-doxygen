@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Token` Class Reference
+# `Token` Class
 
 
 

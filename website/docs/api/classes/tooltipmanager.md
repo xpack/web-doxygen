@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TooltipManager` Class Reference
+# `TooltipManager` Class
 
 <p>Class that manages the tooltips for a source file. <a href="#details">More...</a></p>
 

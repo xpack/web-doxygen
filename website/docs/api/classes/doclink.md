@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocLink` Class Reference
+# `DocLink` Class
 
 <p>Node representing a link to some item. <a href="#details">More...</a></p>
 

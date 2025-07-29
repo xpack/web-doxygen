@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TranslatorAdapterBase` Class Reference
+# `TranslatorAdapterBase` Class
 
 <p>Base of the translator adapter tree. <a href="#details">More...</a></p>
 

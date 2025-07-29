@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocParser` Class Reference
+# `DocParser` Class
 
 
 

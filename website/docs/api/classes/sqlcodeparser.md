@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SQLCodeParser` Class Reference
+# `SQLCodeParser` Class
 
 <p>SQL scanner. <a href="#details">More...</a></p>
 

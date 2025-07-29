@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ManListItemInfo` Struct Reference
+# `ManListItemInfo` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirEntry` Class Reference
+# `DirEntry` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `RefItem` Class Reference
+# `RefItem` Class
 
 <p>This struct represents an item in the list of references. <a href="#details">More...</a></p>
 

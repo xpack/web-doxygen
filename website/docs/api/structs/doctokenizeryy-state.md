@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `doctokenizerYY_state` Struct Reference
+# `doctokenizerYY_state` Struct
 
 
 

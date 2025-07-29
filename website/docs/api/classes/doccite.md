@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocCite` Class Reference
+# `DocCite` Class
 
 <p>Node representing a citation of some bibliographic reference. <a href="#details">More...</a></p>
 

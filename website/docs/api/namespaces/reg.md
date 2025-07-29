@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `reg` Namespace Reference
+# `reg` Namespace
 
 <p>Namespace for the regular expression functions. <a href="#details">More...</a></p>
 

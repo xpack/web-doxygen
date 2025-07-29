@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Class Enums Index
+title: Class Enums Index
 slug: /api/indices/classes/enums
 custom_edit_url: null
 keywords:

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `searchindex_js.h` File Reference
+# `searchindex_js.h` File
 
 <p>Javascript based search engine. <a href="#details">More...</a></p>
 

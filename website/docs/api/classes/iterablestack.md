@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IterableStack` Class Template Reference
+# `IterableStack` Class Template
 
 
 

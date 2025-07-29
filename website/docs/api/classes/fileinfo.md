@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileInfo` Class Reference
+# `FileInfo` Class
 
 <p>Minimal replacement for QFileInfo. <a href="#details">More...</a></p>
 

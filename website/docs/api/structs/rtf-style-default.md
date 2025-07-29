@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Rtf_Style_Default` Struct Reference
+# `Rtf_Style_Default` Struct
 
 
 

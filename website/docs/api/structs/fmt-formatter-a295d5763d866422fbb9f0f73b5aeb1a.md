@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `formatter` Struct Template Reference
+# `formatter` Struct Template
 
 <p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41">MemberType</a> <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocWord` Class Reference
+# `DocWord` Class
 
 <p>Node representing a word. <a href="#details">More...</a></p>
 

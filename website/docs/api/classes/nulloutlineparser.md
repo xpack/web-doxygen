@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NullOutlineParser` Class Reference
+# `NullOutlineParser` Class
 
 <p>/dev/null outline parser <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `docsets.h` File Reference
+# `docsets.h` File
 
 
 

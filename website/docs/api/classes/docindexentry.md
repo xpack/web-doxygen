@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocIndexEntry` Class Reference
+# `DocIndexEntry` Class
 
 <p>Node representing an entry in the index. <a href="#details">More...</a></p>
 

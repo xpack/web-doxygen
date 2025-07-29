@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `XmlDocVisitor` Class Reference
+# `XmlDocVisitor` Class
 
 <p>Concrete visitor implementation for XML output. <a href="#details">More...</a></p>
 

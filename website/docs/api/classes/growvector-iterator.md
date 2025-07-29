@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Iterator` Class Template Reference
+# `Iterator` Class Template
 
 <p>bidirectional iterator <a href="#details">More...</a></p>
 

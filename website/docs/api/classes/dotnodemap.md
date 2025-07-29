@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotNodeMap` Class Reference
+# `DotNodeMap` Class
 
 
 

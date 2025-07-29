@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `RTFDocVisitor` Class Reference
+# `RTFDocVisitor` Class
 
 <p>Concrete visitor implementation for RTF output. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `commentscan.h` File Reference
+# `commentscan.h` File
 
 <p>Interface for the comment block scanner. <a href="#details">More...</a></p>
 

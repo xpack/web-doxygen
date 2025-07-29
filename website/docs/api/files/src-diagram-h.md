@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `diagram.h` File Reference
+# `diagram.h` File
 
 
 

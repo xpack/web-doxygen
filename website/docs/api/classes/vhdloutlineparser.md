@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VHDLOutlineParser` Class Reference
+# `VHDLOutlineParser` Class
 
 <p>VHDL parser using state-based lexical scanning. <a href="#details">More...</a></p>
 

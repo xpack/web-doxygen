@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LexCodeParser` Class Reference
+# `LexCodeParser` Class
 
 <p>LEX code scanner. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `EdgeProperties` Struct Reference
+# `EdgeProperties` Struct
 
 <p>Helper struct holding the properties of a edge in a dot graph. <a href="#details">More...</a></p>
 

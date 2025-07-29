@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocNode` Class Reference
+# `DocNode` Class
 
 <p>Abstract node interface with type information. <a href="#details">More...</a></p>
 

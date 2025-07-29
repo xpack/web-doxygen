@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Lang2ExtMap` Struct Reference
+# `Lang2ExtMap` Struct
 
 
 

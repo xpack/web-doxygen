@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SharedState` Struct Reference
+# `SharedState` Struct
 
 
 

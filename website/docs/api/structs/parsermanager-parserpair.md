@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ParserPair` Struct Reference
+# `ParserPair` Struct
 
 
 

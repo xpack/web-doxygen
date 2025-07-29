@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CommentScanner` Class Reference
+# `CommentScanner` Class
 
 
 

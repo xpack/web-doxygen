@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PageDef` Class Reference
+# `PageDef` Class
 
 <p>A model of a page symbol. <a href="#details">More...</a></p>
 

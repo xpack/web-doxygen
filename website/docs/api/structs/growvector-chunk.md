@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Chunk` Struct Reference
+# `Chunk` Struct
 
 
 

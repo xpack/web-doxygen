@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocRoot` Class Reference
+# `DocRoot` Class
 
 <p>Root node of documentation tree. <a href="#details">More...</a></p>
 

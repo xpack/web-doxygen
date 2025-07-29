@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SectionInfo` Class Reference
+# `SectionInfo` Class
 
 <p>class that provide information about a section. <a href="#details">More...</a></p>
 

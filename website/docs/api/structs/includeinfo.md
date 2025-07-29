@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IncludeInfo` Struct Reference
+# `IncludeInfo` Struct
 
 <p>Class representing the data associated with a #include statement. <a href="#details">More...</a></p>
 

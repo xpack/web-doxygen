@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocCompoundNode` Class Reference
+# `DocCompoundNode` Class
 
 <p>Base class for nodes with children. <a href="#details">More...</a></p>
 

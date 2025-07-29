@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AutoTrace` Class Reference
+# `AutoTrace` Class
 
 <p>Helper class to trace an entry statement at creation and another one at destruction. <a href="#details">More...</a></p>
 

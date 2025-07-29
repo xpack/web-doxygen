@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `symbolresolver.cpp` File Reference
+# `symbolresolver.cpp` File
 
 
 

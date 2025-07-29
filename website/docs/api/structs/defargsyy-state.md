@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `defargsYY_state` Struct Reference
+# `defargsYY_state` Struct
 
 
 

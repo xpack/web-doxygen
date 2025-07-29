@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileName` Class Reference
+# `FileName` Class
 
 <p>Class representing all files with a certain base name. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHtmlBlockQuote` Class Reference
+# `DocHtmlBlockQuote` Class
 
 <p>Node representing an HTML blockquote. <a href="#details">More...</a></p>
 

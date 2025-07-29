@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirRelation` Class Reference
+# `DirRelation` Class
 
 <p>A usage relation between two directories. <a href="#details">More...</a></p>
 

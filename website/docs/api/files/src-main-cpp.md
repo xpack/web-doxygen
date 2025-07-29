@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `main.cpp` File Reference
+# `main.cpp` File
 
 <p>main entry point for doxygen <a href="#details">More...</a></p>
 

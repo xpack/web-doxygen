@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DiagramItem` Class Reference
+# `DiagramItem` Class
 
 <p>Class representing a single node in the built-in class diagram. <a href="#details">More...</a></p>
 

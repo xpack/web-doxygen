@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DefinitionAliasMixin` Class Template Reference
+# `DefinitionAliasMixin` Class Template
 
 
 

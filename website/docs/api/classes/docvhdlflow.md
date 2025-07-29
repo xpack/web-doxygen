@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocVhdlFlow` Class Reference
+# `DocVhdlFlow` Class
 
 <p>Node representing a VHDL flow chart. <a href="#details">More...</a></p>
 

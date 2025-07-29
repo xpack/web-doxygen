@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Crawlmap` Class Reference
+# `Crawlmap` Class
 
 
 

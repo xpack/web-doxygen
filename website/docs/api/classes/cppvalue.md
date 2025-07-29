@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CPPValue` Class Reference
+# `CPPValue` Class
 
 <p>A class representing a C-preprocessor value. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotDirDeps` Class Reference
+# `DotDirDeps` Class
 
 <p>Representation of an directory dependency graph. <a href="#details">More...</a></p>
 

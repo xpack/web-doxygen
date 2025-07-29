@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `msc.h` File Reference
+# `msc.h` File
 
 
 

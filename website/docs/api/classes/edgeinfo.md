@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `EdgeInfo` Class Reference
+# `EdgeInfo` Class
 
 <p>Attributes of an edge of a dot graph. <a href="#details">More...</a></p>
 

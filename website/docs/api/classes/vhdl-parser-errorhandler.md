@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ErrorHandler` Class Reference
+# `ErrorHandler` Class
 
 
 

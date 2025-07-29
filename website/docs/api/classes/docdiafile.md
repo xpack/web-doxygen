@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocDiaFile` Class Reference
+# `DocDiaFile` Class
 
 <p>Node representing a dia file. <a href="#details">More...</a></p>
 

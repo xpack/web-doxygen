@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlHelpIndex` Class Reference
+# `HtmlHelpIndex` Class
 
 <p>A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="#details">More...</a></p>
 

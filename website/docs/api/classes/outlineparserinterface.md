@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutlineParserInterface` Class Reference
+# `OutlineParserInterface` Class
 
 <p>Abstract interface for outline parsers. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlParser.h` File Reference
+# `VhdlParser.h` File
 
 
 

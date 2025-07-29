@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ColoredImgDataItem` Struct Reference
+# `ColoredImgDataItem` Struct
 
 <p>Data associated with a HSV colored image. <a href="#details">More...</a></p>
 

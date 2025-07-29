@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PerlModDocVisitor` Class Reference
+# `PerlModDocVisitor` Class
 
 <p>Concrete visitor implementation for PerlMod output. <a href="#details">More...</a></p>
 

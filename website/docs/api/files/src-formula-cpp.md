@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `formula.cpp` File Reference
+# `formula.cpp` File
 
 
 

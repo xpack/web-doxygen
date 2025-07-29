@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `trace.h` File Reference
+# `trace.h` File
 
 
 

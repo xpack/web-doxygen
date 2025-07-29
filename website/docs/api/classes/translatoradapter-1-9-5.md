@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TranslatorAdapter_1_9_5` Class Reference
+# `TranslatorAdapter_1_9_5` Class
 
 
 

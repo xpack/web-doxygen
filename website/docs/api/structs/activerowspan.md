@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ActiveRowSpan` Struct Reference
+# `ActiveRowSpan` Struct
 
 <p>Helper class to compute the grid for an HTML style table. <a href="#details">More...</a></p>
 

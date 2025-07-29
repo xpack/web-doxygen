@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSets` Class Reference
+# `DocSets` Class
 
 <p>A class that generates docset files. <a href="#details">More...</a></p>
 

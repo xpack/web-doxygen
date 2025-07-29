@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputList` Class Reference
+# `OutputList` Class
 
 <p>Class representing a list of output generators that are written to in parallel. <a href="#details">More...</a></p>
 

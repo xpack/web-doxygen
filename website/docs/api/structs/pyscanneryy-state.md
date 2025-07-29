@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `pyscannerYY_state` Struct Reference
+# `pyscannerYY_state` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `docsets.cpp` File Reference
+# `docsets.cpp` File
 
 
 

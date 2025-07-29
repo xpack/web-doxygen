@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TokenInfo` Struct Reference
+# `TokenInfo` Struct
 
 <p>Data associated with a token used by the comment block parser. <a href="#details">More...</a></p>
 

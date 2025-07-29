@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSeparator` Class Reference
+# `DocSeparator` Class
 
 <p>Node representing a separator. <a href="#details">More...</a></p>
 

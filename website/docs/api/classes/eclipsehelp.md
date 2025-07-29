@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `EclipseHelp` Class Reference
+# `EclipseHelp` Class
 
 <p>Generator for Eclipse help files. <a href="#details">More...</a></p>
 

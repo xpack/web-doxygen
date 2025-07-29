@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Doxygen` Class Reference
+# `Doxygen` Class
 
 <p>This class serves as a namespace for global variables used by doxygen. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `scopedtypevariant.h` File Reference
+# `scopedtypevariant.h` File
 
 
 

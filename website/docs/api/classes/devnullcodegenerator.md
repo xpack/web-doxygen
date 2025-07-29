@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DevNullCodeGenerator` Class Reference
+# `DevNullCodeGenerator` Class
 
 <p>Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="#details">More...</a></p>
 

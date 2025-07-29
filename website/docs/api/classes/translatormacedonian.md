@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TranslatorMacedonian` Class Reference
+# `TranslatorMacedonian` Class
 
 
 

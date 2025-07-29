@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ReaderStream` Class Reference
+# `ReaderStream` Class
 
 
 

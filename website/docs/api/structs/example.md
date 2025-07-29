@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Example` Struct Reference
+# `Example` Struct
 
 <p>Data associated with an example. <a href="#details">More...</a></p>
 

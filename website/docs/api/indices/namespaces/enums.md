@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Namespaces Enums Index
+title: Namespaces Enums Index
 slug: /api/indices/namespaces/enums
 custom_edit_url: null
 keywords:

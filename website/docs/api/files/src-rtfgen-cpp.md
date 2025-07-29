@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `rtfgen.cpp` File Reference
+# `rtfgen.cpp` File
 
 
 

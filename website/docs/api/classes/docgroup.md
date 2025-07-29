@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocGroup` Class Reference
+# `DocGroup` Class
 
 
 

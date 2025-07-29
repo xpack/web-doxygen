@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Type Definitions Index
+title: Files Type Definitions Index
 slug: /api/indices/files/typedefs
 custom_edit_url: null
 keywords:

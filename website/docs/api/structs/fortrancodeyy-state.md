@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `fortrancodeYY_state` Struct Reference
+# `fortrancodeYY_state` Struct
 
 
 

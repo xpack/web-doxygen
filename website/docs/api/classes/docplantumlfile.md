@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocPlantUmlFile` Class Reference
+# `DocPlantUmlFile` Class
 
 <p>Node representing a uml file. <a href="#details">More...</a></p>
 

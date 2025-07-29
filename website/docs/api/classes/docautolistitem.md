@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocAutoListItem` Class Reference
+# `DocAutoListItem` Class
 
 <p>Node representing an item of a auto list. <a href="#details">More...</a></p>
 

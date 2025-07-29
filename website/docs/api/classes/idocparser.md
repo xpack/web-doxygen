@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IDocParser` Class Reference
+# `IDocParser` Class
 
 <p>opaque parser interface <a href="#details">More...</a></p>
 

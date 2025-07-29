@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlCodeGenerator` Class Reference
+# `HtmlCodeGenerator` Class
 
 <p>Generator for HTML code fragments. <a href="#details">More...</a></p>
 

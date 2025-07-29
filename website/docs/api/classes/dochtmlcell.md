@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHtmlCell` Class Reference
+# `DocHtmlCell` Class
 
 <p>Node representing a HTML table cell. <a href="#details">More...</a></p>
 

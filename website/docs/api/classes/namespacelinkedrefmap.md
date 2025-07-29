@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NamespaceLinkedRefMap` Class Reference
+# `NamespaceLinkedRefMap` Class
 
 
 

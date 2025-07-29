@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `JJCalls` Struct Reference
+# `JJCalls` Struct
 
 
 

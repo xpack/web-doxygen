@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ClangTUParser` Class Reference
+# `ClangTUParser` Class
 
 <p>Clang parser object for a single translation unit, which consists of a source file and the directly or indirectly included headers. <a href="#details">More...</a></p>
 

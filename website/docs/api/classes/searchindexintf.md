@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SearchIndexIntf` Class Reference
+# `SearchIndexIntf` Class
 
 <p>Abstract proxy interface for non-javascript based search indices. <a href="#details">More...</a></p>
 

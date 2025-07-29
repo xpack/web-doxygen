@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `UsesClassList` Class Reference
+# `UsesClassList` Class
 
 
 

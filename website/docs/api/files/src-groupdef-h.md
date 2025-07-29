@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `groupdef.h` File Reference
+# `groupdef.h` File
 
 
 

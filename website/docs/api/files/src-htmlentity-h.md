@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `htmlentity.h` File Reference
+# `htmlentity.h` File
 
 
 

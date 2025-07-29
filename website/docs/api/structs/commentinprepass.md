@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CommentInPrepass` Struct Reference
+# `CommentInPrepass` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CodeParserInterface` Class Reference
+# `CodeParserInterface` Class
 
 <p>Abstract interface for code parsers. <a href="#details">More...</a></p>
 

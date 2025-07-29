@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Debug` Class Reference
+# `Debug` Class
 
 <p>Class containing a print function for diagnostics. <a href="#details">More...</a></p>
 

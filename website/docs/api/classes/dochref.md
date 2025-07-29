@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHRef` Class Reference
+# `DocHRef` Class
 
 <p>Node representing a Hypertext reference. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `commentcnv_FileState` Struct Reference
+# `commentcnv_FileState` Struct
 
 
 

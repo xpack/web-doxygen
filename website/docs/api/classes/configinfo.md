@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigInfo` Class Reference
+# `ConfigInfo` Class
 
 <p>Section marker for grouping the configuration options. <a href="#details">More...</a></p>
 

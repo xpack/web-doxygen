@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `tooltip.cpp` File Reference
+# `tooltip.cpp` File
 
 
 

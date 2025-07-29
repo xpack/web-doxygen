@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHtmlTable` Class Reference
+# `DocHtmlTable` Class
 
 <p>Node representing a HTML table. <a href="#details">More...</a></p>
 

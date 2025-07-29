@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ClangParser` Class Reference
+# `ClangParser` Class
 
 <p>Wrapper for to let libclang assisted parsing. <a href="#details">More...</a></p>
 

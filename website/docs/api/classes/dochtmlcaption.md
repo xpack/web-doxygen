@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHtmlCaption` Class Reference
+# `DocHtmlCaption` Class
 
 <p>Node representing a HTML table caption. <a href="#details">More...</a></p>
 

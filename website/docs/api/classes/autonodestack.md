@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AutoNodeStack` Class Reference
+# `AutoNodeStack` Class
 
 
 

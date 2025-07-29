@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AutoTimeKeeper` Class Reference
+# `AutoTimeKeeper` Class
 
 
 

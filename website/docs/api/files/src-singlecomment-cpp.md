@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `singlecomment.cpp` File Reference
+# `singlecomment.cpp` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Formula` Class Reference
+# `Formula` Class
 
 <p>Class representing a LaTeX formula as found in the documentation. <a href="#details">More...</a></p>
 

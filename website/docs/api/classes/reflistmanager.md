@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `RefListManager` Class Reference
+# `RefListManager` Class
 
 
 

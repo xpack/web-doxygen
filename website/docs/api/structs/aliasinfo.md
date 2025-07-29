@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AliasInfo` Struct Reference
+# `AliasInfo` Struct
 
 
 

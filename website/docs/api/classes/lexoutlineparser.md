@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LexOutlineParser` Class Reference
+# `LexOutlineParser` Class
 
 <p>Lex language parser using state-based lexical scanning. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigImpl` Class Reference
+# `ConfigImpl` Class
 
 <p>Singleton for configuration variables. <a href="#details">More...</a></p>
 

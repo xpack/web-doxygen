@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TreeDiagram` Class Reference
+# `TreeDiagram` Class
 
 <p>Class representing the tree layout for the built-in class diagram. <a href="#details">More...</a></p>
 

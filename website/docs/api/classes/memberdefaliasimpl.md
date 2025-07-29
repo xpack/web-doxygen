@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberDefAliasImpl` Class Reference
+# `MemberDefAliasImpl` Class
 
 
 

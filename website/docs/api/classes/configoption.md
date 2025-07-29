@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigOption` Class Reference
+# `ConfigOption` Class
 
 <p>Abstract base class for any configuration option. <a href="#details">More...</a></p>
 

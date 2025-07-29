@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ClassDefImpl` Class Reference
+# `ClassDefImpl` Class
 
 <p>Implementation of the <a href="/web-doxygen/docs/api/classes/classdef">ClassDef</a> interface. <a href="#details">More...</a></p>
 

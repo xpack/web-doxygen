@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotGfxHierarchyTable` Class Reference
+# `DotGfxHierarchyTable` Class
 
 <p>Represents a graphical class hierarchy. <a href="#details">More...</a></p>
 

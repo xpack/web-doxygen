@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FragmentInfo` Struct Reference
+# `FragmentInfo` Struct
 
 
 

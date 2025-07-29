@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `arguments.h` File Reference
+# `arguments.h` File
 
 
 

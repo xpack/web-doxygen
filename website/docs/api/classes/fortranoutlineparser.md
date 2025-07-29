@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FortranOutlineParser` Class Reference
+# `FortranOutlineParser` Class
 
 <p>Fortran language parser using state-based lexical scanning. <a href="#details">More...</a></p>
 

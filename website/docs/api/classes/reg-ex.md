@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Ex` Class Reference
+# `Ex` Class
 
 <p>Class representing a regular expression. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `index.cpp` File Reference
+# `index.cpp` File
 
 <p>This file contains functions for the various index pages. <a href="#details">More...</a></p>
 

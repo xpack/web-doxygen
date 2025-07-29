@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CompoundFactory` Struct Reference
+# `CompoundFactory` Struct
 
 
 

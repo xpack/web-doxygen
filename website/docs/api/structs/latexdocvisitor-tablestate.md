@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TableState` Struct Reference
+# `TableState` Struct
 
 
 

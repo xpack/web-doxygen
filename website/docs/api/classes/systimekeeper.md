@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SysTimeKeeper` Class Reference
+# `SysTimeKeeper` Class
 
 
 

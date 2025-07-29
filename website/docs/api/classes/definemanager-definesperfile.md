@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DefinesPerFile` Class Reference
+# `DefinesPerFile` Class
 
 <p>Local class used to hold the defines for a single file. <a href="#details">More...</a></p>
 

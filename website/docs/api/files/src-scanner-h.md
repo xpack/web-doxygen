@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `scanner.h` File Reference
+# `scanner.h` File
 
 
 

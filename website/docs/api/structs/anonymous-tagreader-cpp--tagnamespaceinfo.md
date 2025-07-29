@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagNamespaceInfo` Struct Reference
+# `TagNamespaceInfo` Struct
 
 <p>Container for namespace specific info that can be read from a tagfile. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputGenerator` Class Reference
+# `OutputGenerator` Class
 
 <p>Base class for shared implementation for all output generators. <a href="#details">More...</a></p>
 

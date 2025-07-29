@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IndexField` Struct Reference
+# `IndexField` Struct
 
 <p>Class representing a field in the HTML help index. <a href="#details">More...</a></p>
 

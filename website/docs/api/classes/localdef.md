@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LocalDef` Class Reference
+# `LocalDef` Class
 
 
 

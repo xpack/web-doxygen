@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotLegendGraph` Class Reference
+# `DotLegendGraph` Class
 
 <p>Representation of a legend explaining the meaning of boxes, arrows, and colors. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `translator_it.h` File Reference
+# `translator_it.h` File
 
 
 

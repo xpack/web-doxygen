@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SelectionMarkerInfo` Struct Reference
+# `SelectionMarkerInfo` Struct
 
 
 

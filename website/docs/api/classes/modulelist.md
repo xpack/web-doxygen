@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ModuleList` Class Reference
+# `ModuleList` Class
 
 
 

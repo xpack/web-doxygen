@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files & Folders Reference
+title: Files & Folders
 slug: /api/files
 custom_edit_url: null
 keywords:

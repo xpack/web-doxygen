@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FilterCache` Class Reference
+# `FilterCache` Class
 
 
 

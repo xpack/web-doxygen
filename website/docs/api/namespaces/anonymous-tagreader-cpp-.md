@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `anonymous{tagreader.cpp}` Namespace Reference
+# `anonymous{tagreader.cpp}` Namespace
 
 
 

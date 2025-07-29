@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `XMLLocator` Class Reference
+# `XMLLocator` Class
 
 
 

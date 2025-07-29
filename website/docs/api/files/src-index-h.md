@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `index.h` File Reference
+# `index.h` File
 
 
 

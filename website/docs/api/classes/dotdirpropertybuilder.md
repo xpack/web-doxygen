@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotDirPropertyBuilder` Class Reference
+# `DotDirPropertyBuilder` Class
 
 <p>Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="#details">More...</a></p>
 

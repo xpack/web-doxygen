@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocWhiteSpace` Class Reference
+# `DocWhiteSpace` Class
 
 <p>Node representing some amount of white space. <a href="#details">More...</a></p>
 

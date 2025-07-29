@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CallContext` Class Reference
+# `CallContext` Class
 
 <p>Represents the call context. <a href="#details">More...</a></p>
 

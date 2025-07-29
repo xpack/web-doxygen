@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NavIndexEntryList` Class Reference
+# `NavIndexEntryList` Class
 
 
 

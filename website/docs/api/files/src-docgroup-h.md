@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `docgroup.h` File Reference
+# `docgroup.h` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SymbolModifiers` Struct Reference
+# `SymbolModifiers` Struct
 
 <p>Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc) <a href="#details">More...</a></p>
 

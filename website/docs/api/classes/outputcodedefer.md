@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputCodeDefer` Class Template Reference
+# `OutputCodeDefer` Class Template
 
 <p>Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type. <a href="#details">More...</a></p>
 

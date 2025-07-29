@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CitePosition` Class Reference
+# `CitePosition` Class
 
 <p>class that provide information about the p[osition of a citation name <a href="#details">More...</a></p>
 

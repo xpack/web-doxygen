@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirLinkedMap` Class Reference
+# `DirLinkedMap` Class
 
 <p>A linked map of directories. <a href="#details">More...</a></p>
 

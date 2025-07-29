@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocParamList` Class Reference
+# `DocParamList` Class
 
 <p>Node representing a parameter list. <a href="#details">More...</a></p>
 

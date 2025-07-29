@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Match` Class Reference
+# `Match` Class
 
 <p>Object representing the matching results. <a href="#details">More...</a></p>
 

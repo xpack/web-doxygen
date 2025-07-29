@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `has_method_children` Struct Template Reference
+# `has_method_children` Struct Template
 
 
 

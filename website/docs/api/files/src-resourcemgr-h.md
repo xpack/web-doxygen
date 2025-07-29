@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `resourcemgr.h` File Reference
+# `resourcemgr.h` File
 
 
 

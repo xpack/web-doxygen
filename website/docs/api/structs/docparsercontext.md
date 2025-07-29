@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocParserContext` Struct Reference
+# `DocParserContext` Struct
 
 <p>Parser's context to store all global variables. <a href="#details">More...</a></p>
 

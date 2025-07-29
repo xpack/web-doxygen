@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LatexListItemInfo` Struct Reference
+# `LatexListItemInfo` Struct
 
 
 

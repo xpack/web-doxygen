@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `cite.h` File Reference
+# `cite.h` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `STLInfo` Struct Reference
+# `STLInfo` Struct
 
 <p>A struct contained the data for an STL class. <a href="#details">More...</a></p>
 

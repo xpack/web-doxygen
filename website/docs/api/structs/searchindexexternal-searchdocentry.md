@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SearchDocEntry` Struct Reference
+# `SearchDocEntry` Struct
 
 
 

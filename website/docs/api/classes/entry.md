@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Entry` Class Reference
+# `Entry` Class
 
 <p>Represents an unstructured piece of information, about an entity found in the sources. <a href="#details">More...</a></p>
 

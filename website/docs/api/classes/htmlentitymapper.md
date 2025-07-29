@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlEntityMapper` Class Reference
+# `HtmlEntityMapper` Class
 
 <p>Singleton helper class to map html entities to other formats. <a href="#details">More...</a></p>
 

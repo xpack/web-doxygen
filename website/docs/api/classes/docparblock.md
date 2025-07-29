@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocParBlock` Class Reference
+# `DocParBlock` Class
 
 <p>Node representing an block of paragraphs. <a href="#details">More...</a></p>
 

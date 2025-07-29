@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `stringutil.h` File Reference
+# `stringutil.h` File
 
 <p>Some helper functions for std::string. <a href="#details">More...</a></p>
 

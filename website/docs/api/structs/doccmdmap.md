@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocCmdMap` Struct Reference
+# `DocCmdMap` Struct
 
 
 

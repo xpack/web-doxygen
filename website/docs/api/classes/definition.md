@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Definition` Class Reference
+# `Definition` Class
 
 <p>The common base class of all entity definitions found in the sources. <a href="#details">More...</a></p>
 

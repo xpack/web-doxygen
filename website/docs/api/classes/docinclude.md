@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocInclude` Class Reference
+# `DocInclude` Class
 
 <p>Node representing an included text block from file. <a href="#details">More...</a></p>
 

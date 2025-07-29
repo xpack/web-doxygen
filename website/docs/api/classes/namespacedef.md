@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NamespaceDef` Class Reference
+# `NamespaceDef` Class
 
 <p>An abstract interface of a namespace symbol. <a href="#details">More...</a></p>
 

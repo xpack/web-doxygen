@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocURL` Class Reference
+# `DocURL` Class
 
 <p>Node representing a URL (or email address) <a href="#details">More...</a></p>
 

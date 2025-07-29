@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputGenElem` Struct Reference
+# `OutputGenElem` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ftvhelp.cpp` File Reference
+# `ftvhelp.cpp` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `KeywordSubstitution` Struct Reference
+# `KeywordSubstitution` Struct
 
 
 

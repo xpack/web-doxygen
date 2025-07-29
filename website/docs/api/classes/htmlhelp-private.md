@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Private` Class Reference
+# `Private` Class
 
 
 

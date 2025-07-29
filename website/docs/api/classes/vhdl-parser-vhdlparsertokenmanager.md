@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlParserTokenManager` Class Reference
+# `VhdlParserTokenManager` Class
 
 <p><a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="#details">More...</a></p>
 

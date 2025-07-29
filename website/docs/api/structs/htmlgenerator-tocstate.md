@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TocState` Struct Reference
+# `TocState` Struct
 
 
 

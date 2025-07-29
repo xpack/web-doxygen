@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlString` Class Reference
+# `VhdlString` Class
 
 <p>Minimal string class with std::string like behavior that fulfills the JavaCC string requirements. <a href="#details">More...</a></p>
 

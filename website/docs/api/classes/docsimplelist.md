@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSimpleList` Class Reference
+# `DocSimpleList` Class
 
 <p>Node representing a simple list. <a href="#details">More...</a></p>
 

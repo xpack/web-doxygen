@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `translator_dk.h` File Reference
+# `translator_dk.h` File
 
 <p>Danish translation. <a href="#details">More...</a></p>
 

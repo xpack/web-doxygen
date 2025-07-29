@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LayoutDocEntryMemberDef` Struct Reference
+# `LayoutDocEntryMemberDef` Struct
 
 <p>Represents of a member definition list with configurable title. <a href="#details">More...</a></p>
 

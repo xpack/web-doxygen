@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `XMLParser` Class Reference
+# `XMLParser` Class
 
 
 

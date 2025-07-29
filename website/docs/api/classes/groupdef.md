@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GroupDef` Class Reference
+# `GroupDef` Class
 
 <p>A model of a group of symbols. <a href="#details">More...</a></p>
 

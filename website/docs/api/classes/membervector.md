@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberVector` Class Reference
+# `MemberVector` Class
 
 <p>A vector of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> object. <a href="#details">More...</a></p>
 

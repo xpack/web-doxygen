@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CiteInfo` Struct Reference
+# `CiteInfo` Struct
 
 <p>Citation-related data. <a href="#details">More...</a></p>
 

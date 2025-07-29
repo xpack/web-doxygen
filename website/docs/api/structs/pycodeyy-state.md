@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `pycodeYY_state` Struct Reference
+# `pycodeYY_state` Struct
 
 
 

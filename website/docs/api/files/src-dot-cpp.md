@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `dot.cpp` File Reference
+# `dot.cpp` File
 
 
 

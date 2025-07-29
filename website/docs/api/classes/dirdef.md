@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirDef` Class Reference
+# `DirDef` Class
 
 <p>A model of a directory symbol. <a href="#details">More...</a></p>
 

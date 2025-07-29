@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TypeSpecifier` Class Reference
+# `TypeSpecifier` Class
 
 <p>Wrapper class for a number of boolean properties. <a href="#details">More...</a></p>
 

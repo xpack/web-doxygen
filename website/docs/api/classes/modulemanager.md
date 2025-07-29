@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ModuleManager` Class Reference
+# `ModuleManager` Class
 
 
 

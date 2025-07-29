@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Define` Class Reference
+# `Define` Class
 
 <p>A class representing a macro definition. <a href="#details">More...</a></p>
 

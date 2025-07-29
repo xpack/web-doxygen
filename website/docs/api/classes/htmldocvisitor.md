@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlDocVisitor` Class Reference
+# `HtmlDocVisitor` Class
 
 <p>Concrete visitor implementation for HTML output. <a href="#details">More...</a></p>
 

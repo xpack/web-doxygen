@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Trace` Namespace Reference
+# `Trace` Namespace
 
 
 

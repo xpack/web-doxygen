@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `configoptions.h` File Reference
+# `configoptions.h` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LayoutDocManager` Class Reference
+# `LayoutDocManager` Class
 
 <p>Singleton providing access to the (user configurable) layout of the documentation. <a href="#details">More...</a></p>
 

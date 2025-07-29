@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PerlSymb` Struct Reference
+# `PerlSymb` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotGraph` Class Reference
+# `DotGraph` Class
 
 <p>A dot graph. <a href="#details">More...</a></p>
 

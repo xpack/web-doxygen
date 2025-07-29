@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileDef` Class Reference
+# `FileDef` Class
 
 <p>A model of a file symbol. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotGroupCollaboration` Class Reference
+# `DotGroupCollaboration` Class
 
 <p>Representation of a group collaboration graph. <a href="#details">More...</a></p>
 

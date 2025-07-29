@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `parser` Namespace Reference
+# `parser` Namespace
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `RefList` Class Reference
+# `RefList` Class
 
 <p>List of cross-referenced items. <a href="#details">More...</a></p>
 

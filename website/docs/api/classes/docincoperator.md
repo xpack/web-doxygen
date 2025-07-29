@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocIncOperator` Class Reference
+# `DocIncOperator` Class
 
 <p>Node representing a include/dontinclude operator block. <a href="#details">More...</a></p>
 

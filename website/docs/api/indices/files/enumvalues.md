@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Enum Values Index
+title: Files Enum Values Index
 slug: /api/indices/files/enumvalues
 custom_edit_url: null
 keywords:

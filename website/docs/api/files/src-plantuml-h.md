@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `plantuml.h` File Reference
+# `plantuml.h` File
 
 
 

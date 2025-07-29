@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocPara` Class Reference
+# `DocPara` Class
 
 <p>Node representing a paragraph in the documentation tree. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CallInfo` Struct Reference
+# `CallInfo` Struct
 
 
 

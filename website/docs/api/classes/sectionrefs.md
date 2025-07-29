@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SectionRefs` Class Reference
+# `SectionRefs` Class
 
 <p>class that represents a list of constant references to sections. <a href="#details">More...</a></p>
 

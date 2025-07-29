@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `rtfdocvisitor.h` File Reference
+# `rtfdocvisitor.h` File
 
 
 

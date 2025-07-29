@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CondParser` Class Reference
+# `CondParser` Class
 
 <p>Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="#details">More...</a></p>
 

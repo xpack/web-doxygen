@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `linkedmap.h` File Reference
+# `linkedmap.h` File
 
 
 

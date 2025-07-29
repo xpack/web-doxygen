@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Scope` Class Reference
+# `Scope` Class
 
 <p>Contains names of used modules and names of local variables. <a href="#details">More...</a></p>
 

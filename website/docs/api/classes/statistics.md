@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Statistics` Class Reference
+# `Statistics` Class
 
 
 

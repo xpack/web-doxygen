@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `KeywordHash` Class Reference
+# `KeywordHash` Class
 
 
 

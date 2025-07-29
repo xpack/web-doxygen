@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PrintDocVisitor` Class Reference
+# `PrintDocVisitor` Class
 
 
 

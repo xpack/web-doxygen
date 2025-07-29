@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CCodeParser` Class Reference
+# `CCodeParser` Class
 
 
 

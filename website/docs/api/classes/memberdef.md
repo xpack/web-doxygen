@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberDef` Class Reference
+# `MemberDef` Class
 
 <p>A model of a class/file/namespace member symbol. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocLineBreak` Class Reference
+# `DocLineBreak` Class
 
 <p>Node representing a line break. <a href="#details">More...</a></p>
 

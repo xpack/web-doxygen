@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSection` Class Reference
+# `DocSection` Class
 
 <p>Node representing a normal section. <a href="#details">More...</a></p>
 

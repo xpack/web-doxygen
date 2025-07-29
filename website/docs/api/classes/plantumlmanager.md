@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PlantumlManager` Class Reference
+# `PlantumlManager` Class
 
 <p>Singleton that manages plantuml relation actions. <a href="#details">More...</a></p>
 

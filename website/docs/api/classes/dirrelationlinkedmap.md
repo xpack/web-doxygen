@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirRelationLinkedMap` Class Reference
+# `DirRelationLinkedMap` Class
 
 
 

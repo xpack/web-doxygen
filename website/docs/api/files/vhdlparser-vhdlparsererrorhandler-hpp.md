@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlParserErrorHandler.hpp` File Reference
+# `VhdlParserErrorHandler.hpp` File
 
 
 

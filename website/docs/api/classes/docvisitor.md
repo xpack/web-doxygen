@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocVisitor` Class Reference
+# `DocVisitor` Class
 
 <p>Helper base class for functionality shared by all visitors. <a href="#details">More...</a></p>
 

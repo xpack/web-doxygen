@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Namespaces Definitions Index
+title: Namespaces Definitions Index
 slug: /api/indices/namespaces/all
 custom_edit_url: null
 keywords:

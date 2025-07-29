@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SearchTerm` Struct Reference
+# `SearchTerm` Struct
 
 <p>Searchable term. <a href="#details">More...</a></p>
 

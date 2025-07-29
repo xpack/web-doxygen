@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotJob` Struct Reference
+# `DotJob` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `vhdl` Namespace Reference
+# `vhdl` Namespace
 
 <p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="#details">More...</a></p>
 

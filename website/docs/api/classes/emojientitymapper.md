@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `EmojiEntityMapper` Class Reference
+# `EmojiEntityMapper` Class
 
 <p>Singleton helper class to map emoji entities to other formats. <a href="#details">More...</a></p>
 

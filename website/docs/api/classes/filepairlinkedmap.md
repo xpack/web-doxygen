@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FilePairLinkedMap` Class Reference
+# `FilePairLinkedMap` Class
 
 <p>A linked map of file pairs. <a href="#details">More...</a></p>
 

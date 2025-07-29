@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `vhdldocgen.cpp` File Reference
+# `vhdldocgen.cpp` File
 
 
 

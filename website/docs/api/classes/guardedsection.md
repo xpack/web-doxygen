@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GuardedSection` Class Reference
+# `GuardedSection` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FTVHelp` Class Reference
+# `FTVHelp` Class
 
 <p>A class that generates a dynamic tree view side panel. <a href="#details">More...</a></p>
 

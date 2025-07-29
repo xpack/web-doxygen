@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ManCodeGenerator` Class Reference
+# `ManCodeGenerator` Class
 
 <p>Generator for Man page code fragments. <a href="#details">More...</a></p>
 

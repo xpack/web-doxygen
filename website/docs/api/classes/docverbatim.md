@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocVerbatim` Class Reference
+# `DocVerbatim` Class
 
 <p>Node representing a verbatim, unparsed text fragment. <a href="#details">More...</a></p>
 

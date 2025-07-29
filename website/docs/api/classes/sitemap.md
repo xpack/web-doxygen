@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Sitemap` Class Reference
+# `Sitemap` Class
 
 
 

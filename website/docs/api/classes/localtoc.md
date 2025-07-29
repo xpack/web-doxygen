@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LocalToc` Class Reference
+# `LocalToc` Class
 
 
 

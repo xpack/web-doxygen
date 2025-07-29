@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Macro Definitions Index
+title: Files Macro Definitions Index
 slug: /api/indices/files/defines
 custom_edit_url: null
 keywords:

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Resource` Struct Reference
+# `Resource` Struct
 
 <p>Compiled resource. <a href="#details">More...</a></p>
 

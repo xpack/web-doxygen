@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `dotfilepatcher.h` File Reference
+# `dotfilepatcher.h` File
 
 
 

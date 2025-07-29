@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotFilePatcher` Class Reference
+# `DotFilePatcher` Class
 
 <p>Helper class to insert a set of map file into an output file. <a href="#details">More...</a></p>
 

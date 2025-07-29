@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Functions Index
+title: Files Functions Index
 slug: /api/indices/files/functions
 custom_edit_url: null
 keywords:

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ResourceMgr` Class Reference
+# `ResourceMgr` Class
 
 <p>Singleton for managing resources compiled into an executable. <a href="#details">More...</a></p>
 

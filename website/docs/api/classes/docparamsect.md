@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocParamSect` Class Reference
+# `DocParamSect` Class
 
 <p>Node representing a parameter section. <a href="#details">More...</a></p>
 

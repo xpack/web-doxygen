@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `XMLHandlers` Class Reference
+# `XMLHandlers` Class
 
 <p>Event handlers that can installed by the client and called while parsing a XML document. <a href="#details">More...</a></p>
 

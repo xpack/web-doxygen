@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `sqlcodeYY_state` Struct Reference
+# `sqlcodeYY_state` Struct
 
 
 

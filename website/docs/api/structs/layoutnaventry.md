@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LayoutNavEntry` Struct Reference
+# `LayoutNavEntry` Struct
 
 <p>Base class for the layout of a navigation item at the top of the HTML pages. <a href="#details">More...</a></p>
 

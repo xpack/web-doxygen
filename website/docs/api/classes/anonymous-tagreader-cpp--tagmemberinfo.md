@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagMemberInfo` Class Reference
+# `TagMemberInfo` Class
 
 <p>Container for member specific info that can be read from a tagfile. <a href="#details">More...</a></p>
 

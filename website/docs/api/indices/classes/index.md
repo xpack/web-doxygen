@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Classes Reference
+title: Classes
 slug: /api/classes
 custom_edit_url: null
 keywords:

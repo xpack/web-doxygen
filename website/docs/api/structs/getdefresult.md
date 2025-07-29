@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GetDefResult` Struct Reference
+# `GetDefResult` Struct
 
 
 

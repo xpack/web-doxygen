@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IndexList` Class Reference
+# `IndexList` Class
 
 <p>A list of index interfaces. <a href="#details">More...</a></p>
 

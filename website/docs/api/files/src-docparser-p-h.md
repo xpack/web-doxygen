@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `docparser_p.h` File Reference
+# `docparser_p.h` File
 
 <p>Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>. <a href="#details">More...</a></p>
 

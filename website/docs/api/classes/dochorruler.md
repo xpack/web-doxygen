@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocHorRuler` Class Reference
+# `DocHorRuler` Class
 
 <p>Node representing a horizontal ruler. <a href="#details">More...</a></p>
 

@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Class Type Definitions Index
+title: Class Type Definitions Index
 slug: /api/indices/classes/typedefs
 custom_edit_url: null
 keywords:

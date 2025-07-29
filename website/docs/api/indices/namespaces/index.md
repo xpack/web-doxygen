@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Namespaces Reference
+title: Namespaces
 slug: /api/namespaces
 custom_edit_url: null
 keywords:

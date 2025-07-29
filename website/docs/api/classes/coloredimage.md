@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ColoredImage` Class Reference
+# `ColoredImage` Class
 
 <p>Class representing a bitmap image colored based on hue/sat/gamma settings. <a href="#details">More...</a></p>
 

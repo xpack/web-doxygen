@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FormulaManager` Class Reference
+# `FormulaManager` Class
 
 
 

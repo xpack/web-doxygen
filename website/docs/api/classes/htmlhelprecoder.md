@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlHelpRecoder` Class Reference
+# `HtmlHelpRecoder` Class
 
 <p>Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING. <a href="#details">More...</a></p>
 

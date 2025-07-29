@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Private` Class Reference
+# `Private` Class
 
 <p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="#details">More...</a></p>
 

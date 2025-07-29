@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Config` Namespace Reference
+# `Config` Namespace
 
 <p>Public function to deal with the configuration file. <a href="#details">More...</a></p>
 

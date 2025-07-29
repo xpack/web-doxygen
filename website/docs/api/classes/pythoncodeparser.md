@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PythonCodeParser` Class Reference
+# `PythonCodeParser` Class
 
 
 

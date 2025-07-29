@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotNodeDeque` Class Reference
+# `DotNodeDeque` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlParserTokenManager.h` File Reference
+# `VhdlParserTokenManager.h` File
 
 
 

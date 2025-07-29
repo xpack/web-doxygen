@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberGroup` Class Reference
+# `MemberGroup` Class
 
 <p>A class representing a group of members. <a href="#details">More...</a></p>
 

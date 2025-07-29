@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NamespaceAliasInfo` Struct Reference
+# `NamespaceAliasInfo` Struct
 
 
 

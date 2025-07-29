@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TableCell` Struct Reference
+# `TableCell` Struct
 
 
 

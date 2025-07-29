@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `JJExit` Struct Template Reference
+# `JJExit` Struct Template
 
 
 

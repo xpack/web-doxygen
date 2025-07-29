@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Classes Index
+title: Files Classes Index
 slug: /api/indices/files/classes
 custom_edit_url: null
 keywords:

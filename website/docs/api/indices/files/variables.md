@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Variables Index
+title: Files Variables Index
 slug: /api/indices/files/variables
 custom_edit_url: null
 keywords:

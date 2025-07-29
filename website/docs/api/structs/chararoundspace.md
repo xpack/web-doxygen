@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CharAroundSpace` Struct Reference
+# `CharAroundSpace` Struct
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagInfo` Struct Reference
+# `TagInfo` Struct
 
 <p>This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="#details">More...</a></p>
 

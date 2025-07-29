@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FilePair` Class Reference
+# `FilePair` Class
 
 <p>Class representing a pair of <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> objects. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocXRefItem` Class Reference
+# `DocXRefItem` Class
 
 <p>Node representing an item of a cross-referenced list. <a href="#details">More...</a></p>
 

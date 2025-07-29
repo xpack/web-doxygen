@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `lexcodeYY_state` Struct Reference
+# `lexcodeYY_state` Struct
 
 
 

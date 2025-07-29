@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TranslatorAdapter_1_4_6` Class Reference
+# `TranslatorAdapter_1_4_6` Class
 
 <p>Adapter class for languages that only contain translations up to version 1.4.6. <a href="#details">More...</a></p>
 

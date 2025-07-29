@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CmhlInfo` Struct Reference
+# `CmhlInfo` Struct
 
 <p>Helper class representing a class member in the navigation menu. <a href="#details">More...</a></p>
 

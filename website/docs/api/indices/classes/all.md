@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Classes and Members Index
+title: Classes and Members Index
 slug: /api/indices/classes/all
 custom_edit_url: null
 keywords:

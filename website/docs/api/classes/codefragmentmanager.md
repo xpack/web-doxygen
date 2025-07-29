@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CodeFragmentManager` Class Reference
+# `CodeFragmentManager` Class
 
 
 

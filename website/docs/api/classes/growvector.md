@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GrowVector` Class Template Reference
+# `GrowVector` Class Template
 
 <p>std::vector like container optimized for pushing elements to the back. <a href="#details">More...</a></p>
 

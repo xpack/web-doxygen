@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileCodeParser` Class Reference
+# `FileCodeParser` Class
 
 <p>Generic code parser. <a href="#details">More...</a></p>
 

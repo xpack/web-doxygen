@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TextStream` Class Reference
+# `TextStream` Class
 
 <p>Text streaming class that buffers data. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlConfNode` Struct Reference
+# `VhdlConfNode` Struct
 
 
 

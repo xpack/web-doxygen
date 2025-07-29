@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `BaseInfo` Struct Reference
+# `BaseInfo` Struct
 
 <p>This class stores information about an inheritance relation. <a href="#details">More...</a></p>
 

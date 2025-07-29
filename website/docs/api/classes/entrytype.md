@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `EntryType` Class Reference
+# `EntryType` Class
 
 <p>Wrapper class for the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> type. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberGroupList` Class Reference
+# `MemberGroupList` Class
 
 
 

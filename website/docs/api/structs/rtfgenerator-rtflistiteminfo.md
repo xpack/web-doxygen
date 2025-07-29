@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `RTFListItemInfo` Struct Reference
+# `RTFListItemInfo` Struct
 
 
 

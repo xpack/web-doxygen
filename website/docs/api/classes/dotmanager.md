@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotManager` Class Reference
+# `DotManager` Class
 
 <p>Singleton that manages parallel dot invocations and patching files for embedding image maps. <a href="#details">More...</a></p>
 

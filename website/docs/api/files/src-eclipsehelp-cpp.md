@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `eclipsehelp.cpp` File Reference
+# `eclipsehelp.cpp` File
 
 
 

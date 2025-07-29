@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Private` Class Reference
+# `Private` Class
 
 <p><a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object. <a href="#details">More...</a></p>
 

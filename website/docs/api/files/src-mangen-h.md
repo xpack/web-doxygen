@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `mangen.h` File Reference
+# `mangen.h` File
 
 
 

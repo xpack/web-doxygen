@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DebugLex` Class Reference
+# `DebugLex` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSecRefList` Class Reference
+# `DocSecRefList` Class
 
 <p>Node representing a list of section references. <a href="#details">More...</a></p>
 

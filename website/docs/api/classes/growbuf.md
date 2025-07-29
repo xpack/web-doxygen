@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GrowBuf` Class Reference
+# `GrowBuf` Class
 
 <p>Class representing a string buffer optimized for growing. <a href="#details">More...</a></p>
 

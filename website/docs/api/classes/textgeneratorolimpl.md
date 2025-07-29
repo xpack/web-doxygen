@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TextGeneratorOLImpl` Class Reference
+# `TextGeneratorOLImpl` Class
 
 <p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream. <a href="#details">More...</a></p>
 

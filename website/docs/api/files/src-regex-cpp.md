@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `regex.cpp` File Reference
+# `regex.cpp` File
 
 
 

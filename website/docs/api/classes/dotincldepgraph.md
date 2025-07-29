@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotInclDepGraph` Class Reference
+# `DotInclDepGraph` Class
 
 <p>Representation of an include dependency graph. <a href="#details">More...</a></p>
 

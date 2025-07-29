@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `latexdocvisitor.h` File Reference
+# `latexdocvisitor.h` File
 
 
 

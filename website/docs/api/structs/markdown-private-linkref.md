@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LinkRef` Struct Reference
+# `LinkRef` Struct
 
 
 

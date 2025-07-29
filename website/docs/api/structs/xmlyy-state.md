@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `xmlYY_state` Struct Reference
+# `xmlYY_state` Struct
 
 
 

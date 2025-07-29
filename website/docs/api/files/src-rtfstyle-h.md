@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `rtfstyle.h` File Reference
+# `rtfstyle.h` File
 
 
 

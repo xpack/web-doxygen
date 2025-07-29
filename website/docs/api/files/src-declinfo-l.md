@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `declinfo.l` File Reference
+# `declinfo.l` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `growvector.h` File Reference
+# `growvector.h` File
 
 
 

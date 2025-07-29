@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ExampleList` Class Reference
+# `ExampleList` Class
 
 
 

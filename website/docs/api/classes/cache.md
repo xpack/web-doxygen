@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Cache` Class Template Reference
+# `Cache` Class Template
 
 
 

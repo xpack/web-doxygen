@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `UsedDir` Class Reference
+# `UsedDir` Class
 
 <p>Usage information of a directory. <a href="#details">More...</a></p>
 

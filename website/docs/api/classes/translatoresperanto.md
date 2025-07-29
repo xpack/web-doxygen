@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TranslatorEsperanto` Class Reference
+# `TranslatorEsperanto` Class
 
 
 

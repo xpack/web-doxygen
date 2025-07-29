@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `dotgroupcollaboration.h` File Reference
+# `dotgroupcollaboration.h` File
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocFormula` Class Reference
+# `DocFormula` Class
 
 <p>Node representing an item of a cross-referenced list. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ModuleLinkedMap` Class Reference
+# `ModuleLinkedMap` Class
 
 
 

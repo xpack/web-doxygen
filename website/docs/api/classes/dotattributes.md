@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotAttributes` Class Reference
+# `DotAttributes` Class
 
 <p>Class representing an attribute list of a dot graph object. <a href="#details">More...</a></p>
 

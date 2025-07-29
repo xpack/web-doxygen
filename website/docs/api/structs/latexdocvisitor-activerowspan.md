@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ActiveRowSpan` Struct Reference
+# `ActiveRowSpan` Struct
 
 
 

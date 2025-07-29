@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Refid` Struct Reference
+# `Refid` Struct
 
 
 

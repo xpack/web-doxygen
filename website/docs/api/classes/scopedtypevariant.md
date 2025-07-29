@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ScopedTypeVariant` Class Reference
+# `ScopedTypeVariant` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Argument` Struct Reference
+# `Argument` Struct
 
 <p>This class contains the information about the argument of a function or template. <a href="#details">More...</a></p>
 

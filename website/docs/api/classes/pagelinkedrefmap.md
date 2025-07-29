@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PageLinkedRefMap` Class Reference
+# `PageLinkedRefMap` Class
 
 
 

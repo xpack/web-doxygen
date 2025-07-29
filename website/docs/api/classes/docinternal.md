@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocInternal` Class Reference
+# `DocInternal` Class
 
 <p>Node representing an internal section of documentation. <a href="#details">More...</a></p>
 

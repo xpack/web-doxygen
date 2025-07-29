@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `util.h` File Reference
+# `util.h` File
 
 <p>A bunch of utility functions. <a href="#details">More...</a></p>
 

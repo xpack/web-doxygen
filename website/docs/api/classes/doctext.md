@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocText` Class Reference
+# `DocText` Class
 
 <p>Root node of a text fragment. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TimeData` Struct Reference
+# `TimeData` Struct
 
 
 

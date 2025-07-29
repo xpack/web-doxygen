@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NmhlInfo` Struct Reference
+# `NmhlInfo` Struct
 
 <p>Helper class representing a namespace member in the navigation menu. <a href="#details">More...</a></p>
 

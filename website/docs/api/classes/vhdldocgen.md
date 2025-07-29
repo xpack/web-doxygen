@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlDocGen` Class Reference
+# `VhdlDocGen` Class
 
 <p>Class for generating documentation specific for VHDL. <a href="#details">More...</a></p>
 

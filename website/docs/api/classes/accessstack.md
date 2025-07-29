@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AccessStack` Class Reference
+# `AccessStack` Class
 
 <p>Helper class representing the stack of items considered while resolving the scope. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `RTFCodeGenerator` Class Reference
+# `RTFCodeGenerator` Class
 
 <p>Generator for RTF code fragments. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConstExpressionParser` Class Reference
+# `ConstExpressionParser` Class
 
 <p>constant expression parser used for the C preprocessor <a href="#details">More...</a></p>
 

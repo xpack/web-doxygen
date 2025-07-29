@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LayoutParser` Class Reference
+# `LayoutParser` Class
 
 
 

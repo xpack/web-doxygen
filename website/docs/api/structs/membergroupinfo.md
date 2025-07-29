@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberGroupInfo` Struct Reference
+# `MemberGroupInfo` Struct
 
 <p>Data collected for a member group. <a href="#details">More...</a></p>
 

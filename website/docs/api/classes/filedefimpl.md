@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileDefImpl` Class Reference
+# `FileDefImpl` Class
 
 
 

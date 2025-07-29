@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Namespaces Index
+title: Files Namespaces Index
 slug: /api/indices/files/namespaces
 custom_edit_url: null
 keywords:

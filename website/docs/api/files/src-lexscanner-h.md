@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `lexscanner.h` File Reference
+# `lexscanner.h` File
 
 
 

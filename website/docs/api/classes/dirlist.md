@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirList` Class Reference
+# `DirList` Class
 
 <p>A list of directories. <a href="#details">More...</a></p>
 

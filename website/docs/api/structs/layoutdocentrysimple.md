@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LayoutDocEntrySimple` Struct Reference
+# `LayoutDocEntrySimple` Struct
 
 <p>Represents of a piece of a documentation page without configurable parts. <a href="#details">More...</a></p>
 

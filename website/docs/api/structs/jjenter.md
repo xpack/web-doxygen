@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `JJEnter` Struct Template Reference
+# `JJEnter` Struct Template
 
 
 

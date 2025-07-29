@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NavIndexEntry` Struct Reference
+# `NavIndexEntry` Struct
 
 
 

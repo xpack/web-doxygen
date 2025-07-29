@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PythonOutlineParser` Class Reference
+# `PythonOutlineParser` Class
 
 <p>Python Language parser using state-based lexical scanning. <a href="#details">More...</a></p>
 

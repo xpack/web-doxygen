@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ThreadPool` Class Reference
+# `ThreadPool` Class
 
 <p>Class managing a pool of worker threads. <a href="#details">More...</a></p>
 

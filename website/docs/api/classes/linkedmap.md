@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `LinkedMap` Class Template Reference
+# `LinkedMap` Class Template
 
 <p>Container class representing a vector of objects with keys. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TextGeneratorSqlite3Impl` Class Reference
+# `TextGeneratorSqlite3Impl` Class
 
 
 

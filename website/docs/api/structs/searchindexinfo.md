@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SearchIndexInfo` Struct Reference
+# `SearchIndexInfo` Struct
 
 <p>Table entry to allow filtering the search results per category. <a href="#details">More...</a></p>
 

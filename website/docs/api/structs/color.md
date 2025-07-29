@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Color` Struct Reference
+# `Color` Struct
 
 <p>Helper struct representing a RGBA color. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocAnchor` Class Reference
+# `DocAnchor` Class
 
 <p>Node representing an anchor. <a href="#details">More...</a></p>
 

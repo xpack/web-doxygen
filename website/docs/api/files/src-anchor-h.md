@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `anchor.h` File Reference
+# `anchor.h` File
 
 
 

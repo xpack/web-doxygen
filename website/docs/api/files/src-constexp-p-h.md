@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `constexp_p.h` File Reference
+# `constexp_p.h` File
 
 <p>Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="#details">More...</a></p>
 

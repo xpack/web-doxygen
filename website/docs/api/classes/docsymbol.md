@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocSymbol` Class Reference
+# `DocSymbol` Class
 
 <p>Node representing a special symbol. <a href="#details">More...</a></p>
 

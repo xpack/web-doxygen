@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigObsolete` Class Reference
+# `ConfigObsolete` Class
 
 <p>Section marker for obsolete options. <a href="#details">More...</a></p>
 

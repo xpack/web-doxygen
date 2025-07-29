@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ArgumentList` Class Reference
+# `ArgumentList` Class
 
 <p>This class represents an function or template argument list. <a href="#details">More...</a></p>
 

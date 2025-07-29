@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SelectionBlock` Struct Reference
+# `SelectionBlock` Struct
 
 
 

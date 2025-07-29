@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CitationManager` Class Reference
+# `CitationManager` Class
 
 <p>Citation manager class. <a href="#details">More...</a></p>
 

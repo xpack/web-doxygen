@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VhdlTokenManagerErrorHandler` Class Reference
+# `VhdlTokenManagerErrorHandler` Class
 
 
 

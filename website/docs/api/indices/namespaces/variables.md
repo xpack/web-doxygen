@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Namespaces Variables Index
+title: Namespaces Variables Index
 slug: /api/indices/namespaces/variables
 custom_edit_url: null
 keywords:

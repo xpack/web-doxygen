@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocImage` Class Reference
+# `DocImage` Class
 
 <p>Node representing an image. <a href="#details">More...</a></p>
 

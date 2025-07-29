@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputGenIntf` Class Reference
+# `OutputGenIntf` Class
 
 <p>Abstract interface for output generators. <a href="#details">More...</a></p>
 

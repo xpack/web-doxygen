@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotCallGraph` Class Reference
+# `DotCallGraph` Class
 
 <p>Representation of an call graph. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `NamespaceDefAliasImpl` Class Reference
+# `NamespaceDefAliasImpl` Class
 
 
 

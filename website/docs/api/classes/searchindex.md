@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SearchIndex` Class Reference
+# `SearchIndex` Class
 
 <p>Writes search index for doxygen provided server based search engine that uses PHP. <a href="#details">More...</a></p>
 

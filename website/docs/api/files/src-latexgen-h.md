@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `latexgen.h` File Reference
+# `latexgen.h` File
 
 
 

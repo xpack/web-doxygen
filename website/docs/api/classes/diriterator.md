@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DirIterator` Class Reference
+# `DirIterator` Class
 
 
 

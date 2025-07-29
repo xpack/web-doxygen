@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlAttribList` Class Reference
+# `HtmlAttribList` Class
 
 <p>Class representing a list of HTML attributes. <a href="#details">More...</a></p>
 

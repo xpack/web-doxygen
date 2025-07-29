@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagIncludeInfo` Class Reference
+# `TagIncludeInfo` Class
 
 <p>Container for include info that can be read from a tagfile. <a href="#details">More...</a></p>
 

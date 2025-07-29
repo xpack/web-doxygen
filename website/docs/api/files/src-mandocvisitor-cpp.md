@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `mandocvisitor.cpp` File Reference
+# `mandocvisitor.cpp` File
 
 
 

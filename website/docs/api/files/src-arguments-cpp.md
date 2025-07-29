@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `arguments.cpp` File Reference
+# `arguments.cpp` File
 
 
 

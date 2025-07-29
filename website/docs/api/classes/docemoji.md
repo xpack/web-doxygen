@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocEmoji` Class Reference
+# `DocEmoji` Class
 
 <p>Node representing an emoji. <a href="#details">More...</a></p>
 

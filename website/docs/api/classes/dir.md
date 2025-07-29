@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Dir` Class Reference
+# `Dir` Class
 
 <p>Class representing a directory in the file system. <a href="#details">More...</a></p>
 

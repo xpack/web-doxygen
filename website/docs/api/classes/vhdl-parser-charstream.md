@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CharStream` Class Reference
+# `CharStream` Class
 
 <p>This class describes a character stream that maintains line and column number positions of the characters. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `PToken` Class Reference
+# `PToken` Class
 
 <p>Class representing a token in the compiled regular expression token stream. <a href="#details">More...</a></p>
 

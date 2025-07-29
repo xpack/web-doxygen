@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocLexerContext` Struct Reference
+# `DocLexerContext` Struct
 
 
 

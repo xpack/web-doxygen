@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `BodyInfo` Struct Reference
+# `BodyInfo` Struct
 
 <p>Data associated with description found in the body. <a href="#details">More...</a></p>
 

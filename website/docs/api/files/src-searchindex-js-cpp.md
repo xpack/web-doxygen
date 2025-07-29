@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `searchindex_js.cpp` File Reference
+# `searchindex_js.cpp` File
 
 
 

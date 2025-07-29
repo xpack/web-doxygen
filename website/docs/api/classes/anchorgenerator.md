@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AnchorGenerator` Class Reference
+# `AnchorGenerator` Class
 
 <p>Singleton class used to generate anchors for <a href="/web-doxygen/docs/api/classes/markdown">Markdown</a> headers. <a href="#details">More...</a></p>
 

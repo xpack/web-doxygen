@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocTokenizer` Class Reference
+# `DocTokenizer` Class
 
 
 

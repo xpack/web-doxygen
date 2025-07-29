@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocNodeAST` Class Reference
+# `DocNodeAST` Class
 
 <p>Class representing the abstract syntax tree of a documentation block. <a href="#details">More...</a></p>
 

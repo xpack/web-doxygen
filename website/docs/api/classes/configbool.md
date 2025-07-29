@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigBool` Class Reference
+# `ConfigBool` Class
 
 <p>Class representing a Boolean type option. <a href="#details">More...</a></p>
 

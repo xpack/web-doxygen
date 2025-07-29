@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `UseEntry` Class Reference
+# `UseEntry` Class
 
 <p>data of an use-statement <a href="#details">More...</a></p>
 

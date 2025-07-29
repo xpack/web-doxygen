@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotDirProperty` Struct Reference
+# `DotDirProperty` Struct
 
 <p>Properties are used to format the directories in the graph distinctively. <a href="#details">More...</a></p>
 

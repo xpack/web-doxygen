@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `dotlegendgraph.h` File Reference
+# `dotlegendgraph.h` File
 
 
 

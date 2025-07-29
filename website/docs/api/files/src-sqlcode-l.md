@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `sqlcode.l` File Reference
+# `sqlcode.l` File
 
 
 

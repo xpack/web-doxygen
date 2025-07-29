@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `StyleData` Struct Reference
+# `StyleData` Struct
 
 
 

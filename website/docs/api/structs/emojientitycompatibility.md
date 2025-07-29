@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `emojiEntityCompatibility` Struct Reference
+# `emojiEntityCompatibility` Struct
 
 
 

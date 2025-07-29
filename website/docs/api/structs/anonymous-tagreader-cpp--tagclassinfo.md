@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagClassInfo` Struct Reference
+# `TagClassInfo` Struct
 
 <p>Container for class specific info that can be read from a tagfile. <a href="#details">More...</a></p>
 

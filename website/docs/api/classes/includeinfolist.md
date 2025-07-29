@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `IncludeInfoList` Class Reference
+# `IncludeInfoList` Class
 
 
 

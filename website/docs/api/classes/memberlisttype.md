@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberListType` Class Reference
+# `MemberListType` Class
 
 <p>Wrapper class for the <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type. <a href="#details">More...</a></p>
 

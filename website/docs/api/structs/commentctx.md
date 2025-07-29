@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `CommentCtx` Struct Reference
+# `CommentCtx` Struct
 
 
 

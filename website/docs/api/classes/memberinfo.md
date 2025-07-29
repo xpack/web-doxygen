@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MemberInfo` Class Reference
+# `MemberInfo` Class
 
 <p>Data associated with a <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> in an inheritance relation. <a href="#details">More...</a></p>
 

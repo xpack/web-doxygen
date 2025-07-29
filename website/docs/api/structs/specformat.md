@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `SpecFormat` Struct Reference
+# `SpecFormat` Struct
 
 
 

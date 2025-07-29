@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TagCompoundInfo` Struct Reference
+# `TagCompoundInfo` Struct
 
 <p>Base class for all compound types. <a href="#details">More...</a></p>
 

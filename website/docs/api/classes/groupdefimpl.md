@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `GroupDefImpl` Class Reference
+# `GroupDefImpl` Class
 
 
 

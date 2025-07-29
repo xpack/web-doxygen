@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ModuleMemberHighlight` Namespace Reference
+# `ModuleMemberHighlight` Namespace
 
 
 

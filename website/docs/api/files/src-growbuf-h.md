@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `growbuf.h` File Reference
+# `growbuf.h` File
 
 
 

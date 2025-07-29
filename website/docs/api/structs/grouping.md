@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Grouping` Struct Reference
+# `Grouping` Struct
 
 <p><a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info. <a href="#details">More...</a></p>
 

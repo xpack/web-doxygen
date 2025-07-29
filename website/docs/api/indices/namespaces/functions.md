@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Namespaces Functions Index
+title: Namespaces Functions Index
 slug: /api/indices/namespaces/functions
 custom_edit_url: null
 keywords:

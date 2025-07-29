@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FindFileCacheElem` Struct Reference
+# `FindFileCacheElem` Struct
 
 <p><a href="/web-doxygen/docs/api/classes/cache">Cache</a> element for the file name to <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> mapping cache. <a href="#details">More...</a></p>
 

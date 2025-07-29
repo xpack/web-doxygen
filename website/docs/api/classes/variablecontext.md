@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VariableContext` Class Reference
+# `VariableContext` Class
 
 
 

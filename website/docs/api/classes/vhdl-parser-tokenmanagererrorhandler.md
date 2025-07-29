@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TokenManagerErrorHandler` Class Reference
+# `TokenManagerErrorHandler` Class
 
 
 

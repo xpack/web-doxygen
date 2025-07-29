@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ClassDef` Class Reference
+# `ClassDef` Class
 
 <p>A abstract class representing of a compound symbol. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocbookGenerator` Class Reference
+# `DocbookGenerator` Class
 
 
 

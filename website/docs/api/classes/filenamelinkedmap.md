@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FileNameLinkedMap` Class Reference
+# `FileNameLinkedMap` Class
 
 <p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects. <a href="#details">More...</a></p>
 

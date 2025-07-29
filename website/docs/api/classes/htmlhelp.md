@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `HtmlHelp` Class Reference
+# `HtmlHelp` Class
 
 <p>A class that generated the HTML Help specific files. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `mandocvisitor.h` File Reference
+# `mandocvisitor.h` File
 
 
 

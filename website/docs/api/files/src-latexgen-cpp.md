@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `latexgen.cpp` File Reference
+# `latexgen.cpp` File
 
 
 

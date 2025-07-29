@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DotClassGraph` Class Reference
+# `DotClassGraph` Class
 
 <p>Representation of a class inheritance or dependency graph. <a href="#details">More...</a></p>
 

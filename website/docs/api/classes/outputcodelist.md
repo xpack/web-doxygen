@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `OutputCodeList` Class Reference
+# `OutputCodeList` Class
 
 <p>Class representing a list of different code generators. <a href="#details">More...</a></p>
 

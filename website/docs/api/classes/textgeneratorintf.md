@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `TextGeneratorIntf` Class Reference
+# `TextGeneratorIntf` Class
 
 <p>Abstract interface for a hyperlinked text fragment. <a href="#details">More...</a></p>
 

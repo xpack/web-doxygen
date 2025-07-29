@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Mapper` Class Template Reference
+# `Mapper` Class Template
 
 <p>Class representing a mapping from command names to command IDs. <a href="#details">More...</a></p>
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `Mappers` Namespace Reference
+# `Mappers` Namespace
 
 <p>Namespace for the doxygen and HTML command mappers. <a href="#details">More...</a></p>
 

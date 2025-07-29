@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `entry.h` File Reference
+# `entry.h` File
 
 
 

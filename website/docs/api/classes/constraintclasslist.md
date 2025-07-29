@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConstraintClassList` Class Reference
+# `ConstraintClassList` Class
 
 
 

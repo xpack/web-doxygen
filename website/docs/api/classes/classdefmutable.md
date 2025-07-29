@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ClassDefMutable` Class Reference
+# `ClassDefMutable` Class
 
 
 

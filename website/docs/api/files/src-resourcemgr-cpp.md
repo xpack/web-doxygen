@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `resourcemgr.cpp` File Reference
+# `resourcemgr.cpp` File
 
 
 

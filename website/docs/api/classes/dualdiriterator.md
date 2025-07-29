@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DualDirIterator` Class Template Reference
+# `DualDirIterator` Class Template
 
 <p>helper class representing an iterator that can iterate forwards or backwards <a href="#details">More...</a></p>
 

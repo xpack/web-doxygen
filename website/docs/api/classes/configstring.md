@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigString` Class Reference
+# `ConfigString` Class
 
 <p>Class representing a string type option. <a href="#details">More...</a></p>
 

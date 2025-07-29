@@ -3,7 +3,7 @@
 # DO NOT EDIT!
 # Automatically generated via doxygen2docusaurus by Doxygen.
 
-title: The Files Definitions Index
+title: Files Definitions Index
 slug: /api/indices/files/all
 custom_edit_url: null
 keywords:

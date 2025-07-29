@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `ConfigInt` Class Reference
+# `ConfigInt` Class
 
 <p>Class representing an integer type option. <a href="#details">More...</a></p>
 

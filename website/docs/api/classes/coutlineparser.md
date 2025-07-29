@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `COutlineParser` Class Reference
+# `COutlineParser` Class
 
 <p>C-like language parser using state-based lexical scanning. <a href="#details">More...</a></p>
 

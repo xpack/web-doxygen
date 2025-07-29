@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `AlphaIndexTableCell` Class Reference
+# `AlphaIndexTableCell` Class
 
 <p>Class representing a cell in the alphabetical class index. <a href="#details">More...</a></p>
 

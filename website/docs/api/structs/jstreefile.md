@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `JSTreeFile` Struct Reference
+# `JSTreeFile` Struct
 
 
 

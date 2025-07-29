@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `MarkdownOutlineParser` Class Reference
+# `MarkdownOutlineParser` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `tooltip.h` File Reference
+# `tooltip.h` File
 
 
 

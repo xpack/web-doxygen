@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `FmhlInfo` Struct Reference
+# `FmhlInfo` Struct
 
 <p>Helper class representing a file member in the navigation menu. <a href="#details">More...</a></p>
 

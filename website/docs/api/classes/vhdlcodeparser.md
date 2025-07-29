@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `VHDLCodeParser` Class Reference
+# `VHDLCodeParser` Class
 
 
 

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `htmlhelp.h` File Reference
+# `htmlhelp.h` File
 
 
 

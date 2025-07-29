@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-# The `DocDiagramFileBase` Class Reference
+# `DocDiagramFileBase` Class
 
 
 
