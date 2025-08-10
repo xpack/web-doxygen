@@ -5,7 +5,7 @@
       "baseUrl": "/web-doxygen/",
       "apiBaseUrl": "",
       "sidebarCategoryLabel": "Manual",
-      "menuDropdownLabel": "Manual",
+      "navbarLabel": "Manual",
       "mainPageTitle": "The Documentation Generator",
       "verbose": false,
       "debug": false
@@ -16,7 +16,7 @@
       "baseUrl": "/web-doxygen/",
       "apiBaseUrl": "api",
       "sidebarCategoryLabel": "Doxygen Internals",
-      "menuDropdownLabel": "Internals",
+      "navbarLabel": "Internals",
       "mainPageTitle": "Doxygen Internals",
       "renderProgramListing": false,
       "renderProgramListingInline": true,
